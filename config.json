@@ -1,5 +1,6 @@
 {
     "start_year": 2020,
     "end_year": 2023,
-    "glossary_link": "https://www.pro-football-reference.com/about/glossary.htm"
+    "glossary_link": "https://www.pro-football-reference.com/about/glossary.htm",
+    "data_folder": "./data"
 }
