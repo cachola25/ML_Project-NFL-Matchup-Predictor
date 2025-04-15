@@ -1,0 +1,535 @@
+season,event_date,nano,market,name,alias,rush_att,rush_yds,rush_tds,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_tds,pass_int,passer_rating,net_pass_yds,total_yds,times_sacked,yds_sacked_for,fumbles,fumbles_lost,turnovers,penalties,penalty_yds,first_downs,third_down_conv,third_down_att,third_down_conv_pct,fourth_down_conv,fourth_down_att,fourth_down_conv_pct,time_of_possession,boxscore_stats_link
+2018,2018-09-06,mLspw4gJNTQGN,Atlanta,Falcons,ATL,18,74,1,21,43,,251,0,1,57.413,225,299,4,26,1,0,1,15,135,16,4,15,0.267,0,1,0.0,1670,https://www.pro-football-reference.com/boxscores/201809060phi.htm
+2018,2018-09-06,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,27,113,2,20,35,,132,0,1,53.512,119,232,2,13,2,1,2,11,101,18,8,16,0.5,0,0,0.0,1930,https://www.pro-football-reference.com/boxscores/201809060phi.htm
+2018,2018-09-09,3VqeLK0LS9rpw,Buffalo,Bills,BUF,22,83,0,11,33,,98,0,2,17.109,70,153,6,28,1,0,2,10,100,10,2,15,0.133,0,1,0.0,1486,https://www.pro-football-reference.com/boxscores/201809090rav.htm
+2018,2018-09-09,zyhFXj1nywrm1,Baltimore,Ravens,BAL,34,117,3,26,38,,260,3,0,113.925,252,369,2,8,4,1,1,9,78,26,6,14,0.429,0,0,0.0,2114,https://www.pro-football-reference.com/boxscores/201809090rav.htm
+2018,2018-09-09,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,20,101,1,21,28,,243,2,1,109.673,229,330,2,14,2,1,2,8,94,19,4,8,0.5,0,0,0.0,1632,https://www.pro-football-reference.com/boxscores/201809090clt.htm
+2018,2018-09-09,LJmHetie5VbbO,Indianapolis,Colts,IND,22,75,0,39,53,,319,2,1,93.2,305,380,2,14,1,1,2,7,91,24,11,17,0.647,0,0,0.0,1968,https://www.pro-football-reference.com/boxscores/201809090clt.htm
+2018,2018-09-09,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,35,159,2,23,41,,335,1,3,60.518,313,472,4,22,3,3,6,12,116,25,7,15,0.467,0,0,0.0,2112,https://www.pro-football-reference.com/boxscores/201809090cle.htm
+2018,2018-09-09,IR4gIYmh269EI,Cleveland,Browns,CLE,38,177,2,15,40,,197,1,1,51.771,150,327,7,47,1,0,1,11,87,22,5,18,0.278,0,1,0.0,2088,https://www.pro-football-reference.com/boxscores/201809090cle.htm
+2018,2018-09-09,UI0Ax4HUEXFh6,Houston,Texans,HOU,34,167,1,17,34,,176,1,1,62.868,158,325,3,18,1,1,2,6,44,21,2,11,0.182,0,1,0.0,1730,https://www.pro-football-reference.com/boxscores/201809090nwe.htm
+2018,2018-09-09,VkxV91RtzHn65,New England,Patriots,NE,31,122,0,26,39,,277,3,1,102.19,267,389,2,10,3,2,3,6,36,23,4,14,0.286,1,1,1.0,1870,https://www.pro-football-reference.com/boxscores/201809090nwe.htm
+2018,2018-09-09,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,28,137,0,18,33,,176,1,1,67.235,168,305,1,8,0,0,1,11,119,17,4,13,0.308,0,0,0.0,1771,https://www.pro-football-reference.com/boxscores/201809090nyg.htm
+2018,2018-09-09,n8CuHV9wbYCqF,New York,Giants,NYG,23,114,1,23,37,,224,0,1,67.849,210,324,2,14,1,1,2,6,43,15,4,13,0.308,0,2,0.0,1829,https://www.pro-football-reference.com/boxscores/201809090nyg.htm
+2018,2018-09-09,ltMyRE3yvVUaw,Tennessee,Titans,TEN,29,116,1,20,38,,220,0,3,37.171,220,336,0,0,0,0,3,5,48,19,6,14,0.429,0,2,0.0,1775,https://www.pro-football-reference.com/boxscores/201809090mia.htm
+2018,2018-09-09,mfbu6O5aMHbJg,Miami,Dolphins,MIA,29,120,0,20,28,,230,2,2,89.881,222,342,1,8,0,0,2,7,51,18,2,10,0.2,0,1,0.0,1825,https://www.pro-football-reference.com/boxscores/201809090mia.htm
+2018,2018-09-09,IwSI92ZDKoazn,San Francisco,49ers,SF,25,90,0,15,33,,261,1,3,45.139,237,327,3,24,3,1,4,3,21,20,5,13,0.385,0,0,0.0,1731,https://www.pro-football-reference.com/boxscores/201809090min.htm
+2018,2018-09-09,AzOs5UWsXusSW,Minnesota,Vikings,MIN,32,116,0,20,36,,244,2,0,95.139,227,343,3,17,1,1,1,7,52,19,7,17,0.412,0,1,0.0,1869,https://www.pro-football-reference.com/boxscores/201809090min.htm
+2018,2018-09-09,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,34,112,1,21,28,,417,4,0,156.25,417,529,0,0,1,0,0,7,70,26,8,13,0.615,0,0,0.0,1929,https://www.pro-football-reference.com/boxscores/201809090nor.htm
+2018,2018-09-09,CI5mhfNa0Zqd2,New Orleans,Saints,NO,13,43,2,37,45,,439,3,0,129.537,432,475,1,7,2,2,2,8,77,26,4,9,0.444,1,1,1.0,1671,https://www.pro-football-reference.com/boxscores/201809090nor.htm
+2018,2018-09-09,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,27,106,0,15,27,,256,4,0,127.469,256,362,1,0,0,0,0,6,50,19,4,10,0.4,0,0,0.0,1534,https://www.pro-football-reference.com/boxscores/201809090sdg.htm
+2018,2018-09-09,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,22,123,0,34,51,,424,3,1,103.717,418,541,1,6,2,1,2,7,45,33,3,11,0.273,1,1,1.0,2066,https://www.pro-football-reference.com/boxscores/201809090sdg.htm
+2018,2018-09-09,KdjU81i7YSFE7,Dallas,Cowboys,DAL,22,94,1,19,29,,170,0,0,81.106,138,232,6,32,1,1,1,10,85,17,2,11,0.182,0,1,0.0,1764,https://www.pro-football-reference.com/boxscores/201809090car.htm
+2018,2018-09-09,jJBGuksuDJF5L,Carolina,Panthers,CAR,32,147,2,17,26,,161,0,0,82.372,146,293,3,15,2,1,1,9,80,20,4,12,0.333,0,0,0.0,1836,https://www.pro-football-reference.com/boxscores/201809090car.htm
+2018,2018-09-09,9JtBk8kFeaGEs,Washington,Football Team,WAS,42,182,1,21,30,,255,2,0,118.056,247,429,3,8,3,1,1,9,63,30,6,13,0.462,1,1,1.0,2288,https://www.pro-football-reference.com/boxscores/201809090crd.htm
+2018,2018-09-09,GJizlkzQFaqGA,Arizona,Cardinals,ARI,15,68,1,20,34,,153,0,1,57.598,145,213,2,8,1,1,2,9,67,14,1,8,0.125,0,1,0.0,1312,https://www.pro-football-reference.com/boxscores/201809090crd.htm
+2018,2018-09-09,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,16,64,0,19,33,,298,3,2,92.74,242,306,6,56,3,1,3,7,45,13,2,12,0.167,0,0,0.0,1492,https://www.pro-football-reference.com/boxscores/201809090den.htm
+2018,2018-09-09,6DclFuycdPaOB,Denver,Broncos,DEN,32,146,0,25,39,,329,3,3,84.241,324,470,1,5,0,0,3,7,60,25,4,12,0.333,0,0,0.0,2108,https://www.pro-football-reference.com/boxscores/201809090den.htm
+2018,2018-09-09,1vVmWGzUZ1rea,Chicago,Bears,CHI,27,139,1,23,35,,171,0,0,77.202,155,294,4,16,2,1,1,5,35,18,7,17,0.412,0,2,0.0,2002,https://www.pro-football-reference.com/boxscores/201809090gnb.htm
+2018,2018-09-09,D5QY6bOxfn8ZL,Green Bay,Packers,GB,18,69,0,24,37,,341,3,1,110.304,301,370,4,40,2,1,2,8,72,16,5,13,0.385,0,1,0.0,1598,https://www.pro-football-reference.com/boxscores/201809090gnb.htm
+2018,2018-09-10,mexvMWO2v1hWn,New York,Jets,NYJ,36,169,2,16,21,,198,2,1,116.766,180,349,2,18,1,1,2,7,49,18,6,14,0.429,2,3,0.667,1987,https://www.pro-football-reference.com/boxscores/201809100det.htm
+2018,2018-09-10,FCuH1wdksA2DQ,Detroit,Lions,DET,15,39,0,29,52,,300,1,5,39.423,300,339,0,0,0,0,5,3,15,20,3,13,0.231,0,2,0.0,1613,https://www.pro-football-reference.com/boxscores/201809100det.htm
+2018,2018-09-10,u98I1lDKQBwZ0,Los Angeles,Rams,LA,26,140,0,18,33,,233,2,0,97.159,225,365,1,8,1,0,0,8,70,23,4,11,0.364,0,0,0.0,1709,https://www.pro-football-reference.com/boxscores/201809100rai.htm
+2018,2018-09-10,LZoDld8s63xUs,Las Vegas,Raiders,LV,23,95,1,29,40,,303,0,3,62.812,300,395,1,3,0,0,3,11,155,20,5,11,0.455,0,0,0.0,1891,https://www.pro-football-reference.com/boxscores/201809100rai.htm
+2018,2018-09-13,zyhFXj1nywrm1,Baltimore,Ravens,BAL,22,66,1,32,55,,376,2,2,76.023,359,425,4,17,2,1,3,7,51,28,7,16,0.438,2,4,0.5,1690,https://www.pro-football-reference.com/boxscores/201809130cin.htm
+2018,2018-09-13,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,28,108,0,24,42,,265,4,0,107.738,265,373,0,0,1,0,0,9,92,24,5,13,0.385,0,0,0.0,1910,https://www.pro-football-reference.com/boxscores/201809130cin.htm
+2018,2018-09-16,jJBGuksuDJF5L,Carolina,Panthers,CAR,18,121,0,32,45,,335,3,1,105.324,318,439,2,17,0,0,1,7,49,27,5,11,0.455,1,1,1.0,1818,https://www.pro-football-reference.com/boxscores/201809160atl.htm
+2018,2018-09-16,mLspw4gJNTQGN,Atlanta,Falcons,ATL,32,170,2,23,28,,272,2,1,116.071,272,442,0,0,3,0,1,2,26,23,6,11,0.545,0,0,0.0,1782,https://www.pro-football-reference.com/boxscores/201809160atl.htm
+2018,2018-09-16,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,26,109,1,23,27,,256,3,0,143.21,240,349,2,16,2,0,0,6,45,21,3,9,0.333,0,0,0.0,1982,https://www.pro-football-reference.com/boxscores/201809160buf.htm
+2018,2018-09-16,3VqeLK0LS9rpw,Buffalo,Bills,BUF,22,84,1,18,33,,245,1,2,63.321,209,293,5,36,1,0,2,6,31,17,5,14,0.357,0,0,0.0,1618,https://www.pro-football-reference.com/boxscores/201809160buf.htm
+2018,2018-09-16,IR4gIYmh269EI,Cleveland,Browns,CLE,27,93,1,22,30,,246,1,1,94.583,234,327,3,12,3,0,1,4,43,16,4,12,0.333,1,2,0.5,1639,https://www.pro-football-reference.com/boxscores/201809160nor.htm
+2018,2018-09-16,CI5mhfNa0Zqd2,New Orleans,Saints,NO,23,62,0,28,35,,243,2,0,114.643,213,275,3,30,2,2,2,4,53,18,3,12,0.25,0,0,0.0,1961,https://www.pro-football-reference.com/boxscores/201809160nor.htm
+2018,2018-09-16,LJmHetie5VbbO,Indianapolis,Colts,IND,28,104,1,21,31,,179,2,2,77.218,177,281,1,2,1,0,2,6,26,17,9,16,0.562,0,0,0.0,1600,https://www.pro-football-reference.com/boxscores/201809160was.htm
+2018,2018-09-16,9JtBk8kFeaGEs,Washington,Football Team,WAS,22,65,0,33,46,,292,0,0,88.315,269,334,3,23,2,1,1,7,90,20,5,15,0.333,1,2,0.5,2000,https://www.pro-football-reference.com/boxscores/201809160was.htm
+2018,2018-09-16,AzOs5UWsXusSW,Minnesota,Vikings,MIN,18,68,0,35,48,,425,4,1,118.837,412,480,2,13,0,0,1,8,70,24,7,14,0.5,0,0,0.0,1912,https://www.pro-football-reference.com/boxscores/201809160gnb.htm
+2018,2018-09-16,D5QY6bOxfn8ZL,Green Bay,Packers,GB,24,98,0,30,42,,281,1,0,97.421,253,351,4,28,2,0,0,7,54,24,4,13,0.308,0,0,0.0,2288,https://www.pro-football-reference.com/boxscores/201809160gnb.htm
+2018,2018-09-16,UI0Ax4HUEXFh6,Houston,Texans,HOU,26,148,0,22,32,,310,2,1,107.552,289,437,4,21,2,0,1,11,88,21,5,11,0.455,0,0,0.0,1778,https://www.pro-football-reference.com/boxscores/201809160oti.htm
+2018,2018-09-16,ltMyRE3yvVUaw,Tennessee,Titans,TEN,34,100,0,15,22,,191,2,0,125.379,183,283,1,8,1,0,0,8,70,15,5,15,0.333,2,2,1.0,1822,https://www.pro-football-reference.com/boxscores/201809160oti.htm
+2018,2018-09-16,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,25,127,0,23,28,,326,6,0,154.762,322,449,1,4,3,1,1,12,76,24,2,5,0.4,0,0,0.0,1669,https://www.pro-football-reference.com/boxscores/201809160pit.htm
+2018,2018-09-16,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,13,33,2,39,60,,452,3,0,104.306,442,475,1,10,1,0,0,12,90,33,3,11,0.273,2,2,1.0,1931,https://www.pro-football-reference.com/boxscores/201809160pit.htm
+2018,2018-09-16,mfbu6O5aMHbJg,Miami,Dolphins,MIA,31,135,1,17,23,,168,2,0,123.098,122,257,4,46,3,2,2,2,10,18,6,13,0.462,0,0,0.0,1705,https://www.pro-football-reference.com/boxscores/201809160nyj.htm
+2018,2018-09-16,mexvMWO2v1hWn,New York,Jets,NYJ,19,42,0,25,41,,334,1,2,74.644,320,362,3,14,4,1,3,7,50,21,3,10,0.3,0,0,0.0,1895,https://www.pro-football-reference.com/boxscores/201809160nyj.htm
+2018,2018-09-16,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,24,91,2,35,48,,334,1,0,98.785,321,412,3,13,2,2,2,6,55,24,5,15,0.333,3,5,0.6,2139,https://www.pro-football-reference.com/boxscores/201809160tam.htm
+2018,2018-09-16,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,23,43,0,27,33,,402,4,1,144.381,393,436,2,9,1,1,2,4,44,18,4,10,0.4,0,0,0.0,1461,https://www.pro-football-reference.com/boxscores/201809160tam.htm
+2018,2018-09-16,GJizlkzQFaqGA,Arizona,Cardinals,ARI,15,54,0,17,27,,90,0,1,53.009,83,137,1,7,0,0,1,9,47,5,3,12,0.25,1,1,1.0,1552,https://www.pro-football-reference.com/boxscores/201809160ram.htm
+2018,2018-09-16,u98I1lDKQBwZ0,Los Angeles,Rams,LA,33,90,3,24,32,,354,1,1,108.073,342,432,2,12,0,0,1,5,49,24,8,15,0.533,1,3,0.333,2048,https://www.pro-football-reference.com/boxscores/201809160ram.htm
+2018,2018-09-16,FCuH1wdksA2DQ,Detroit,Lions,DET,18,98,0,34,53,,347,3,0,101.69,329,427,2,18,1,1,1,10,105,25,7,16,0.438,0,1,0.0,1826,https://www.pro-football-reference.com/boxscores/201809160sfo.htm
+2018,2018-09-16,IwSI92ZDKoazn,San Francisco,49ers,SF,28,190,1,18,26,,206,2,0,118.429,156,346,6,50,1,0,0,9,86,23,3,11,0.273,0,0,0.0,1774,https://www.pro-football-reference.com/boxscores/201809160sfo.htm
+2018,2018-09-16,LZoDld8s63xUs,Las Vegas,Raiders,LV,27,92,1,29,32,,288,1,0,114.583,281,373,1,7,0,0,0,4,30,21,3,10,0.3,0,1,0.0,1976,https://www.pro-football-reference.com/boxscores/201809160den.htm
+2018,2018-09-16,6DclFuycdPaOB,Denver,Broncos,DEN,28,168,2,19,35,,222,0,1,61.845,217,385,1,5,0,0,1,6,35,20,8,16,0.5,1,1,1.0,1624,https://www.pro-football-reference.com/boxscores/201809160den.htm
+2018,2018-09-16,VkxV91RtzHn65,New England,Patriots,NE,24,82,0,24,35,,234,2,0,106.131,220,302,2,14,1,1,1,2,25,18,4,12,0.333,0,0,0.0,1754,https://www.pro-football-reference.com/boxscores/201809160jax.htm
+2018,2018-09-16,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,24,104,0,29,45,,376,4,1,110.972,376,480,0,0,2,1,2,7,71,27,10,14,0.714,0,0,0.0,1846,https://www.pro-football-reference.com/boxscores/201809160jax.htm
+2018,2018-09-16,n8CuHV9wbYCqF,New York,Giants,NYG,17,35,0,33,44,,279,1,0,98.58,220,255,6,59,1,1,1,3,24,17,8,17,0.471,2,2,1.0,1932,https://www.pro-football-reference.com/boxscores/201809160dal.htm
+2018,2018-09-16,KdjU81i7YSFE7,Dallas,Cowboys,DAL,25,138,1,16,25,,160,1,0,95.417,160,298,0,0,1,0,0,6,47,16,3,10,0.3,1,1,1.0,1668,https://www.pro-football-reference.com/boxscores/201809160dal.htm
+2018,2018-09-17,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,22,74,0,22,36,,226,2,1,86.111,202,276,6,24,3,1,2,5,37,17,5,13,0.385,0,0,0.0,1536,https://www.pro-football-reference.com/boxscores/201809170chi.htm
+2018,2018-09-17,1vVmWGzUZ1rea,Chicago,Bears,CHI,27,86,0,25,34,,200,2,2,82.966,185,271,2,15,0,0,2,7,55,20,5,12,0.417,1,1,1.0,2064,https://www.pro-football-reference.com/boxscores/201809170chi.htm
+2018,2018-09-20,mexvMWO2v1hWn,New York,Jets,NYJ,30,107,2,15,31,,169,0,2,38.239,161,268,2,8,2,1,3,6,55,14,6,15,0.4,1,1,1.0,1748,https://www.pro-football-reference.com/boxscores/201809200cle.htm
+2018,2018-09-20,IR4gIYmh269EI,Cleveland,Browns,CLE,33,133,2,21,37,,220,0,0,74.155,190,323,4,30,2,0,0,5,41,20,7,18,0.389,0,0,0.0,1852,https://www.pro-football-reference.com/boxscores/201809200cle.htm
+2018,2018-09-23,CI5mhfNa0Zqd2,New Orleans,Saints,NO,27,143,2,39,49,,396,3,0,120.748,391,534,1,5,1,0,0,11,120,32,7,14,0.5,1,1,1.0,2265,https://www.pro-football-reference.com/boxscores/201809230atl.htm
+2018,2018-09-23,mLspw4gJNTQGN,Atlanta,Falcons,ATL,22,48,0,26,35,,374,5,0,148.095,359,407,3,15,0,0,0,5,54,24,4,11,0.364,0,0,0.0,1760,https://www.pro-football-reference.com/boxscores/201809230atl.htm
+2018,2018-09-23,3VqeLK0LS9rpw,Buffalo,Bills,BUF,38,128,2,15,22,,196,1,0,111.174,164,292,3,32,3,0,0,12,84,16,4,13,0.308,1,1,1.0,2145,https://www.pro-football-reference.com/boxscores/201809230min.htm
+2018,2018-09-23,AzOs5UWsXusSW,Minnesota,Vikings,MIN,6,14,0,40,55,,296,1,1,83.598,278,292,4,18,4,2,3,6,59,21,5,14,0.357,0,1,0.0,1455,https://www.pro-football-reference.com/boxscores/201809230min.htm
+2018,2018-09-23,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,13,66,1,29,46,,352,2,4,64.764,330,396,2,22,0,0,4,4,36,25,4,10,0.4,0,0,0.0,1565,https://www.pro-football-reference.com/boxscores/201809230car.htm
+2018,2018-09-23,jJBGuksuDJF5L,Carolina,Panthers,CAR,41,230,2,15,24,,150,2,0,107.986,147,377,1,3,1,0,0,3,17,23,6,13,0.462,0,1,0.0,2035,https://www.pro-football-reference.com/boxscores/201809230car.htm
+2018,2018-09-23,LJmHetie5VbbO,Indianapolis,Colts,IND,13,68,0,25,41,,164,1,0,77.693,141,209,2,23,0,0,0,11,77,14,2,12,0.167,1,2,0.5,1188,https://www.pro-football-reference.com/boxscores/201809230phi.htm
+2018,2018-09-23,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,35,152,1,25,37,,255,1,1,84.854,227,379,5,28,4,1,2,10,110,26,6,14,0.429,0,0,0.0,2412,https://www.pro-football-reference.com/boxscores/201809230phi.htm
+2018,2018-09-23,6DclFuycdPaOB,Denver,Broncos,DEN,24,120,2,22,34,,192,0,1,67.279,173,293,3,19,1,0,1,13,120,18,6,14,0.429,0,1,0.0,1786,https://www.pro-football-reference.com/boxscores/201809230rav.htm
+2018,2018-09-23,zyhFXj1nywrm1,Baltimore,Ravens,BAL,28,77,2,25,40,,277,1,0,91.354,265,342,2,12,1,0,0,7,52,20,8,16,0.5,0,0,0.0,1814,https://www.pro-football-reference.com/boxscores/201809230rav.htm
+2018,2018-09-23,D5QY6bOxfn8ZL,Green Bay,Packers,GB,17,100,0,27,45,,265,2,0,91.435,240,340,4,25,2,1,1,11,115,19,6,14,0.429,0,2,0.0,1855,https://www.pro-football-reference.com/boxscores/201809230was.htm
+2018,2018-09-23,9JtBk8kFeaGEs,Washington,Football Team,WAS,35,166,2,12,20,,220,2,1,110.417,220,386,0,0,0,0,1,6,66,20,5,11,0.455,0,0,0.0,1745,https://www.pro-football-reference.com/boxscores/201809230was.htm
+2018,2018-09-23,n8CuHV9wbYCqF,New York,Giants,NYG,27,114,1,25,29,,297,2,0,132.328,265,379,4,32,2,0,0,3,20,21,7,13,0.538,0,0,0.0,2130,https://www.pro-football-reference.com/boxscores/201809230htx.htm
+2018,2018-09-23,UI0Ax4HUEXFh6,Houston,Texans,HOU,19,59,0,24,40,,385,2,1,98.438,368,427,3,17,1,1,2,7,50,21,5,12,0.417,2,2,1.0,1470,https://www.pro-football-reference.com/boxscores/201809230htx.htm
+2018,2018-09-23,ltMyRE3yvVUaw,Tennessee,Titans,TEN,35,150,0,13,21,,108,0,0,75.099,83,233,3,25,0,0,0,4,30,15,5,15,0.333,0,0,0.0,1967,https://www.pro-football-reference.com/boxscores/201809230jax.htm
+2018,2018-09-23,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,19,87,0,21,34,,155,0,0,72.549,145,232,3,10,2,1,1,8,75,12,5,14,0.357,0,1,0.0,1633,https://www.pro-football-reference.com/boxscores/201809230jax.htm
+2018,2018-09-23,IwSI92ZDKoazn,San Francisco,49ers,SF,29,178,1,20,30,,251,2,0,114.722,228,406,4,23,3,0,0,14,147,26,2,9,0.222,2,2,1.0,1799,https://www.pro-football-reference.com/boxscores/201809230kan.htm
+2018,2018-09-23,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,28,77,2,24,38,,314,3,0,115.461,307,384,2,7,2,0,0,6,48,31,7,11,0.636,1,1,1.0,1801,https://www.pro-football-reference.com/boxscores/201809230kan.htm
+2018,2018-09-23,LZoDld8s63xUs,Las Vegas,Raiders,LV,32,109,1,27,39,,345,1,2,83.814,325,434,3,20,1,0,2,8,38,25,7,13,0.538,0,1,0.0,2311,https://www.pro-football-reference.com/boxscores/201809230mia.htm
+2018,2018-09-23,mfbu6O5aMHbJg,Miami,Dolphins,MIA,14,41,0,18,24,,341,4,0,156.25,332,373,1,9,0,0,0,9,74,13,2,8,0.25,0,0,0.0,1289,https://www.pro-football-reference.com/boxscores/201809230mia.htm
+2018,2018-09-23,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,20,141,1,18,30,,226,2,0,105.694,215,356,2,11,2,2,2,4,30,16,7,13,0.538,1,2,0.5,1544,https://www.pro-football-reference.com/boxscores/201809230ram.htm
+2018,2018-09-23,u98I1lDKQBwZ0,Los Angeles,Rams,LA,35,171,1,29,36,,354,3,1,123.843,350,521,1,4,1,1,2,6,64,33,8,11,0.727,0,0,0.0,2056,https://www.pro-football-reference.com/boxscores/201809230ram.htm
+2018,2018-09-23,1vVmWGzUZ1rea,Chicago,Bears,CHI,31,122,1,24,35,,220,0,1,73.512,194,316,3,26,1,1,2,7,45,21,5,14,0.357,1,1,1.0,2181,https://www.pro-football-reference.com/boxscores/201809230crd.htm
+2018,2018-09-23,GJizlkzQFaqGA,Arizona,Cardinals,ARI,18,53,0,17,26,,193,2,3,73.558,168,221,4,25,2,1,4,6,43,13,3,10,0.3,0,1,0.0,1419,https://www.pro-football-reference.com/boxscores/201809230crd.htm
+2018,2018-09-23,KdjU81i7YSFE7,Dallas,Cowboys,DAL,19,166,0,19,34,,168,1,2,54.534,137,303,5,31,1,1,3,7,55,17,3,13,0.231,1,2,0.5,1636,https://www.pro-football-reference.com/boxscores/201809230sea.htm
+2018,2018-09-23,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,39,113,1,16,26,,192,2,0,109.776,182,295,2,10,1,0,0,10,67,18,7,16,0.438,0,0,0.0,1964,https://www.pro-football-reference.com/boxscores/201809230sea.htm
+2018,2018-09-23,VkxV91RtzHn65,New England,Patriots,NE,19,89,0,14,26,,133,1,1,65.064,120,209,2,13,0,0,1,5,38,12,2,9,0.222,0,1,0.0,1245,https://www.pro-football-reference.com/boxscores/201809230det.htm
+2018,2018-09-23,FCuH1wdksA2DQ,Detroit,Lions,DET,33,159,0,27,36,,262,2,1,101.852,255,414,1,7,1,0,1,6,70,25,7,14,0.5,0,0,0.0,2355,https://www.pro-football-reference.com/boxscores/201809230det.htm
+2018,2018-09-24,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,22,78,0,30,38,,353,3,1,120.724,335,413,3,18,1,0,1,13,155,22,3,11,0.273,0,0,0.0,1821,https://www.pro-football-reference.com/boxscores/201809240tam.htm
+2018,2018-09-24,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,16,63,0,30,50,,411,3,3,81.333,392,455,3,19,1,1,4,9,80,28,3,9,0.333,1,1,1.0,1779,https://www.pro-football-reference.com/boxscores/201809240tam.htm
+2018,2018-09-27,AzOs5UWsXusSW,Minnesota,Vikings,MIN,17,54,0,36,50,,422,3,0,117.25,392,446,4,30,1,1,1,4,35,25,8,16,0.5,2,2,1.0,1934,https://www.pro-football-reference.com/boxscores/201809270ram.htm
+2018,2018-09-27,u98I1lDKQBwZ0,Los Angeles,Rams,LA,20,100,0,26,34,,465,5,0,157.475,456,556,1,9,1,0,0,2,15,25,1,6,0.167,0,1,0.0,1666,https://www.pro-football-reference.com/boxscores/201809270ram.htm
+2018,2018-09-30,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,23,99,2,29,41,,337,3,1,109.502,308,407,3,29,0,0,1,6,55,30,7,12,0.583,2,2,1.0,1838,https://www.pro-football-reference.com/boxscores/201809300atl.htm
+2018,2018-09-30,mLspw4gJNTQGN,Atlanta,Falcons,ATL,24,92,1,29,39,,419,3,0,134.455,403,495,3,16,0,0,0,10,95,25,11,15,0.733,0,1,0.0,1762,https://www.pro-football-reference.com/boxscores/201809300atl.htm
+2018,2018-09-30,3VqeLK0LS9rpw,Buffalo,Bills,BUF,16,58,0,16,33,,151,0,2,36.301,87,145,7,64,1,1,3,3,20,11,3,16,0.188,0,0,0.0,1523,https://www.pro-football-reference.com/boxscores/201809300gnb.htm
+2018,2018-09-30,D5QY6bOxfn8ZL,Green Bay,Packers,GB,32,141,1,22,40,,298,1,1,76.875,282,423,2,16,3,1,2,5,60,22,11,19,0.579,0,1,0.0,2077,https://www.pro-football-reference.com/boxscores/201809300gnb.htm
+2018,2018-09-30,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,18,60,0,25,38,,271,1,3,62.5,251,311,4,20,1,0,3,11,99,16,3,12,0.25,2,2,1.0,1914,https://www.pro-football-reference.com/boxscores/201809300chi.htm
+2018,2018-09-30,1vVmWGzUZ1rea,Chicago,Bears,CHI,31,139,0,19,26,,354,6,0,154.647,344,483,1,10,0,0,0,4,38,28,4,8,0.5,0,0,0.0,1686,https://www.pro-football-reference.com/boxscores/201809300chi.htm
+2018,2018-09-30,UI0Ax4HUEXFh6,Houston,Texans,HOU,35,119,1,29,42,,375,2,1,102.778,347,466,7,28,0,0,1,10,54,30,8,16,0.5,1,1,1.0,2404,https://www.pro-football-reference.com/boxscores/201809300clt.htm
+2018,2018-09-30,LJmHetie5VbbO,Indianapolis,Colts,IND,17,41,0,40,62,,464,4,0,108.535,437,478,4,27,3,2,2,10,85,28,10,17,0.588,0,1,0.0,1796,https://www.pro-football-reference.com/boxscores/201809300clt.htm
+2018,2018-09-30,FCuH1wdksA2DQ,Detroit,Lions,DET,20,96,1,24,30,,307,2,0,131.528,286,382,3,21,0,0,0,8,58,18,6,11,0.545,0,0,0.0,1795,https://www.pro-football-reference.com/boxscores/201809300dal.htm
+2018,2018-09-30,KdjU81i7YSFE7,Dallas,Cowboys,DAL,35,183,0,17,27,,255,2,0,118.596,231,414,3,24,2,0,0,2,20,26,5,12,0.417,1,1,1.0,1805,https://www.pro-football-reference.com/boxscores/201809300dal.htm
+2018,2018-09-30,mexvMWO2v1hWn,New York,Jets,NYJ,14,34,0,17,34,,167,1,0,74.02,144,178,3,23,0,0,0,6,43,10,3,13,0.231,0,1,0.0,1345,https://www.pro-football-reference.com/boxscores/201809300jax.htm
+2018,2018-09-30,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,34,126,1,29,38,,388,2,1,114.803,377,503,2,11,4,2,3,9,89,23,6,15,0.4,1,1,1.0,2255,https://www.pro-football-reference.com/boxscores/201809300jax.htm
+2018,2018-09-30,mfbu6O5aMHbJg,Miami,Dolphins,MIA,18,56,0,15,25,,135,1,1,71.25,116,172,2,19,1,1,2,10,89,11,3,11,0.273,1,1,1.0,1418,https://www.pro-football-reference.com/boxscores/201809300nwe.htm
+2018,2018-09-30,VkxV91RtzHn65,New England,Patriots,NE,40,175,2,23,35,,274,3,2,94.226,274,449,0,0,0,0,2,6,57,26,10,15,0.667,0,0,0.0,2182,https://www.pro-football-reference.com/boxscores/201809300nwe.htm
+2018,2018-09-30,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,22,117,0,33,50,,348,2,0,99.417,315,432,4,33,3,1,1,8,77,25,5,15,0.333,0,0,0.0,2065,https://www.pro-football-reference.com/boxscores/201809300oti.htm
+2018,2018-09-30,ltMyRE3yvVUaw,Tennessee,Titans,TEN,22,70,1,30,43,,344,2,1,99.37,327,397,3,17,1,0,1,4,30,22,5,16,0.312,3,3,1.0,2130,https://www.pro-football-reference.com/boxscores/201809300oti.htm
+2018,2018-09-30,IR4gIYmh269EI,Cleveland,Browns,CLE,31,208,3,21,41,,295,2,2,70.681,279,487,2,16,3,2,4,8,55,21,5,15,0.333,1,1,1.0,1883,https://www.pro-football-reference.com/boxscores/201809300rai.htm
+2018,2018-09-30,LZoDld8s63xUs,Las Vegas,Raiders,LV,29,139,0,35,58,,437,4,2,92.385,426,565,3,11,0,0,2,6,65,27,5,16,0.312,0,1,0.0,2211,https://www.pro-football-reference.com/boxscores/201809300rai.htm
+2018,2018-09-30,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,34,171,2,19,26,,172,0,0,90.545,160,331,2,12,3,0,0,8,57,19,0,10,0.0,1,2,0.5,1906,https://www.pro-football-reference.com/boxscores/201809300crd.htm
+2018,2018-09-30,GJizlkzQFaqGA,Arizona,Cardinals,ARI,28,92,1,15,27,,180,1,0,88.503,171,263,1,9,2,1,1,5,38,18,5,12,0.417,0,0,0.0,1694,https://www.pro-football-reference.com/boxscores/201809300crd.htm
+2018,2018-09-30,CI5mhfNa0Zqd2,New Orleans,Saints,NO,32,170,3,19,34,,227,0,0,76.471,219,389,1,8,1,0,0,5,51,25,5,13,0.385,1,1,1.0,1860,https://www.pro-football-reference.com/boxscores/201809300nyg.htm
+2018,2018-09-30,n8CuHV9wbYCqF,New York,Giants,NYG,15,65,1,31,41,,255,1,0,99.136,234,299,3,21,2,2,2,6,67,22,5,10,0.5,0,0,0.0,1740,https://www.pro-football-reference.com/boxscores/201809300nyg.htm
+2018,2018-09-30,IwSI92ZDKoazn,San Francisco,49ers,SF,21,76,0,23,37,,298,2,2,82.939,288,364,1,10,2,0,2,4,29,22,5,12,0.417,0,0,0.0,1654,https://www.pro-football-reference.com/boxscores/201809300sdg.htm
+2018,2018-09-30,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,27,126,0,25,39,,250,3,1,97.169,242,368,1,8,1,0,1,5,49,21,4,14,0.286,1,1,1.0,1946,https://www.pro-football-reference.com/boxscores/201809300sdg.htm
+2018,2018-09-30,zyhFXj1nywrm1,Baltimore,Ravens,BAL,30,96,0,28,42,,363,2,0,109.524,355,451,2,8,1,1,1,7,50,24,8,17,0.471,1,1,1.0,2103,https://www.pro-football-reference.com/boxscores/201809300pit.htm
+2018,2018-09-30,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,11,19,0,27,47,,274,1,1,72.473,265,284,1,9,1,1,2,5,40,14,2,12,0.167,0,1,0.0,1497,https://www.pro-football-reference.com/boxscores/201809300pit.htm
+2018,2018-10-01,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,26,142,2,28,45,,304,1,0,89.491,304,446,1,0,1,0,0,10,93,22,7,15,0.467,2,2,1.0,2102,https://www.pro-football-reference.com/boxscores/201810010den.htm
+2018,2018-10-01,6DclFuycdPaOB,Denver,Broncos,DEN,22,159,2,21,33,,245,0,1,73.422,226,385,4,19,0,0,1,3,25,21,2,11,0.182,2,3,0.667,1498,https://www.pro-football-reference.com/boxscores/201810010den.htm
+2018,2018-10-04,LJmHetie5VbbO,Indianapolis,Colts,IND,21,84,0,38,59,,365,3,2,84.357,355,439,1,10,1,1,3,4,35,26,7,15,0.467,2,3,0.667,1946,https://www.pro-football-reference.com/boxscores/201810040nwe.htm
+2018,2018-10-04,VkxV91RtzHn65,New England,Patriots,NE,23,97,2,34,44,,341,3,2,102.557,341,438,0,0,0,0,2,7,50,26,5,10,0.5,0,0,0.0,1654,https://www.pro-football-reference.com/boxscores/201810040nwe.htm
+2018,2018-10-07,n8CuHV9wbYCqF,New York,Giants,NYG,16,50,0,23,37,,383,3,2,101.52,382,432,1,1,2,1,3,8,62,18,0,7,0.0,1,2,0.5,1473,https://www.pro-football-reference.com/boxscores/201810070car.htm
+2018,2018-10-07,jJBGuksuDJF5L,Carolina,Panthers,CAR,31,118,0,21,35,,237,2,2,75.536,232,350,1,5,1,0,2,4,22,21,4,13,0.308,1,1,1.0,2127,https://www.pro-football-reference.com/boxscores/201810070car.htm
+2018,2018-10-07,mLspw4gJNTQGN,Atlanta,Falcons,ATL,19,62,1,31,45,,305,1,0,95.139,262,324,6,43,1,1,1,7,75,22,6,14,0.429,1,3,0.333,1852,https://www.pro-football-reference.com/boxscores/201810070pit.htm
+2018,2018-10-07,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,29,131,2,19,29,,250,3,1,112.716,250,381,0,0,1,0,1,7,58,22,9,12,0.75,0,0,0.0,1748,https://www.pro-football-reference.com/boxscores/201810070pit.htm
+2018,2018-10-07,ltMyRE3yvVUaw,Tennessee,Titans,TEN,25,100,0,14,26,,129,0,1,51.603,121,221,2,8,3,2,3,5,40,15,6,12,0.5,0,0,0.0,1571,https://www.pro-football-reference.com/boxscores/201810070buf.htm
+2018,2018-10-07,3VqeLK0LS9rpw,Buffalo,Bills,BUF,43,144,1,10,20,,82,0,1,40.0,79,223,1,3,0,0,1,4,30,18,4,13,0.308,2,3,0.667,2029,https://www.pro-football-reference.com/boxscores/201810070buf.htm
+2018,2018-10-07,mfbu6O5aMHbJg,Miami,Dolphins,MIA,22,128,0,20,35,,185,1,2,57.44,169,297,3,16,1,1,3,9,85,17,4,13,0.308,1,1,1.0,1765,https://www.pro-football-reference.com/boxscores/201810070cin.htm
+2018,2018-10-07,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,26,103,0,20,30,,248,1,1,89.306,229,332,2,19,0,0,1,6,47,17,2,11,0.182,0,0,0.0,1835,https://www.pro-football-reference.com/boxscores/201810070cin.htm
+2018,2018-10-07,zyhFXj1nywrm1,Baltimore,Ravens,BAL,25,116,0,29,57,,298,0,1,58.955,294,410,2,4,2,1,2,4,41,25,4,16,0.25,1,1,1.0,2022,https://www.pro-football-reference.com/boxscores/201810070cle.htm
+2018,2018-10-07,IR4gIYmh269EI,Cleveland,Browns,CLE,28,112,0,25,43,,342,1,1,81.734,304,416,5,38,1,0,1,10,66,20,6,19,0.316,0,1,0.0,2176,https://www.pro-football-reference.com/boxscores/201810070cle.htm
+2018,2018-10-07,6DclFuycdPaOB,Denver,Broncos,DEN,17,92,0,35,51,,377,2,1,94.975,344,436,4,33,2,0,1,6,45,26,4,14,0.286,0,1,0.0,1866,https://www.pro-football-reference.com/boxscores/201810070nyj.htm
+2018,2018-10-07,mexvMWO2v1hWn,New York,Jets,NYJ,38,323,1,10,22,,198,3,1,98.106,189,512,1,9,1,1,2,4,33,18,6,13,0.462,0,0,0.0,1734,https://www.pro-football-reference.com/boxscores/201810070nyj.htm
+2018,2018-10-07,D5QY6bOxfn8ZL,Green Bay,Packers,GB,20,98,0,32,52,,442,3,0,108.013,423,521,4,19,3,3,3,12,112,30,3,10,0.3,2,2,1.0,2000,https://www.pro-football-reference.com/boxscores/201810070det.htm
+2018,2018-10-07,FCuH1wdksA2DQ,Detroit,Lions,DET,28,94,2,14,26,,183,2,0,101.923,170,264,3,13,0,0,0,8,71,18,5,13,0.385,0,0,0.0,1600,https://www.pro-football-reference.com/boxscores/201810070det.htm
+2018,2018-10-07,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,17,101,1,33,61,,430,1,4,54.679,401,502,5,29,1,1,5,5,45,29,7,16,0.438,3,5,0.6,1637,https://www.pro-football-reference.com/boxscores/201810070kan.htm
+2018,2018-10-07,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,30,126,2,22,38,,313,0,2,62.719,298,424,1,15,0,0,2,11,105,26,4,12,0.333,0,0,0.0,1963,https://www.pro-football-reference.com/boxscores/201810070kan.htm
+2018,2018-10-07,LZoDld8s63xUs,Las Vegas,Raiders,LV,13,41,0,24,33,,268,1,1,94.003,248,289,3,20,1,1,2,7,55,14,4,11,0.364,1,1,1.0,1520,https://www.pro-football-reference.com/boxscores/201810070sdg.htm
+2018,2018-10-07,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,31,79,1,22,27,,339,2,0,143.441,333,412,1,6,0,0,0,9,82,19,7,13,0.538,0,0,0.0,2080,https://www.pro-football-reference.com/boxscores/201810070sdg.htm
+2018,2018-10-07,GJizlkzQFaqGA,Arizona,Cardinals,ARI,23,56,2,10,25,,170,1,0,77.083,164,220,1,6,1,0,0,5,46,10,2,12,0.167,0,0,0.0,1188,https://www.pro-football-reference.com/boxscores/201810070sfo.htm
+2018,2018-10-07,IwSI92ZDKoazn,San Francisco,49ers,SF,34,147,1,34,54,,349,2,2,78.395,300,447,4,49,4,3,5,9,65,33,10,17,0.588,1,2,0.5,2412,https://www.pro-football-reference.com/boxscores/201810070sfo.htm
+2018,2018-10-07,AzOs5UWsXusSW,Minnesota,Vikings,MIN,23,77,0,30,37,,301,1,0,109.572,298,375,1,3,2,1,1,4,23,19,4,11,0.364,0,0,0.0,1967,https://www.pro-football-reference.com/boxscores/201810070phi.htm
+2018,2018-10-07,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,17,81,0,24,35,,311,2,0,115.298,283,364,3,28,2,2,2,8,52,21,2,9,0.222,1,1,1.0,1633,https://www.pro-football-reference.com/boxscores/201810070phi.htm
+2018,2018-10-07,u98I1lDKQBwZ0,Los Angeles,Rams,LA,30,155,3,23,32,,321,1,2,88.151,313,468,1,8,2,0,2,7,45,30,3,9,0.333,1,1,1.0,1770,https://www.pro-football-reference.com/boxscores/201810070sea.htm
+2018,2018-10-07,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,32,190,1,13,21,,198,3,0,132.54,183,373,2,15,0,0,0,7,50,20,7,12,0.583,0,0,0.0,1830,https://www.pro-football-reference.com/boxscores/201810070sea.htm
+2018,2018-10-07,KdjU81i7YSFE7,Dallas,Cowboys,DAL,29,98,0,18,29,,208,1,2,66.451,194,292,2,14,0,0,2,7,72,14,4,14,0.286,1,1,1.0,1892,https://www.pro-football-reference.com/boxscores/201810070htx.htm
+2018,2018-10-07,UI0Ax4HUEXFh6,Houston,Texans,HOU,31,88,0,33,44,,375,1,1,98.201,374,462,1,1,2,1,2,5,25,25,5,15,0.333,0,1,0.0,2198,https://www.pro-football-reference.com/boxscores/201810070htx.htm
+2018,2018-10-08,9JtBk8kFeaGEs,Washington,Football Team,WAS,18,39,2,23,39,,275,0,1,69.925,244,283,3,31,1,1,2,6,38,18,4,13,0.308,2,4,0.5,1603,https://www.pro-football-reference.com/boxscores/201810080nor.htm
+2018,2018-10-08,CI5mhfNa0Zqd2,New Orleans,Saints,NO,32,98,3,26,29,,363,3,0,153.233,349,447,2,14,2,1,1,4,45,27,5,9,0.556,0,0,0.0,1997,https://www.pro-football-reference.com/boxscores/201810080nor.htm
+2018,2018-10-11,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,31,108,1,26,36,,278,3,0,122.222,271,379,1,7,3,0,0,4,25,23,9,16,0.562,0,0,0.0,1950,https://www.pro-football-reference.com/boxscores/201810110nyg.htm
+2018,2018-10-11,n8CuHV9wbYCqF,New York,Giants,NYG,17,147,1,24,43,,281,0,1,66.134,254,401,4,27,2,0,1,5,61,17,4,14,0.286,0,1,0.0,1650,https://www.pro-football-reference.com/boxscores/201810110nyg.htm
+2018,2018-10-14,jJBGuksuDJF5L,Carolina,Panthers,CAR,18,81,0,27,40,,275,2,1,93.229,269,350,1,6,3,2,3,8,55,22,3,9,0.333,0,1,0.0,1476,https://www.pro-football-reference.com/boxscores/201810140was.htm
+2018,2018-10-14,9JtBk8kFeaGEs,Washington,Football Team,WAS,28,132,0,21,36,,163,2,0,88.079,156,288,3,7,1,0,0,5,43,18,7,16,0.438,1,2,0.5,2124,https://www.pro-football-reference.com/boxscores/201810140was.htm
+2018,2018-10-14,1vVmWGzUZ1rea,Chicago,Bears,CHI,31,164,1,22,31,,316,3,1,122.513,303,467,2,13,2,2,3,6,58,23,8,12,0.667,0,1,0.0,2005,https://www.pro-football-reference.com/boxscores/201810140mia.htm
+2018,2018-10-14,mfbu6O5aMHbJg,Miami,Dolphins,MIA,31,161,0,28,44,,380,3,2,94.886,380,541,0,0,1,1,3,7,67,23,8,17,0.471,0,0,0.0,2195,https://www.pro-football-reference.com/boxscores/201810140mia.htm
+2018,2018-10-14,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,20,121,0,30,41,,395,4,2,115.396,389,510,2,6,3,0,2,4,20,30,5,8,0.625,0,0,0.0,1701,https://www.pro-football-reference.com/boxscores/201810140atl.htm
+2018,2018-10-14,mLspw4gJNTQGN,Atlanta,Falcons,ATL,22,70,1,31,41,,355,3,0,125.559,347,417,1,8,2,0,0,5,30,26,8,13,0.615,0,0,0.0,1899,https://www.pro-football-reference.com/boxscores/201810140atl.htm
+2018,2018-10-14,3VqeLK0LS9rpw,Buffalo,Bills,BUF,27,100,0,16,29,,145,1,2,51.652,129,229,2,16,2,1,3,12,104,12,6,15,0.4,0,0,0.0,1980,https://www.pro-football-reference.com/boxscores/201810140htx.htm
+2018,2018-10-14,UI0Ax4HUEXFh6,Houston,Texans,HOU,24,74,0,15,26,,177,1,2,59.295,142,216,7,35,3,1,3,6,50,15,3,13,0.231,0,0,0.0,1620,https://www.pro-football-reference.com/boxscores/201810140htx.htm
+2018,2018-10-14,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,21,112,2,32,46,,369,1,0,100.725,369,481,0,0,1,0,0,9,69,26,8,14,0.571,0,0,0.0,2096,https://www.pro-football-reference.com/boxscores/201810140cin.htm
+2018,2018-10-14,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,13,62,1,26,42,,229,2,0,92.262,213,275,3,16,0,0,0,6,30,19,6,12,0.5,0,0,0.0,1504,https://www.pro-football-reference.com/boxscores/201810140cin.htm
+2018,2018-10-14,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,36,246,3,12,21,,215,2,1,104.266,203,449,1,12,2,0,1,10,72,24,1,9,0.111,0,0,0.0,1897,https://www.pro-football-reference.com/boxscores/201810140cle.htm
+2018,2018-10-14,IR4gIYmh269EI,Cleveland,Browns,CLE,21,103,0,22,46,,238,1,2,52.627,214,317,5,24,1,0,2,6,53,18,6,16,0.375,1,3,0.333,1703,https://www.pro-football-reference.com/boxscores/201810140cle.htm
+2018,2018-10-14,LJmHetie5VbbO,Indianapolis,Colts,IND,23,127,0,23,43,,301,4,3,77.762,301,428,0,0,1,1,4,8,66,24,5,12,0.417,0,1,0.0,1378,https://www.pro-football-reference.com/boxscores/201810140nyj.htm
+2018,2018-10-14,mexvMWO2v1hWn,New York,Jets,NYJ,36,107,0,24,30,,280,2,1,113.889,267,374,2,13,3,1,2,7,49,18,6,15,0.4,0,0,0.0,2222,https://www.pro-football-reference.com/boxscores/201810140nyj.htm
+2018,2018-10-14,GJizlkzQFaqGA,Arizona,Cardinals,ARI,20,60,1,21,31,,240,0,1,77.352,208,268,4,32,1,1,2,5,30,16,0,10,0.0,0,2,0.0,1538,https://www.pro-football-reference.com/boxscores/201810140min.htm
+2018,2018-10-14,AzOs5UWsXusSW,Minnesota,Vikings,MIN,32,195,2,24,34,,233,1,1,87.01,216,411,4,17,1,1,2,9,52,20,5,14,0.357,0,1,0.0,2062,https://www.pro-football-reference.com/boxscores/201810140min.htm
+2018,2018-10-14,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,37,155,0,17,23,,222,3,1,125.362,214,369,1,8,1,0,1,8,64,19,9,13,0.692,0,0,0.0,1886,https://www.pro-football-reference.com/boxscores/201810140rai.htm
+2018,2018-10-14,LZoDld8s63xUs,Las Vegas,Raiders,LV,19,79,0,23,31,,142,0,0,82.997,106,185,6,36,3,2,2,5,38,15,4,12,0.333,0,1,0.0,1714,https://www.pro-football-reference.com/boxscores/201810140rai.htm
+2018,2018-10-14,u98I1lDKQBwZ0,Los Angeles,Rams,LA,39,270,2,14,28,,201,0,1,58.78,174,444,5,27,0,0,1,10,81,24,8,17,0.471,1,1,1.0,2110,https://www.pro-football-reference.com/boxscores/201810140den.htm
+2018,2018-10-14,6DclFuycdPaOB,Denver,Broncos,DEN,17,60,0,25,41,,322,2,1,91.717,297,357,2,25,1,0,1,6,61,23,3,10,0.3,0,1,0.0,1490,https://www.pro-football-reference.com/boxscores/201810140den.htm
+2018,2018-10-14,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,18,65,0,15,26,,149,1,1,70.833,139,204,3,10,1,1,2,4,30,10,4,11,0.364,0,1,0.0,1270,https://www.pro-football-reference.com/boxscores/201810140dal.htm
+2018,2018-10-14,KdjU81i7YSFE7,Dallas,Cowboys,DAL,42,206,2,17,27,,183,2,0,107.485,172,378,3,11,2,0,0,3,25,23,7,17,0.412,2,2,1.0,2330,https://www.pro-football-reference.com/boxscores/201810140dal.htm
+2018,2018-10-14,zyhFXj1nywrm1,Baltimore,Ravens,BAL,35,123,2,25,37,,238,1,1,82.939,238,361,0,0,0,0,1,10,70,23,12,17,0.706,1,1,1.0,2254,https://www.pro-football-reference.com/boxscores/201810140oti.htm
+2018,2018-10-14,ltMyRE3yvVUaw,Tennessee,Titans,TEN,14,55,0,10,15,,117,0,0,90.139,51,106,11,66,1,0,0,4,35,7,1,10,0.1,0,0,0.0,1346,https://www.pro-football-reference.com/boxscores/201810140oti.htm
+2018,2018-10-14,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,17,94,0,23,36,,352,4,2,109.954,352,446,0,0,0,0,2,5,58,18,4,10,0.4,1,1,1.0,1431,https://www.pro-football-reference.com/boxscores/201810140nwe.htm
+2018,2018-10-14,VkxV91RtzHn65,New England,Patriots,NE,38,173,3,24,35,,340,1,0,109.226,327,500,2,13,2,1,1,0,0,31,7,13,0.538,0,1,0.0,2169,https://www.pro-football-reference.com/boxscores/201810140nwe.htm
+2018,2018-10-15,IwSI92ZDKoazn,San Francisco,49ers,SF,30,174,1,16,23,,245,2,1,115.308,227,401,2,18,2,2,3,2,10,18,2,9,0.222,0,0,0.0,1732,https://www.pro-football-reference.com/boxscores/201810150gnb.htm
+2018,2018-10-15,D5QY6bOxfn8ZL,Green Bay,Packers,GB,21,116,1,25,46,,425,2,0,100.362,405,521,3,20,0,0,0,6,54,26,4,13,0.308,1,2,0.5,1868,https://www.pro-football-reference.com/boxscores/201810150gnb.htm
+2018,2018-10-18,6DclFuycdPaOB,Denver,Broncos,DEN,31,131,2,15,22,,189,2,1,106.061,178,309,2,11,0,0,1,5,50,15,5,13,0.385,0,0,0.0,1849,https://www.pro-football-reference.com/boxscores/201810180crd.htm
+2018,2018-10-18,GJizlkzQFaqGA,Arizona,Cardinals,ARI,21,69,0,21,39,,194,1,3,44.177,154,223,6,40,3,2,5,7,45,14,4,14,0.286,0,1,0.0,1751,https://www.pro-football-reference.com/boxscores/201810180crd.htm
+2018,2018-10-21,ltMyRE3yvVUaw,Tennessee,Titans,TEN,33,164,1,24,32,,237,1,1,92.839,226,390,2,11,0,0,1,4,32,23,9,15,0.6,1,1,1.0,2123,https://www.pro-football-reference.com/boxscores/201810210sdg.htm
+2018,2018-10-21,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,16,47,0,19,26,,306,2,0,137.66,297,344,2,9,0,0,0,4,31,14,4,9,0.444,0,0,0.0,1477,https://www.pro-football-reference.com/boxscores/201810210sdg.htm
+2018,2018-10-21,jJBGuksuDJF5L,Carolina,Panthers,CAR,17,121,1,25,39,,269,2,0,101.335,250,371,2,19,0,0,0,5,78,19,5,11,0.455,1,1,1.0,1483,https://www.pro-football-reference.com/boxscores/201810210phi.htm
+2018,2018-10-21,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,24,58,0,30,37,,310,2,0,119.595,284,342,4,26,3,1,1,4,35,21,3,12,0.25,3,4,0.75,2117,https://www.pro-football-reference.com/boxscores/201810210phi.htm
+2018,2018-10-21,VkxV91RtzHn65,New England,Patriots,NE,27,108,0,25,36,,277,3,1,108.218,273,381,1,4,3,2,3,7,64,21,6,13,0.462,1,1,1.0,1791,https://www.pro-football-reference.com/boxscores/201810210chi.htm
+2018,2018-10-21,1vVmWGzUZ1rea,Chicago,Bears,CHI,25,134,2,26,50,,333,2,2,69.833,319,453,2,14,0,0,2,5,40,29,8,16,0.5,1,1,1.0,1809,https://www.pro-football-reference.com/boxscores/201810210chi.htm
+2018,2018-10-21,FCuH1wdksA2DQ,Detroit,Lions,DET,35,248,1,18,22,,217,2,0,138.068,209,457,1,8,2,0,0,6,43,24,2,8,0.25,1,1,1.0,2019,https://www.pro-football-reference.com/boxscores/201810210mia.htm
+2018,2018-10-21,mfbu6O5aMHbJg,Miami,Dolphins,MIA,19,107,1,22,31,,239,2,0,114.852,215,322,4,24,0,0,0,4,50,19,6,11,0.545,0,0,0.0,1581,https://www.pro-football-reference.com/boxscores/201810210mia.htm
+2018,2018-10-21,3VqeLK0LS9rpw,Buffalo,Bills,BUF,22,135,0,20,31,,175,0,3,39.785,168,303,2,7,2,2,5,7,59,15,2,9,0.222,0,1,0.0,1601,https://www.pro-football-reference.com/boxscores/201810210clt.htm
+2018,2018-10-21,LJmHetie5VbbO,Indianapolis,Colts,IND,37,220,1,17,23,,156,4,0,131.522,156,376,0,0,1,0,0,4,35,22,7,13,0.538,1,2,0.5,1999,https://www.pro-football-reference.com/boxscores/201810210clt.htm
+2018,2018-10-21,IR4gIYmh269EI,Cleveland,Browns,CLE,23,119,1,23,34,,215,2,0,104.412,186,305,5,29,2,1,1,14,114,17,3,14,0.214,0,2,0.0,1827,https://www.pro-football-reference.com/boxscores/201810210tam.htm
+2018,2018-10-21,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,32,114,3,32,52,,365,0,2,66.587,342,456,4,23,3,2,4,8,65,34,6,13,0.462,1,1,1.0,2263,https://www.pro-football-reference.com/boxscores/201810210tam.htm
+2018,2018-10-21,UI0Ax4HUEXFh6,Houston,Texans,HOU,37,141,1,12,24,,139,1,0,81.771,131,272,1,8,2,0,0,6,35,15,8,16,0.5,0,0,0.0,1775,https://www.pro-football-reference.com/boxscores/201810210jax.htm
+2018,2018-10-21,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,22,70,0,27,42,,217,1,1,75.198,189,259,4,28,3,2,3,2,15,15,9,19,0.474,0,1,0.0,1825,https://www.pro-football-reference.com/boxscores/201810210jax.htm
+2018,2018-10-21,AzOs5UWsXusSW,Minnesota,Vikings,MIN,24,88,2,25,40,,241,2,0,95.938,228,316,1,13,1,0,0,6,55,15,2,15,0.133,1,1,1.0,1931,https://www.pro-football-reference.com/boxscores/201810210nyj.htm
+2018,2018-10-21,mexvMWO2v1hWn,New York,Jets,NYJ,24,71,1,17,42,,206,1,3,34.425,192,263,3,14,5,1,4,8,71,16,2,13,0.154,1,2,0.5,1669,https://www.pro-football-reference.com/boxscores/201810210nyj.htm
+2018,2018-10-21,CI5mhfNa0Zqd2,New Orleans,Saints,NO,39,134,1,22,30,,212,2,0,114.861,205,339,1,7,2,1,1,6,52,26,6,14,0.429,4,5,0.8,2011,https://www.pro-football-reference.com/boxscores/201810210rav.htm
+2018,2018-10-21,zyhFXj1nywrm1,Baltimore,Ravens,BAL,23,77,1,24,40,,284,2,0,98.333,274,351,1,10,0,0,0,5,54,25,5,12,0.417,1,2,0.5,1589,https://www.pro-football-reference.com/boxscores/201810210rav.htm
+2018,2018-10-21,KdjU81i7YSFE7,Dallas,Cowboys,DAL,22,73,1,22,35,,273,1,0,96.488,250,323,4,23,3,2,2,8,65,17,5,14,0.357,1,2,0.5,1745,https://www.pro-football-reference.com/boxscores/201810210was.htm
+2018,2018-10-21,9JtBk8kFeaGEs,Washington,Football Team,WAS,32,130,0,14,25,,178,1,0,91.75,175,305,1,3,1,0,0,5,35,15,3,12,0.25,0,1,0.0,1855,https://www.pro-football-reference.com/boxscores/201810210was.htm
+2018,2018-10-21,u98I1lDKQBwZ0,Los Angeles,Rams,LA,36,146,2,18,24,,202,2,0,127.431,193,339,1,9,1,0,0,1,10,20,5,12,0.417,0,0,0.0,1971,https://www.pro-football-reference.com/boxscores/201810210sfo.htm
+2018,2018-10-21,IwSI92ZDKoazn,San Francisco,49ers,SF,24,107,0,15,27,,170,1,2,56.096,121,228,7,49,3,2,4,2,10,16,3,11,0.273,0,1,0.0,1629,https://www.pro-football-reference.com/boxscores/201810210sfo.htm
+2018,2018-10-21,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,19,65,0,19,33,,187,1,1,71.149,174,239,2,13,2,0,1,8,58,15,4,11,0.364,0,1,0.0,1577,https://www.pro-football-reference.com/boxscores/201810210kan.htm
+2018,2018-10-21,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,29,198,1,28,39,,358,4,1,123.665,353,551,2,5,2,0,1,8,49,33,9,12,0.75,0,1,0.0,2023,https://www.pro-football-reference.com/boxscores/201810210kan.htm
+2018,2018-10-22,n8CuHV9wbYCqF,New York,Giants,NYG,20,61,1,27,38,,399,1,0,113.816,372,433,4,27,1,0,0,4,58,21,5,12,0.417,0,1,0.0,1663,https://www.pro-football-reference.com/boxscores/201810220atl.htm
+2018,2018-10-22,mLspw4gJNTQGN,Atlanta,Falcons,ATL,20,67,1,31,39,,379,1,0,115.705,356,423,3,23,1,1,1,5,29,22,7,13,0.538,0,0,0.0,1937,https://www.pro-football-reference.com/boxscores/201810220atl.htm
+2018,2018-10-25,mfbu6O5aMHbJg,Miami,Dolphins,MIA,25,116,1,22,38,,269,1,1,77.632,254,370,2,15,0,0,1,5,63,18,4,13,0.308,0,1,0.0,1869,https://www.pro-football-reference.com/boxscores/201810250htx.htm
+2018,2018-10-25,UI0Ax4HUEXFh6,Houston,Texans,HOU,35,188,1,16,20,,239,5,0,156.042,239,427,0,0,0,0,0,8,57,17,6,12,0.5,1,1,1.0,1731,https://www.pro-football-reference.com/boxscores/201810250htx.htm
+2018,2018-10-28,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,28,133,0,21,30,,286,3,1,119.583,262,395,4,24,1,1,2,4,36,22,7,12,0.583,0,0,0.0,1958,https://www.pro-football-reference.com/boxscores/201810280jax.htm
+2018,2018-10-28,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,17,70,0,24,41,,286,1,0,88.059,265,335,4,21,2,1,1,5,45,16,6,14,0.429,1,2,0.5,1642,https://www.pro-football-reference.com/boxscores/201810280jax.htm
+2018,2018-10-28,zyhFXj1nywrm1,Baltimore,Ravens,BAL,18,101,1,26,44,,238,2,2,70.076,224,325,2,14,1,1,3,9,68,20,6,12,0.5,1,2,0.5,1559,https://www.pro-football-reference.com/boxscores/201810280car.htm
+2018,2018-10-28,jJBGuksuDJF5L,Carolina,Panthers,CAR,33,154,2,22,30,,232,2,0,117.639,232,386,0,0,1,0,0,4,30,22,6,12,0.5,1,1,1.0,2041,https://www.pro-football-reference.com/boxscores/201810280car.htm
+2018,2018-10-28,mexvMWO2v1hWn,New York,Jets,NYJ,24,57,0,14,29,,153,1,0,75.79,150,207,1,3,1,0,0,8,45,12,3,14,0.214,1,1,1.0,1636,https://www.pro-football-reference.com/boxscores/201810280chi.htm
+2018,2018-10-28,1vVmWGzUZ1rea,Chicago,Bears,CHI,34,179,1,16,29,,220,2,0,102.658,216,395,2,4,1,0,0,2,25,22,4,12,0.333,1,1,1.0,1964,https://www.pro-football-reference.com/boxscores/201810280chi.htm
+2018,2018-10-28,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,42,176,1,14,17,,248,3,0,158.333,237,413,2,11,0,0,0,7,111,20,6,12,0.5,1,2,0.5,2095,https://www.pro-football-reference.com/boxscores/201810280det.htm
+2018,2018-10-28,FCuH1wdksA2DQ,Detroit,Lions,DET,13,34,0,27,40,,310,2,1,96.875,297,331,3,13,2,2,3,4,32,21,6,10,0.6,0,0,0.0,1505,https://www.pro-football-reference.com/boxscores/201810280det.htm
+2018,2018-10-28,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,27,126,1,29,50,,470,3,4,76.25,450,576,6,20,1,0,4,11,75,29,10,18,0.556,2,2,1.0,2159,https://www.pro-football-reference.com/boxscores/201810280cin.htm
+2018,2018-10-28,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,27,138,2,21,34,,280,2,0,107.475,264,402,2,16,0,0,0,4,46,21,5,13,0.385,1,2,0.5,1441,https://www.pro-football-reference.com/boxscores/201810280cin.htm
+2018,2018-10-28,IR4gIYmh269EI,Cleveland,Browns,CLE,21,74,0,22,36,,180,2,1,80.787,163,237,2,17,0,0,1,7,52,17,3,13,0.231,1,1,1.0,1668,https://www.pro-football-reference.com/boxscores/201810280pit.htm
+2018,2018-10-28,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,31,168,2,24,36,,257,2,1,94.329,253,421,1,4,3,1,2,8,60,25,6,13,0.462,1,1,1.0,1932,https://www.pro-football-reference.com/boxscores/201810280pit.htm
+2018,2018-10-28,6DclFuycdPaOB,Denver,Broncos,DEN,30,189,1,23,34,,262,2,1,97.917,222,411,5,40,3,1,2,10,83,22,4,12,0.333,1,1,1.0,1961,https://www.pro-football-reference.com/boxscores/201810280kan.htm
+2018,2018-10-28,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,18,49,0,24,34,,303,4,1,125.0,291,340,2,12,0,0,1,7,50,20,3,10,0.3,1,1,1.0,1639,https://www.pro-football-reference.com/boxscores/201810280kan.htm
+2018,2018-10-28,9JtBk8kFeaGEs,Washington,Football Team,WAS,33,182,1,20,32,,178,1,0,87.76,178,360,0,0,1,1,1,8,90,20,6,15,0.4,0,0,0.0,2018,https://www.pro-football-reference.com/boxscores/201810280nyg.htm
+2018,2018-10-28,n8CuHV9wbYCqF,New York,Giants,NYG,14,37,0,30,47,,316,1,2,72.651,266,303,7,50,0,0,2,11,102,18,2,14,0.143,3,4,0.75,1582,https://www.pro-football-reference.com/boxscores/201810280nyg.htm
+2018,2018-10-28,LJmHetie5VbbO,Indianapolis,Colts,IND,40,222,2,22,31,,239,3,0,125.605,239,461,0,0,0,0,0,10,77,28,9,13,0.692,0,0,0.0,2190,https://www.pro-football-reference.com/boxscores/201810280rai.htm
+2018,2018-10-28,LZoDld8s63xUs,Las Vegas,Raiders,LV,19,103,1,21,28,,244,3,0,136.607,244,347,0,0,1,1,1,10,79,19,4,8,0.5,1,2,0.5,1410,https://www.pro-football-reference.com/boxscores/201810280rai.htm
+2018,2018-10-28,D5QY6bOxfn8ZL,Green Bay,Packers,GB,19,106,2,18,30,,286,1,0,102.917,253,359,3,33,1,1,1,2,10,16,2,9,0.222,0,0,0.0,1550,https://www.pro-football-reference.com/boxscores/201810280ram.htm
+2018,2018-10-28,u98I1lDKQBwZ0,Los Angeles,Rams,LA,34,135,0,20,36,,307,3,0,111.69,281,416,5,26,0,0,0,2,15,23,8,18,0.444,1,1,1.0,2050,https://www.pro-football-reference.com/boxscores/201810280ram.htm
+2018,2018-10-28,IwSI92ZDKoazn,San Francisco,49ers,SF,31,107,0,14,28,,190,1,0,83.929,160,267,4,30,2,0,0,5,59,16,5,14,0.357,0,0,0.0,1939,https://www.pro-football-reference.com/boxscores/201810280crd.htm
+2018,2018-10-28,GJizlkzQFaqGA,Arizona,Cardinals,ARI,21,88,0,23,40,,252,2,1,82.5,233,321,3,19,1,1,2,9,62,20,6,14,0.429,0,0,0.0,1661,https://www.pro-football-reference.com/boxscores/201810280crd.htm
+2018,2018-10-28,CI5mhfNa0Zqd2,New Orleans,Saints,NO,29,106,1,19,24,,164,1,1,91.667,164,270,0,0,0,0,1,7,64,17,4,9,0.444,0,0,0.0,1717,https://www.pro-football-reference.com/boxscores/201810280min.htm
+2018,2018-10-28,AzOs5UWsXusSW,Minnesota,Vikings,MIN,22,85,1,31,41,,359,2,1,107.673,338,423,4,21,2,1,2,6,54,27,5,10,0.5,2,3,0.667,1883,https://www.pro-football-reference.com/boxscores/201810280min.htm
+2018,2018-10-29,VkxV91RtzHn65,New England,Patriots,NE,25,76,1,29,45,,324,0,0,85.787,311,387,2,13,1,0,0,5,33,22,5,14,0.357,0,0,0.0,1910,https://www.pro-football-reference.com/boxscores/201810290buf.htm
+2018,2018-10-29,3VqeLK0LS9rpw,Buffalo,Bills,BUF,19,46,0,24,41,,313,0,1,72.51,287,333,3,26,3,1,2,6,51,16,4,14,0.286,0,2,0.0,1690,https://www.pro-football-reference.com/boxscores/201810290buf.htm
+2018,2018-11-01,LZoDld8s63xUs,Las Vegas,Raiders,LV,23,102,0,17,24,,179,0,0,92.188,140,242,8,39,4,0,0,6,40,14,3,12,0.25,0,1,0.0,1886,https://www.pro-football-reference.com/boxscores/201811010sfo.htm
+2018,2018-11-01,IwSI92ZDKoazn,San Francisco,49ers,SF,32,143,1,16,22,,262,3,0,151.894,262,405,0,0,1,0,0,3,23,18,5,12,0.417,0,0,0.0,1714,https://www.pro-football-reference.com/boxscores/201811010sfo.htm
+2018,2018-11-04,mLspw4gJNTQGN,Atlanta,Falcons,ATL,24,154,1,26,38,,350,4,1,121.601,337,491,2,13,0,0,1,7,50,25,10,13,0.769,0,0,0.0,1976,https://www.pro-football-reference.com/boxscores/201811040was.htm
+2018,2018-11-04,9JtBk8kFeaGEs,Washington,Football Team,WAS,15,79,1,30,46,,306,1,1,82.337,287,366,3,19,0,0,1,10,147,20,5,13,0.385,2,2,1.0,1624,https://www.pro-football-reference.com/boxscores/201811040was.htm
+2018,2018-11-04,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,21,82,0,24,41,,243,4,2,87.754,219,301,3,24,1,0,2,8,49,23,5,12,0.417,1,2,0.5,1740,https://www.pro-football-reference.com/boxscores/201811040car.htm
+2018,2018-11-04,jJBGuksuDJF5L,Carolina,Panthers,CAR,32,179,4,19,25,,247,2,0,133.25,228,407,2,19,1,0,0,9,84,22,4,10,0.4,0,1,0.0,1860,https://www.pro-football-reference.com/boxscores/201811040car.htm
+2018,2018-11-04,FCuH1wdksA2DQ,Detroit,Lions,DET,24,66,0,25,36,,199,0,0,82.986,143,209,10,56,1,1,1,8,66,18,4,15,0.267,3,3,1.0,2205,https://www.pro-football-reference.com/boxscores/201811040min.htm
+2018,2018-11-04,AzOs5UWsXusSW,Minnesota,Vikings,MIN,23,128,1,18,22,,164,1,1,93.939,155,283,1,9,1,1,2,3,15,17,3,8,0.375,1,1,1.0,1395,https://www.pro-football-reference.com/boxscores/201811040min.htm
+2018,2018-11-04,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,27,113,1,29,48,,292,2,0,91.667,282,395,1,10,0,0,0,8,103,27,10,16,0.625,1,1,1.0,2189,https://www.pro-football-reference.com/boxscores/201811040rav.htm
+2018,2018-11-04,zyhFXj1nywrm1,Baltimore,Ravens,BAL,16,61,1,24,38,,218,0,0,78.618,204,265,2,14,1,0,0,5,25,18,4,12,0.333,0,1,0.0,1411,https://www.pro-football-reference.com/boxscores/201811040rav.htm
+2018,2018-11-04,1vVmWGzUZ1rea,Chicago,Bears,CHI,25,64,2,12,20,,135,1,1,76.042,126,190,1,9,2,0,1,14,129,11,3,11,0.273,0,0,0.0,1557,https://www.pro-football-reference.com/boxscores/201811040buf.htm
+2018,2018-11-04,3VqeLK0LS9rpw,Buffalo,Bills,BUF,28,98,1,31,49,,188,0,3,45.281,166,264,4,22,1,1,4,10,163,22,6,18,0.333,1,3,0.333,2043,https://www.pro-football-reference.com/boxscores/201811040buf.htm
+2018,2018-11-04,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,24,139,2,23,32,,375,3,1,129.036,360,499,2,15,0,0,1,11,86,27,6,10,0.6,0,0,0.0,1749,https://www.pro-football-reference.com/boxscores/201811040cle.htm
+2018,2018-11-04,IR4gIYmh269EI,Cleveland,Browns,CLE,25,102,1,30,43,,308,2,1,95.882,286,388,2,22,0,0,1,4,20,26,5,13,0.385,2,3,0.667,1851,https://www.pro-football-reference.com/boxscores/201811040cle.htm
+2018,2018-11-04,mexvMWO2v1hWn,New York,Jets,NYJ,21,80,0,21,39,,229,0,4,31.838,202,282,4,27,0,0,4,5,45,15,2,13,0.154,0,2,0.0,1894,https://www.pro-football-reference.com/boxscores/201811040mia.htm
+2018,2018-11-04,mfbu6O5aMHbJg,Miami,Dolphins,MIA,27,64,0,15,24,,139,0,0,78.299,104,168,4,35,0,0,0,5,55,7,3,16,0.188,2,2,1.0,1706,https://www.pro-football-reference.com/boxscores/201811040mia.htm
+2018,2018-11-04,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,22,160,1,13,26,,228,2,0,105.929,215,375,2,13,0,0,0,12,105,18,2,9,0.222,0,0,0.0,1459,https://www.pro-football-reference.com/boxscores/201811040sea.htm
+2018,2018-11-04,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,32,154,0,26,39,,235,2,1,89.156,202,356,4,33,1,0,1,10,83,25,4,15,0.267,3,3,1.0,2141,https://www.pro-football-reference.com/boxscores/201811040sea.htm
+2018,2018-11-04,UI0Ax4HUEXFh6,Houston,Texans,HOU,33,98,0,17,24,,213,2,0,125.868,192,290,4,21,0,0,0,7,60,17,4,13,0.308,0,1,0.0,1945,https://www.pro-football-reference.com/boxscores/201811040den.htm
+2018,2018-11-04,6DclFuycdPaOB,Denver,Broncos,DEN,20,75,1,26,42,,290,1,0,90.377,273,348,2,17,1,1,1,8,50,19,5,14,0.357,2,2,1.0,1655,https://www.pro-football-reference.com/boxscores/201811040den.htm
+2018,2018-11-04,u98I1lDKQBwZ0,Los Angeles,Rams,LA,19,92,1,28,40,,391,3,1,115.729,391,483,0,0,0,0,1,4,32,23,3,8,0.375,0,2,0.0,1579,https://www.pro-football-reference.com/boxscores/201811040nor.htm
+2018,2018-11-04,CI5mhfNa0Zqd2,New Orleans,Saints,NO,34,141,2,25,36,,346,4,0,137.037,346,487,0,0,1,1,1,2,20,31,7,12,0.583,2,2,1.0,2021,https://www.pro-football-reference.com/boxscores/201811040nor.htm
+2018,2018-11-04,D5QY6bOxfn8ZL,Green Bay,Packers,GB,25,117,0,24,43,,259,2,0,89.196,250,367,1,9,2,1,1,7,63,22,6,13,0.462,0,1,0.0,1954,https://www.pro-football-reference.com/boxscores/201811040nwe.htm
+2018,2018-11-04,VkxV91RtzHn65,New England,Patriots,NE,31,123,3,23,36,,331,1,0,102.894,310,433,2,21,0,0,0,5,30,28,4,11,0.364,0,1,0.0,1646,https://www.pro-football-reference.com/boxscores/201811040nwe.htm
+2018,2018-11-05,ltMyRE3yvVUaw,Tennessee,Titans,TEN,36,125,2,21,29,,240,2,0,119.899,215,340,4,25,2,2,2,3,20,24,11,14,0.786,0,0,0.0,2066,https://www.pro-football-reference.com/boxscores/201811050dal.htm
+2018,2018-11-05,KdjU81i7YSFE7,Dallas,Cowboys,DAL,19,72,0,21,32,,243,2,1,96.224,225,297,5,18,1,1,2,6,52,18,5,11,0.455,0,1,0.0,1534,https://www.pro-football-reference.com/boxscores/201811050dal.htm
+2018,2018-11-08,jJBGuksuDJF5L,Carolina,Panthers,CAR,22,95,1,23,29,,193,2,1,103.017,147,242,5,46,2,1,2,5,42,18,4,11,0.364,1,1,1.0,1765,https://www.pro-football-reference.com/boxscores/201811080pit.htm
+2018,2018-11-08,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,30,138,1,23,27,,325,5,0,156.404,319,457,1,6,1,0,0,1,24,25,8,11,0.727,0,0,0.0,1835,https://www.pro-football-reference.com/boxscores/201811080pit.htm
+2018,2018-11-11,mLspw4gJNTQGN,Atlanta,Falcons,ATL,19,71,0,38,52,,330,2,0,102.244,311,382,2,19,4,2,2,1,5,25,5,14,0.357,2,4,0.5,1883,https://www.pro-football-reference.com/boxscores/201811110cle.htm
+2018,2018-11-11,IR4gIYmh269EI,Cleveland,Browns,CLE,29,211,1,17,21,,216,3,1,129.266,216,427,0,0,1,0,1,7,38,19,4,8,0.5,0,0,0.0,1717,https://www.pro-football-reference.com/boxscores/201811110cle.htm
+2018,2018-11-11,FCuH1wdksA2DQ,Detroit,Lions,DET,24,76,1,25,42,,274,2,2,74.901,229,305,6,45,3,1,3,6,41,24,4,15,0.267,4,5,0.8,1920,https://www.pro-football-reference.com/boxscores/201811110chi.htm
+2018,2018-11-11,1vVmWGzUZ1rea,Chicago,Bears,CHI,22,54,2,23,30,,355,3,0,148.611,348,402,1,7,0,0,0,6,46,20,4,10,0.4,0,0,0.0,1680,https://www.pro-football-reference.com/boxscores/201811110chi.htm
+2018,2018-11-11,CI5mhfNa0Zqd2,New Orleans,Saints,NO,47,244,3,22,27,,265,3,0,144.599,265,509,0,0,0,0,0,1,5,33,7,12,0.583,1,1,1.0,2386,https://www.pro-football-reference.com/boxscores/201811110cin.htm
+2018,2018-11-11,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,16,110,1,14,23,,198,1,2,66.938,174,284,4,24,0,0,2,4,26,13,0,6,0.0,1,2,0.5,1214,https://www.pro-football-reference.com/boxscores/201811110cin.htm
+2018,2018-11-11,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,34,91,1,27,39,,324,2,0,111.485,324,415,0,0,1,1,1,8,61,24,9,17,0.529,1,1,1.0,2110,https://www.pro-football-reference.com/boxscores/201811110clt.htm
+2018,2018-11-11,LJmHetie5VbbO,Indianapolis,Colts,IND,23,81,1,21,29,,285,3,1,123.491,285,366,0,0,0,0,1,7,45,17,6,11,0.545,0,0,0.0,1490,https://www.pro-football-reference.com/boxscores/201811110clt.htm
+2018,2018-11-11,GJizlkzQFaqGA,Arizona,Cardinals,ARI,25,94,1,22,39,,208,1,2,58.494,166,260,5,42,1,0,2,3,30,21,7,14,0.5,1,2,0.5,1907,https://www.pro-football-reference.com/boxscores/201811110kan.htm
+2018,2018-11-11,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,23,118,1,21,28,,249,2,0,125.446,212,330,5,37,1,0,0,8,63,20,4,11,0.364,0,0,0.0,1693,https://www.pro-football-reference.com/boxscores/201811110kan.htm
+2018,2018-11-11,9JtBk8kFeaGEs,Washington,Football Team,WAS,25,116,0,19,27,,178,1,0,100.54,170,286,3,8,0,0,0,8,52,15,5,13,0.385,0,0,0.0,1728,https://www.pro-football-reference.com/boxscores/201811110tam.htm
+2018,2018-11-11,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,24,103,0,29,41,,406,0,2,81.961,398,501,2,8,4,2,4,5,50,29,6,10,0.6,0,0,0.0,1872,https://www.pro-football-reference.com/boxscores/201811110tam.htm
+2018,2018-11-11,3VqeLK0LS9rpw,Buffalo,Bills,BUF,46,212,2,16,26,,247,2,0,118.59,239,451,1,8,1,0,0,4,30,23,8,16,0.5,1,1,1.0,2362,https://www.pro-football-reference.com/boxscores/201811110nyj.htm
+2018,2018-11-11,mexvMWO2v1hWn,New York,Jets,NYJ,18,83,1,17,34,,135,0,2,35.784,116,199,3,19,0,0,2,1,10,12,1,12,0.083,2,3,0.667,1238,https://www.pro-football-reference.com/boxscores/201811110nyj.htm
+2018,2018-11-11,VkxV91RtzHn65,New England,Patriots,NE,19,40,1,23,43,,267,0,0,72.529,244,284,3,23,0,0,0,4,31,16,3,15,0.2,2,3,0.667,1623,https://www.pro-football-reference.com/boxscores/201811110oti.htm
+2018,2018-11-11,ltMyRE3yvVUaw,Tennessee,Titans,TEN,36,150,2,17,25,,249,2,0,126.917,235,385,2,14,3,0,0,4,35,23,5,12,0.417,0,0,0.0,1977,https://www.pro-football-reference.com/boxscores/201811110oti.htm
+2018,2018-11-11,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,26,113,0,18,26,,223,2,1,105.128,222,335,1,1,0,0,1,6,70,16,2,10,0.2,1,1,1.0,1730,https://www.pro-football-reference.com/boxscores/201811110rai.htm
+2018,2018-11-11,LZoDld8s63xUs,Las Vegas,Raiders,LV,22,114,0,24,37,,243,0,0,83.502,203,317,4,40,1,1,1,6,55,16,5,15,0.333,1,3,0.333,1870,https://www.pro-football-reference.com/boxscores/201811110rai.htm
+2018,2018-11-11,mfbu6O5aMHbJg,Miami,Dolphins,MIA,23,131,0,23,37,,213,0,1,66.61,163,294,6,50,1,1,2,3,10,19,4,14,0.286,3,4,0.75,1928,https://www.pro-football-reference.com/boxscores/201811110gnb.htm
+2018,2018-11-11,D5QY6bOxfn8ZL,Green Bay,Packers,GB,25,195,2,19,28,,199,2,0,112.054,182,377,2,17,1,1,1,6,45,21,4,10,0.4,1,2,0.5,1672,https://www.pro-football-reference.com/boxscores/201811110gnb.htm
+2018,2018-11-11,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,34,273,1,17,26,,176,3,0,123.237,141,414,4,35,1,1,1,7,56,29,2,9,0.222,0,1,0.0,1837,https://www.pro-football-reference.com/boxscores/201811110ram.htm
+2018,2018-11-11,u98I1lDKQBwZ0,Los Angeles,Rams,LA,23,149,2,28,39,,318,2,0,112.981,307,456,2,11,0,0,0,10,102,25,5,10,0.5,0,0,0.0,1763,https://www.pro-football-reference.com/boxscores/201811110ram.htm
+2018,2018-11-11,KdjU81i7YSFE7,Dallas,Cowboys,DAL,28,171,2,26,36,,270,1,0,102.778,239,410,4,31,2,0,0,5,37,23,8,16,0.5,1,1,1.0,2002,https://www.pro-football-reference.com/boxscores/201811110phi.htm
+2018,2018-11-11,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,16,71,0,32,44,,360,2,1,102.462,350,421,2,10,0,0,1,0,0,23,4,10,0.4,0,2,0.0,1598,https://www.pro-football-reference.com/boxscores/201811110phi.htm
+2018,2018-11-12,n8CuHV9wbYCqF,New York,Giants,NYG,23,97,0,19,31,,188,3,0,110.685,180,277,1,8,0,0,0,8,78,17,5,12,0.417,0,0,0.0,1546,https://www.pro-football-reference.com/boxscores/201811120sfo.htm
+2018,2018-11-12,IwSI92ZDKoazn,San Francisco,49ers,SF,29,124,1,27,39,,250,1,2,73.665,250,374,0,0,0,0,2,10,97,24,8,13,0.615,0,0,0.0,2054,https://www.pro-football-reference.com/boxscores/201811120sfo.htm
+2018,2018-11-15,D5QY6bOxfn8ZL,Green Bay,Packers,GB,13,48,1,21,30,,332,2,0,128.75,311,359,5,21,0,0,0,5,80,14,3,11,0.273,0,0,0.0,1542,https://www.pro-football-reference.com/boxscores/201811150sea.htm
+2018,2018-11-15,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,35,173,1,21,31,,225,2,0,110.282,205,378,3,20,2,1,1,6,30,23,6,15,0.4,2,2,1.0,2058,https://www.pro-football-reference.com/boxscores/201811150sea.htm
+2018,2018-11-18,KdjU81i7YSFE7,Dallas,Cowboys,DAL,29,132,2,22,32,,208,0,0,86.458,191,323,2,17,1,0,0,2,20,20,7,13,0.538,0,0,0.0,1917,https://www.pro-football-reference.com/boxscores/201811180atl.htm
+2018,2018-11-18,mLspw4gJNTQGN,Atlanta,Falcons,ATL,18,80,0,24,34,,291,1,1,94.118,274,354,3,17,0,0,1,2,15,19,6,12,0.5,0,0,0.0,1683,https://www.pro-football-reference.com/boxscores/201811180atl.htm
+2018,2018-11-18,jJBGuksuDJF5L,Carolina,Panthers,CAR,16,56,0,25,38,,357,3,1,111.404,331,387,3,26,0,0,1,2,15,20,5,11,0.455,0,0,0.0,1700,https://www.pro-football-reference.com/boxscores/201811180det.htm
+2018,2018-11-18,FCuH1wdksA2DQ,Detroit,Lions,DET,26,94,1,23,37,,220,1,0,87.669,215,309,1,5,0,0,0,1,5,20,4,12,0.333,0,0,0.0,1900,https://www.pro-football-reference.com/boxscores/201811180det.htm
+2018,2018-11-18,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,16,48,1,19,37,,211,2,0,86.655,207,255,1,4,0,0,0,7,58,15,6,14,0.429,0,1,0.0,1311,https://www.pro-football-reference.com/boxscores/201811180rav.htm
+2018,2018-11-18,zyhFXj1nywrm1,Baltimore,Ravens,BAL,53,267,2,13,19,,150,0,1,70.066,136,403,3,14,1,0,1,5,31,23,8,16,0.5,0,1,0.0,2289,https://www.pro-football-reference.com/boxscores/201811180rav.htm
+2018,2018-11-18,ltMyRE3yvVUaw,Tennessee,Titans,TEN,27,91,0,21,29,,203,1,2,74.353,176,267,5,27,1,0,2,8,112,16,6,14,0.429,0,0,0.0,1724,https://www.pro-football-reference.com/boxscores/201811180clt.htm
+2018,2018-11-18,LJmHetie5VbbO,Indianapolis,Colts,IND,28,102,2,24,32,,295,3,0,134.245,295,397,0,0,2,0,0,7,60,26,5,10,0.5,0,0,0.0,1876,https://www.pro-football-reference.com/boxscores/201811180clt.htm
+2018,2018-11-18,UI0Ax4HUEXFh6,Houston,Texans,HOU,31,139,0,16,24,,208,1,2,72.917,181,320,3,27,2,1,3,7,40,19,4,11,0.364,0,0,0.0,1743,https://www.pro-football-reference.com/boxscores/201811180was.htm
+2018,2018-11-18,9JtBk8kFeaGEs,Washington,Football Team,WAS,29,124,2,18,39,,189,1,2,47.917,154,278,5,35,1,0,2,6,43,23,6,15,0.4,1,1,1.0,1857,https://www.pro-football-reference.com/boxscores/201811180was.htm
+2018,2018-11-18,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,11,26,1,27,47,,314,2,3,65.381,297,323,2,17,0,0,3,3,15,19,3,11,0.273,0,2,0.0,1340,https://www.pro-football-reference.com/boxscores/201811180jax.htm
+2018,2018-11-18,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,43,179,1,10,18,,104,0,0,72.454,64,243,6,40,2,1,1,11,111,15,6,18,0.333,0,0,0.0,2260,https://www.pro-football-reference.com/boxscores/201811180jax.htm
+2018,2018-11-18,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,30,151,2,25,37,,366,2,4,78.041,359,510,1,7,1,0,4,4,40,31,6,9,0.667,1,2,0.5,1927,https://www.pro-football-reference.com/boxscores/201811180nyg.htm
+2018,2018-11-18,n8CuHV9wbYCqF,New York,Giants,NYG,31,163,2,17,18,,231,2,0,155.787,196,359,4,35,2,0,0,8,60,19,4,9,0.444,0,0,0.0,1673,https://www.pro-football-reference.com/boxscores/201811180nyg.htm
+2018,2018-11-18,LZoDld8s63xUs,Las Vegas,Raiders,LV,33,152,0,19,31,,192,2,0,100.47,173,325,4,19,1,0,0,4,20,19,5,15,0.333,0,0,0.0,2161,https://www.pro-football-reference.com/boxscores/201811180crd.htm
+2018,2018-11-18,GJizlkzQFaqGA,Arizona,Cardinals,ARI,31,154,0,9,20,,136,3,2,67.917,128,282,1,8,1,0,2,7,62,13,3,11,0.273,0,0,0.0,1439,https://www.pro-football-reference.com/boxscores/201811180crd.htm
+2018,2018-11-18,6DclFuycdPaOB,Denver,Broncos,DEN,19,108,3,20,33,,217,0,0,79.987,217,325,0,0,0,0,0,7,43,16,3,10,0.3,1,2,0.5,1331,https://www.pro-football-reference.com/boxscores/201811180sdg.htm
+2018,2018-11-18,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,26,95,0,28,43,,401,2,2,91.328,384,479,3,17,0,0,2,14,120,26,9,15,0.6,0,0,0.0,2269,https://www.pro-football-reference.com/boxscores/201811180sdg.htm
+2018,2018-11-18,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,12,58,1,19,33,,156,0,3,31.881,138,196,3,18,0,0,3,6,49,13,3,10,0.3,0,2,0.0,1346,https://www.pro-football-reference.com/boxscores/201811180nor.htm
+2018,2018-11-18,CI5mhfNa0Zqd2,New Orleans,Saints,NO,37,173,2,23,32,,373,4,0,150.13,373,546,0,0,0,0,0,8,69,28,6,11,0.545,1,1,1.0,2254,https://www.pro-football-reference.com/boxscores/201811180nor.htm
+2018,2018-11-18,AzOs5UWsXusSW,Minnesota,Vikings,MIN,14,22,0,30,46,,262,2,2,76.54,246,268,2,16,1,1,3,4,50,19,5,12,0.417,1,1,1.0,1531,https://www.pro-football-reference.com/boxscores/201811180chi.htm
+2018,2018-11-18,1vVmWGzUZ1rea,Chicago,Bears,CHI,39,148,0,20,31,,165,1,2,61.895,160,308,1,5,1,1,3,5,46,24,6,12,0.5,0,0,0.0,2069,https://www.pro-football-reference.com/boxscores/201811180chi.htm
+2018,2018-11-19,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,20,98,0,33,46,,478,6,3,117.572,448,546,3,30,2,2,5,13,135,27,5,10,0.5,1,1,1.0,1777,https://www.pro-football-reference.com/boxscores/201811190ram.htm
+2018,2018-11-19,u98I1lDKQBwZ0,Los Angeles,Rams,LA,21,76,1,31,49,,413,4,0,117.134,379,455,5,34,3,2,2,8,60,29,5,14,0.357,1,1,1.0,1823,https://www.pro-football-reference.com/boxscores/201811190ram.htm
+2018,2018-11-22,1vVmWGzUZ1rea,Chicago,Bears,CHI,15,38,0,28,38,,238,2,0,107.127,226,264,4,12,1,1,1,3,20,19,3,10,0.3,0,0,0.0,1634,https://www.pro-football-reference.com/boxscores/201811220det.htm
+2018,2018-11-22,FCuH1wdksA2DQ,Detroit,Lions,DET,24,111,2,28,38,,236,0,2,67.434,222,333,2,14,0,0,2,5,54,17,5,14,0.357,1,2,0.5,1966,https://www.pro-football-reference.com/boxscores/201811220det.htm
+2018,2018-11-22,9JtBk8kFeaGEs,Washington,Football Team,WAS,20,80,1,24,38,,268,2,3,68.75,251,331,3,17,2,0,3,4,25,18,4,11,0.364,0,0,0.0,1597,https://www.pro-football-reference.com/boxscores/201811220dal.htm
+2018,2018-11-22,KdjU81i7YSFE7,Dallas,Cowboys,DAL,34,146,2,22,31,,289,2,0,121.573,258,404,4,31,1,0,0,4,30,20,6,14,0.429,0,1,0.0,2003,https://www.pro-football-reference.com/boxscores/201811220dal.htm
+2018,2018-11-22,mLspw4gJNTQGN,Atlanta,Falcons,ATL,16,26,0,35,47,,377,2,1,102.881,340,366,6,37,5,3,4,2,26,21,5,15,0.333,4,6,0.667,1859,https://www.pro-football-reference.com/boxscores/201811220nor.htm
+2018,2018-11-22,CI5mhfNa0Zqd2,New Orleans,Saints,NO,31,150,0,15,22,,171,4,1,111.932,162,312,2,9,1,0,1,3,19,19,5,11,0.455,0,0,0.0,1741,https://www.pro-football-reference.com/boxscores/201811220nor.htm
+2018,2018-11-25,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,39,226,2,12,23,,127,1,2,46.83,107,333,3,20,0,0,2,10,90,25,5,13,0.385,0,0,0.0,1962,https://www.pro-football-reference.com/boxscores/201811250buf.htm
+2018,2018-11-25,3VqeLK0LS9rpw,Buffalo,Bills,BUF,35,167,2,8,19,,160,1,0,89.803,160,327,0,0,2,0,0,13,80,18,2,10,0.2,0,0,0.0,1638,https://www.pro-football-reference.com/boxscores/201811250buf.htm
+2018,2018-11-25,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,28,75,1,22,31,,339,2,0,128.293,322,397,2,17,1,0,0,4,36,21,6,14,0.429,2,2,1.0,1826,https://www.pro-football-reference.com/boxscores/201811250car.htm
+2018,2018-11-25,jJBGuksuDJF5L,Carolina,Panthers,CAR,27,220,1,25,30,,256,2,1,110.556,256,476,0,0,5,0,1,3,30,26,3,8,0.375,0,1,0.0,1774,https://www.pro-football-reference.com/boxscores/201811250car.htm
+2018,2018-11-25,IR4gIYmh269EI,Cleveland,Browns,CLE,35,84,1,19,26,,258,4,0,143.91,258,342,0,0,0,0,0,7,61,24,5,10,0.5,1,1,1.0,1924,https://www.pro-football-reference.com/boxscores/201811250cin.htm
+2018,2018-11-25,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,20,129,1,27,46,,255,2,1,79.529,243,372,1,12,1,1,2,13,96,25,4,12,0.333,2,4,0.5,1676,https://www.pro-football-reference.com/boxscores/201811250cin.htm
+2018,2018-11-25,VkxV91RtzHn65,New England,Patriots,NE,36,215,1,20,31,,283,2,0,115.39,283,498,0,0,0,0,0,11,105,25,5,12,0.417,1,1,1.0,2066,https://www.pro-football-reference.com/boxscores/201811250nyj.htm
+2018,2018-11-25,mexvMWO2v1hWn,New York,Jets,NYJ,15,74,0,26,45,,276,1,1,73.935,264,338,2,12,0,0,1,8,47,18,6,14,0.429,0,1,0.0,1534,https://www.pro-football-reference.com/boxscores/201811250nyj.htm
+2018,2018-11-25,n8CuHV9wbYCqF,New York,Giants,NYG,18,126,1,26,37,,297,1,1,91.836,276,402,2,21,1,0,1,11,91,18,5,12,0.417,0,0,0.0,1642,https://www.pro-football-reference.com/boxscores/201811250phi.htm
+2018,2018-11-25,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,29,127,1,20,28,,236,1,0,108.631,214,341,3,22,1,0,0,7,46,19,3,11,0.273,1,1,1.0,1958,https://www.pro-football-reference.com/boxscores/201811250phi.htm
+2018,2018-11-25,LZoDld8s63xUs,Las Vegas,Raiders,LV,19,67,1,16,34,,194,1,0,74.877,182,249,3,12,1,1,1,4,24,13,3,13,0.231,1,2,0.5,1548,https://www.pro-football-reference.com/boxscores/201811250rav.htm
+2018,2018-11-25,zyhFXj1nywrm1,Baltimore,Ravens,BAL,43,242,1,14,25,,178,1,2,58.417,174,416,1,4,1,0,2,6,45,23,8,13,0.615,0,0,0.0,2052,https://www.pro-football-reference.com/boxscores/201811250rav.htm
+2018,2018-11-25,IwSI92ZDKoazn,San Francisco,49ers,SF,24,148,0,18,32,,221,1,2,62.109,194,342,4,27,1,0,2,8,68,23,1,8,0.125,0,0,0.0,1551,https://www.pro-football-reference.com/boxscores/201811250tam.htm
+2018,2018-11-25,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,31,108,1,29,38,,312,2,0,117.434,304,412,1,8,0,0,0,9,70,25,7,13,0.538,0,0,0.0,2049,https://www.pro-football-reference.com/boxscores/201811250tam.htm
+2018,2018-11-25,GJizlkzQFaqGA,Arizona,Cardinals,ARI,24,62,0,12,19,,105,1,1,73.355,87,149,2,18,1,0,1,3,35,10,4,12,0.333,0,1,0.0,1482,https://www.pro-football-reference.com/boxscores/201811250sdg.htm
+2018,2018-11-25,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,30,178,3,28,32,,259,3,0,131.641,236,414,4,23,1,1,1,4,30,30,3,7,0.429,1,1,1.0,2118,https://www.pro-football-reference.com/boxscores/201811250sdg.htm
+2018,2018-11-25,mfbu6O5aMHbJg,Miami,Dolphins,MIA,25,113,1,17,25,,204,2,0,119.417,201,314,1,3,2,1,1,10,75,14,4,11,0.364,0,0,0.0,1686,https://www.pro-football-reference.com/boxscores/201811250clt.htm
+2018,2018-11-25,LJmHetie5VbbO,Indianapolis,Colts,IND,26,118,0,31,38,,347,3,2,109.101,337,455,1,10,2,1,3,7,52,26,4,12,0.333,2,2,1.0,1914,https://www.pro-football-reference.com/boxscores/201811250clt.htm
+2018,2018-11-25,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,16,75,0,42,58,,464,2,2,92.888,452,527,2,12,4,2,4,5,34,25,5,14,0.357,1,1,1.0,2100,https://www.pro-football-reference.com/boxscores/201811250den.htm
+2018,2018-11-25,6DclFuycdPaOB,Denver,Broncos,DEN,23,124,1,15,28,,197,2,0,99.851,184,308,2,13,0,0,0,6,50,17,3,11,0.273,0,0,0.0,1500,https://www.pro-football-reference.com/boxscores/201811250den.htm
+2018,2018-11-25,D5QY6bOxfn8ZL,Green Bay,Packers,GB,19,82,1,17,28,,198,1,0,94.048,172,254,4,26,1,1,1,4,20,14,2,10,0.2,0,1,0.0,1523,https://www.pro-football-reference.com/boxscores/201811250min.htm
+2018,2018-11-25,AzOs5UWsXusSW,Minnesota,Vikings,MIN,29,91,0,29,38,,342,3,0,129.496,325,416,2,17,0,0,0,6,55,22,7,14,0.5,0,1,0.0,2077,https://www.pro-football-reference.com/boxscores/201811250min.htm
+2018,2018-11-26,ltMyRE3yvVUaw,Tennessee,Titans,TEN,23,105,0,22,23,,303,2,0,147.736,260,365,6,43,2,1,1,7,50,14,4,12,0.333,0,1,0.0,1802,https://www.pro-football-reference.com/boxscores/201811260htx.htm
+2018,2018-11-26,UI0Ax4HUEXFh6,Houston,Texans,HOU,34,281,2,19,24,,210,2,0,130.903,181,462,4,29,1,0,0,3,53,19,4,11,0.364,1,1,1.0,1798,https://www.pro-football-reference.com/boxscores/201811260htx.htm
+2018,2018-11-29,CI5mhfNa0Zqd2,New Orleans,Saints,NO,19,65,0,18,28,,127,1,1,71.577,111,176,2,16,3,0,1,5,48,14,3,11,0.273,0,1,0.0,1387,https://www.pro-football-reference.com/boxscores/201811290dal.htm
+2018,2018-11-29,KdjU81i7YSFE7,Dallas,Cowboys,DAL,31,99,0,24,28,,249,1,0,115.625,209,308,7,40,3,2,2,8,80,21,7,14,0.5,0,0,0.0,2213,https://www.pro-football-reference.com/boxscores/201811290dal.htm
+2018,2018-12-02,zyhFXj1nywrm1,Baltimore,Ravens,BAL,49,207,1,15,26,,167,0,0,76.923,159,366,2,8,4,1,1,9,88,25,7,15,0.467,2,2,1.0,2379,https://www.pro-football-reference.com/boxscores/201812020atl.htm
+2018,2018-12-02,mLspw4gJNTQGN,Atlanta,Falcons,ATL,15,34,0,16,27,,131,1,0,84.028,97,131,3,34,2,1,1,8,82,16,2,9,0.222,0,1,0.0,1221,https://www.pro-football-reference.com/boxscores/201812020atl.htm
+2018,2018-12-02,3VqeLK0LS9rpw,Buffalo,Bills,BUF,31,198,0,18,33,,231,2,2,71.654,217,415,2,14,3,1,3,13,120,24,5,13,0.385,0,1,0.0,1977,https://www.pro-football-reference.com/boxscores/201812020mia.htm
+2018,2018-12-02,mfbu6O5aMHbJg,Miami,Dolphins,MIA,23,60,0,16,24,,137,3,1,103.646,115,175,3,22,1,0,1,8,89,15,2,9,0.222,0,0,0.0,1623,https://www.pro-football-reference.com/boxscores/201812020mia.htm
+2018,2018-12-02,jJBGuksuDJF5L,Carolina,Panthers,CAR,19,168,0,28,42,,300,2,4,63.69,276,444,4,24,1,0,4,7,104,27,3,8,0.375,0,1,0.0,1806,https://www.pro-football-reference.com/boxscores/201812020tam.htm
+2018,2018-12-02,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,25,95,1,20,30,,249,2,0,114.444,220,315,4,29,2,1,1,9,69,18,6,13,0.462,0,0,0.0,1794,https://www.pro-football-reference.com/boxscores/201812020tam.htm
+2018,2018-12-02,1vVmWGzUZ1rea,Chicago,Bears,CHI,32,118,1,27,40,,286,2,2,83.958,258,376,5,28,6,1,3,8,58,23,2,15,0.133,4,5,0.8,2038,https://www.pro-football-reference.com/boxscores/201812020nyg.htm
+2018,2018-12-02,n8CuHV9wbYCqF,New York,Giants,NYG,29,141,0,20,36,,219,2,1,80.671,197,338,3,22,0,0,1,12,107,18,6,17,0.353,2,2,1.0,1993,https://www.pro-football-reference.com/boxscores/201812020nyg.htm
+2018,2018-12-02,6DclFuycdPaOB,Denver,Broncos,DEN,34,218,2,12,21,,151,1,0,95.536,143,361,2,8,1,1,1,7,60,16,5,13,0.385,0,0,0.0,1720,https://www.pro-football-reference.com/boxscores/201812020cin.htm
+2018,2018-12-02,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,23,111,0,25,37,,236,1,1,82.714,202,313,4,34,2,2,3,12,100,20,5,13,0.385,0,0,0.0,1880,https://www.pro-football-reference.com/boxscores/201812020cin.htm
+2018,2018-12-02,IR4gIYmh269EI,Cleveland,Browns,CLE,9,31,1,29,43,,397,1,3,75.436,397,428,0,0,1,1,4,6,45,20,2,8,0.25,0,2,0.0,1345,https://www.pro-football-reference.com/boxscores/201812020htx.htm
+2018,2018-12-02,UI0Ax4HUEXFh6,Houston,Texans,HOU,39,187,0,22,31,,224,1,0,102.083,197,384,4,27,2,0,0,5,77,25,8,16,0.5,0,0,0.0,2255,https://www.pro-football-reference.com/boxscores/201812020htx.htm
+2018,2018-12-02,LJmHetie5VbbO,Indianapolis,Colts,IND,16,41,0,33,52,,248,0,1,66.827,224,265,3,24,1,1,2,6,65,19,5,18,0.278,0,3,0.0,1827,https://www.pro-football-reference.com/boxscores/201812020jax.htm
+2018,2018-12-02,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,27,79,0,18,24,,150,0,0,90.625,132,211,3,18,2,1,1,8,74,11,6,15,0.4,0,0,0.0,1773,https://www.pro-football-reference.com/boxscores/201812020jax.htm
+2018,2018-12-02,GJizlkzQFaqGA,Arizona,Cardinals,ARI,29,182,2,11,26,,149,0,0,61.218,133,315,2,16,3,0,0,7,49,18,5,13,0.385,0,0,0.0,1654,https://www.pro-football-reference.com/boxscores/201812020gnb.htm
+2018,2018-12-02,D5QY6bOxfn8ZL,Green Bay,Packers,GB,23,98,1,31,50,,233,1,0,79.833,227,325,1,6,0,0,0,7,43,22,3,14,0.214,2,2,1.0,1946,https://www.pro-football-reference.com/boxscores/201812020gnb.htm
+2018,2018-12-02,u98I1lDKQBwZ0,Los Angeles,Rams,LA,29,149,2,17,33,,207,1,1,68.624,195,344,2,12,1,1,2,7,105,24,5,11,0.455,0,0,0.0,1696,https://www.pro-football-reference.com/boxscores/201812020det.htm
+2018,2018-12-02,FCuH1wdksA2DQ,Detroit,Lions,DET,26,102,0,20,34,,245,1,1,78.676,208,310,4,37,1,1,2,8,54,23,2,12,0.167,0,0,0.0,1904,https://www.pro-football-reference.com/boxscores/201812020det.htm
+2018,2018-12-02,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,30,174,1,23,38,,295,4,0,119.956,295,469,0,0,1,1,1,11,94,25,6,13,0.462,1,1,1.0,1754,https://www.pro-football-reference.com/boxscores/201812020rai.htm
+2018,2018-12-02,LZoDld8s63xUs,Las Vegas,Raiders,LV,28,171,1,29,38,,285,3,0,123.246,271,442,3,14,4,3,3,8,74,28,9,12,0.75,0,0,0.0,1846,https://www.pro-football-reference.com/boxscores/201812020rai.htm
+2018,2018-12-02,mexvMWO2v1hWn,New York,Jets,NYJ,33,156,0,17,30,,128,0,1,53.194,124,280,2,4,0,0,1,11,96,15,3,14,0.214,0,0,0.0,2002,https://www.pro-football-reference.com/boxscores/201812020oti.htm
+2018,2018-12-02,ltMyRE3yvVUaw,Tennessee,Titans,TEN,22,130,1,20,35,,282,2,1,90.417,273,403,3,9,2,0,1,8,75,22,1,11,0.091,0,0,0.0,1598,https://www.pro-football-reference.com/boxscores/201812020oti.htm
+2018,2018-12-02,AzOs5UWsXusSW,Minnesota,Vikings,MIN,13,95,0,32,44,,201,1,2,70.36,183,278,2,18,0,0,2,5,55,16,3,12,0.25,1,2,0.5,1599,https://www.pro-football-reference.com/boxscores/201812020nwe.htm
+2018,2018-12-02,VkxV91RtzHn65,New England,Patriots,NE,39,160,2,24,32,,311,1,1,102.474,311,471,0,0,0,0,1,7,60,27,7,14,0.5,1,1,1.0,2001,https://www.pro-football-reference.com/boxscores/201812020nwe.htm
+2018,2018-12-02,IwSI92ZDKoazn,San Francisco,49ers,SF,23,66,0,30,48,,414,2,1,95.312,386,452,3,28,3,2,3,13,128,24,7,16,0.438,1,2,0.5,1950,https://www.pro-football-reference.com/boxscores/201812020sea.htm
+2018,2018-12-02,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,29,168,1,11,17,,185,4,0,140.931,163,331,3,22,0,0,0,10,100,21,4,9,0.444,0,0,0.0,1650,https://www.pro-football-reference.com/boxscores/201812020sea.htm
+2018,2018-12-02,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,22,85,1,26,36,,299,2,0,115.394,286,371,2,13,0,0,0,5,80,22,6,11,0.545,0,0,0.0,1872,https://www.pro-football-reference.com/boxscores/201812020pit.htm
+2018,2018-12-02,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,17,65,2,29,45,,281,2,1,87.361,271,336,1,10,1,0,1,7,59,23,3,10,0.3,1,1,1.0,1728,https://www.pro-football-reference.com/boxscores/201812020pit.htm
+2018,2018-12-03,9JtBk8kFeaGEs,Washington,Football Team,WAS,14,104,1,17,25,,150,0,1,67.083,131,235,3,19,2,0,1,10,69,10,2,10,0.2,0,0,0.0,1241,https://www.pro-football-reference.com/boxscores/201812030phi.htm
+2018,2018-12-03,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,33,130,1,27,39,,306,2,1,98.878,306,436,0,0,3,0,1,5,38,28,7,13,0.538,0,1,0.0,2359,https://www.pro-football-reference.com/boxscores/201812030phi.htm
+2018,2018-12-06,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,20,60,0,25,43,,240,1,0,81.541,195,255,4,45,1,1,1,7,67,17,2,12,0.167,2,5,0.4,1840,https://www.pro-football-reference.com/boxscores/201812060oti.htm
+2018,2018-12-06,ltMyRE3yvVUaw,Tennessee,Titans,TEN,32,264,4,18,24,,162,0,1,75.347,162,426,1,0,1,0,1,3,30,21,7,11,0.636,0,1,0.0,1760,https://www.pro-football-reference.com/boxscores/201812060oti.htm
+2018,2018-12-09,mLspw4gJNTQGN,Atlanta,Falcons,ATL,24,107,0,28,42,,262,3,1,97.52,237,344,2,25,3,1,2,13,101,22,3,12,0.25,3,3,1.0,1849,https://www.pro-football-reference.com/boxscores/201812090gnb.htm
+2018,2018-12-09,D5QY6bOxfn8ZL,Green Bay,Packers,GB,25,138,1,21,32,,196,2,0,103.125,162,300,4,34,2,0,0,6,37,23,7,13,0.538,0,0,0.0,1751,https://www.pro-football-reference.com/boxscores/201812090gnb.htm
+2018,2018-12-09,mexvMWO2v1hWn,New York,Jets,NYJ,28,78,2,16,25,,170,1,1,80.417,170,248,0,0,2,1,2,7,93,15,6,13,0.462,1,1,1.0,1573,https://www.pro-football-reference.com/boxscores/201812090buf.htm
+2018,2018-12-09,3VqeLK0LS9rpw,Buffalo,Bills,BUF,31,176,2,18,37,,206,0,2,43.3,192,368,3,14,1,1,3,7,47,24,7,14,0.5,0,0,0.0,2027,https://www.pro-football-reference.com/boxscores/201812090buf.htm
+2018,2018-12-09,jJBGuksuDJF5L,Carolina,Panthers,CAR,25,96,2,27,43,,298,0,1,73.595,297,393,1,1,0,0,1,10,68,22,5,14,0.357,2,3,0.667,2030,https://www.pro-football-reference.com/boxscores/201812090cle.htm
+2018,2018-12-09,IR4gIYmh269EI,Cleveland,Browns,CLE,21,116,2,18,23,,238,1,0,124.275,232,348,1,6,3,2,2,7,52,12,4,9,0.444,0,0,0.0,1570,https://www.pro-football-reference.com/boxscores/201812090cle.htm
+2018,2018-12-09,LJmHetie5VbbO,Indianapolis,Colts,IND,23,50,1,27,41,,399,2,1,103.608,386,436,2,13,1,0,1,9,59,24,4,12,0.333,0,0,0.0,1683,https://www.pro-football-reference.com/boxscores/201812090htx.htm
+2018,2018-12-09,UI0Ax4HUEXFh6,Houston,Texans,HOU,25,89,2,27,38,,267,1,0,99.342,226,315,5,41,0,0,0,7,35,25,5,15,0.333,2,2,1.0,1917,https://www.pro-football-reference.com/boxscores/201812090htx.htm
+2018,2018-12-09,zyhFXj1nywrm1,Baltimore,Ravens,BAL,40,194,1,13,26,,147,2,0,92.949,127,321,2,20,1,1,1,11,112,24,5,12,0.417,1,3,0.333,1887,https://www.pro-football-reference.com/boxscores/201812090kan.htm
+2018,2018-12-09,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,27,94,1,35,53,,377,2,1,91.47,348,442,3,29,1,0,1,7,53,30,6,16,0.375,3,3,1.0,2220,https://www.pro-football-reference.com/boxscores/201812090kan.htm
+2018,2018-12-09,VkxV91RtzHn65,New England,Patriots,NE,30,77,1,27,43,,358,3,0,112.355,344,421,2,14,0,0,0,5,30,28,9,16,0.562,0,0,0.0,2114,https://www.pro-football-reference.com/boxscores/201812090mia.htm
+2018,2018-12-09,mfbu6O5aMHbJg,Miami,Dolphins,MIA,21,189,2,14,19,,265,3,0,155.154,223,412,5,42,2,0,0,7,81,20,1,7,0.143,0,0,0.0,1486,https://www.pro-football-reference.com/boxscores/201812090mia.htm
+2018,2018-12-09,CI5mhfNa0Zqd2,New Orleans,Saints,NO,30,100,2,24,31,,201,1,1,90.927,198,298,1,3,1,1,2,6,51,19,6,12,0.5,1,1,1.0,1913,https://www.pro-football-reference.com/boxscores/201812090tam.htm
+2018,2018-12-09,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,23,105,0,18,38,,213,2,1,71.491,174,279,4,39,1,0,1,10,84,20,6,14,0.429,0,0,0.0,1687,https://www.pro-football-reference.com/boxscores/201812090tam.htm
+2018,2018-12-09,n8CuHV9wbYCqF,New York,Giants,NYG,34,227,1,14,27,,197,3,1,97.299,175,402,2,22,0,0,1,2,18,19,4,13,0.308,0,0,0.0,1809,https://www.pro-football-reference.com/boxscores/201812090was.htm
+2018,2018-12-09,9JtBk8kFeaGEs,Washington,Football Team,WAS,22,84,1,17,30,,233,1,3,53.194,204,288,5,29,1,0,3,15,135,12,2,11,0.182,0,1,0.0,1791,https://www.pro-football-reference.com/boxscores/201812090was.htm
+2018,2018-12-09,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,32,144,1,18,27,,170,1,0,96.219,151,295,3,19,0,0,0,6,34,19,5,13,0.385,0,1,0.0,1958,https://www.pro-football-reference.com/boxscores/201812090sdg.htm
+2018,2018-12-09,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,25,85,1,19,29,,220,1,0,99.784,203,288,2,17,0,0,0,6,38,17,5,13,0.385,1,1,1.0,1642,https://www.pro-football-reference.com/boxscores/201812090sdg.htm
+2018,2018-12-09,6DclFuycdPaOB,Denver,Broncos,DEN,27,103,1,24,42,,186,1,0,76.091,171,274,2,15,4,0,0,11,62,22,2,15,0.133,5,7,0.714,1759,https://www.pro-football-reference.com/boxscores/201812090sfo.htm
+2018,2018-12-09,IwSI92ZDKoazn,San Francisco,49ers,SF,30,84,0,20,33,,332,2,1,102.083,305,389,3,27,3,0,1,11,87,24,4,13,0.308,0,1,0.0,1841,https://www.pro-football-reference.com/boxscores/201812090sfo.htm
+2018,2018-12-09,FCuH1wdksA2DQ,Detroit,Lions,DET,31,122,1,15,23,,101,0,0,74.728,96,218,1,5,2,1,1,7,68,16,4,12,0.333,0,0,0.0,1696,https://www.pro-football-reference.com/boxscores/201812090crd.htm
+2018,2018-12-09,GJizlkzQFaqGA,Arizona,Cardinals,ARI,21,61,0,26,41,,240,0,1,69.157,218,279,3,22,2,0,1,8,83,22,6,16,0.375,0,1,0.0,1904,https://www.pro-football-reference.com/boxscores/201812090crd.htm
+2018,2018-12-09,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,14,34,0,22,32,,228,3,0,120.312,222,256,2,6,1,1,1,5,49,16,1,9,0.111,1,1,1.0,1352,https://www.pro-football-reference.com/boxscores/201812090dal.htm
+2018,2018-12-09,KdjU81i7YSFE7,Dallas,Cowboys,DAL,36,142,0,42,54,,455,3,2,104.861,434,576,3,21,2,1,3,11,110,32,9,18,0.5,1,1,1.0,2733,https://www.pro-football-reference.com/boxscores/201812090dal.htm
+2018,2018-12-09,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,19,40,1,29,38,,306,2,1,105.811,300,340,1,6,0,0,1,2,14,24,6,11,0.545,0,1,0.0,1644,https://www.pro-football-reference.com/boxscores/201812090rai.htm
+2018,2018-12-09,LZoDld8s63xUs,Las Vegas,Raiders,LV,25,55,1,25,34,,322,2,0,122.426,299,354,4,23,1,1,1,13,130,20,4,12,0.333,2,2,1.0,1956,https://www.pro-football-reference.com/boxscores/201812090rai.htm
+2018,2018-12-09,u98I1lDKQBwZ0,Los Angeles,Rams,LA,13,52,0,21,45,,187,0,4,21.25,162,214,3,25,1,0,4,9,57,14,3,12,0.25,1,3,0.333,1391,https://www.pro-football-reference.com/boxscores/201812090chi.htm
+2018,2018-12-09,1vVmWGzUZ1rea,Chicago,Bears,CHI,35,194,0,16,30,,110,1,3,33.333,100,294,1,10,0,0,3,6,45,17,7,16,0.438,0,0,0.0,2209,https://www.pro-football-reference.com/boxscores/201812090chi.htm
+2018,2018-12-10,AzOs5UWsXusSW,Minnesota,Vikings,MIN,21,77,0,20,33,,208,1,0,88.952,199,276,2,9,1,1,1,4,51,16,2,10,0.2,0,2,0.0,1691,https://www.pro-football-reference.com/boxscores/201812100sea.htm
+2018,2018-12-10,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,42,214,1,10,20,,72,0,1,37.917,60,274,2,12,0,0,1,4,45,19,3,11,0.273,1,1,1.0,1909,https://www.pro-football-reference.com/boxscores/201812100sea.htm
+2018,2018-12-13,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,24,119,2,26,38,,313,2,2,89.035,288,407,5,25,2,0,2,7,50,30,6,10,0.6,1,1,1.0,1996,https://www.pro-football-reference.com/boxscores/201812130kan.htm
+2018,2018-12-13,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,17,60,2,24,34,,243,2,0,110.294,234,294,2,9,2,0,0,10,66,22,6,10,0.6,0,0,0.0,1604,https://www.pro-football-reference.com/boxscores/201812130kan.htm
+2018,2018-12-15,UI0Ax4HUEXFh6,Houston,Texans,HOU,17,47,0,22,28,,294,2,0,134.226,239,286,6,55,0,0,0,5,43,15,1,9,0.111,0,0,0.0,1496,https://www.pro-football-reference.com/boxscores/201812150nyj.htm
+2018,2018-12-15,mexvMWO2v1hWn,New York,Jets,NYJ,31,90,1,24,38,,253,2,0,100.0,228,318,3,25,1,1,1,9,60,21,9,17,0.529,1,3,0.333,2104,https://www.pro-football-reference.com/boxscores/201812150nyj.htm
+2018,2018-12-15,IR4gIYmh269EI,Cleveland,Browns,CLE,28,134,0,18,31,,188,2,1,83.804,175,309,2,13,1,1,2,6,75,21,5,12,0.417,1,2,0.5,1638,https://www.pro-football-reference.com/boxscores/201812150den.htm
+2018,2018-12-15,6DclFuycdPaOB,Denver,Broncos,DEN,20,32,1,31,48,,257,0,2,60.851,238,270,2,19,0,0,2,8,51,22,5,14,0.357,1,2,0.5,1962,https://www.pro-football-reference.com/boxscores/201812150den.htm
+2018,2018-12-16,GJizlkzQFaqGA,Arizona,Cardinals,ARI,22,60,1,23,36,,243,1,2,69.56,193,253,7,50,1,1,3,8,75,18,3,13,0.231,2,2,1.0,1760,https://www.pro-football-reference.com/boxscores/201812160atl.htm
+2018,2018-12-16,mLspw4gJNTQGN,Atlanta,Falcons,ATL,27,215,2,22,36,,231,2,0,98.264,220,435,2,11,0,0,0,6,50,23,5,13,0.385,0,0,0.0,1840,https://www.pro-football-reference.com/boxscores/201812160atl.htm
+2018,2018-12-16,FCuH1wdksA2DQ,Detroit,Lions,DET,26,105,1,22,29,,208,1,0,106.681,208,313,0,0,0,0,0,4,81,14,5,13,0.385,0,0,0.0,1734,https://www.pro-football-reference.com/boxscores/201812160buf.htm
+2018,2018-12-16,3VqeLK0LS9rpw,Buffalo,Bills,BUF,37,117,1,13,26,,204,1,0,89.263,195,312,1,9,1,0,0,3,20,20,3,12,0.25,1,2,0.5,1866,https://www.pro-football-reference.com/boxscores/201812160buf.htm
+2018,2018-12-16,D5QY6bOxfn8ZL,Green Bay,Packers,GB,19,88,1,25,42,,274,0,1,68.948,235,323,5,39,1,0,1,7,48,19,5,14,0.357,1,1,1.0,1777,https://www.pro-football-reference.com/boxscores/201812160chi.htm
+2018,2018-12-16,1vVmWGzUZ1rea,Chicago,Bears,CHI,29,100,1,20,28,,235,2,0,120.387,232,332,1,3,3,1,1,4,24,19,3,10,0.3,0,1,0.0,1823,https://www.pro-football-reference.com/boxscores/201812160chi.htm
+2018,2018-12-16,LZoDld8s63xUs,Las Vegas,Raiders,LV,16,68,0,21,38,,263,1,0,85.746,229,297,5,34,2,2,2,8,90,13,3,14,0.214,0,0,0.0,1601,https://www.pro-football-reference.com/boxscores/201812160cin.htm
+2018,2018-12-16,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,41,171,2,14,33,,130,1,1,51.326,123,294,1,7,0,0,1,9,85,18,8,19,0.421,2,2,1.0,1999,https://www.pro-football-reference.com/boxscores/201812160cin.htm
+2018,2018-12-16,KdjU81i7YSFE7,Dallas,Cowboys,DAL,22,112,0,24,39,,206,0,1,64.69,180,292,3,26,1,0,1,9,74,19,4,12,0.333,1,5,0.2,1692,https://www.pro-football-reference.com/boxscores/201812160clt.htm
+2018,2018-12-16,LJmHetie5VbbO,Indianapolis,Colts,IND,39,178,2,16,27,,192,0,0,81.096,192,370,0,0,2,1,1,6,55,25,8,12,0.667,0,0,0.0,1908,https://www.pro-football-reference.com/boxscores/201812160clt.htm
+2018,2018-12-16,9JtBk8kFeaGEs,Washington,Football Team,WAS,33,109,0,16,25,,151,1,0,93.917,136,245,3,15,2,0,0,6,48,16,7,15,0.467,0,0,0.0,1986,https://www.pro-football-reference.com/boxscores/201812160jax.htm
+2018,2018-12-16,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,26,172,0,9,17,,57,0,1,35.662,20,192,6,37,1,1,2,8,55,11,5,13,0.385,0,0,0.0,1614,https://www.pro-football-reference.com/boxscores/201812160jax.htm
+2018,2018-12-16,mfbu6O5aMHbJg,Miami,Dolphins,MIA,20,156,1,11,24,,108,0,0,59.028,37,193,9,71,1,0,0,8,49,12,2,12,0.167,0,2,0.0,1604,https://www.pro-football-reference.com/boxscores/201812160min.htm
+2018,2018-12-16,AzOs5UWsXusSW,Minnesota,Vikings,MIN,40,220,3,14,21,,215,2,1,112.202,198,418,2,17,0,0,1,6,45,22,5,13,0.385,0,0,0.0,1996,https://www.pro-football-reference.com/boxscores/201812160min.htm
+2018,2018-12-16,ltMyRE3yvVUaw,Tennessee,Titans,TEN,45,215,2,13,21,,94,0,0,72.321,86,301,1,8,0,0,0,4,35,22,5,14,0.357,1,1,1.0,2121,https://www.pro-football-reference.com/boxscores/201812160nyg.htm
+2018,2018-12-16,n8CuHV9wbYCqF,New York,Giants,NYG,16,47,0,21,44,,229,0,1,54.072,213,260,3,16,1,1,2,10,58,15,3,16,0.188,2,3,0.667,1479,https://www.pro-football-reference.com/boxscores/201812160nyg.htm
+2018,2018-12-16,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,21,85,1,13,25,,157,0,1,54.917,156,241,1,1,0,0,1,6,58,12,3,10,0.3,0,1,0.0,1370,https://www.pro-football-reference.com/boxscores/201812160rav.htm
+2018,2018-12-16,zyhFXj1nywrm1,Baltimore,Ravens,BAL,49,242,1,14,23,,131,1,0,91.033,128,370,2,3,2,2,2,8,70,24,9,16,0.562,1,1,1.0,2230,https://www.pro-football-reference.com/boxscores/201812160rav.htm
+2018,2018-12-16,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,35,168,1,23,31,,237,2,0,117.272,217,385,3,20,1,0,0,14,148,18,9,19,0.474,1,1,1.0,2234,https://www.pro-football-reference.com/boxscores/201812160sfo.htm
+2018,2018-12-16,IwSI92ZDKoazn,San Francisco,49ers,SF,26,94,0,20,29,,275,1,0,110.56,257,351,3,18,1,1,1,8,66,20,3,10,0.3,0,0,0.0,1780,https://www.pro-football-reference.com/boxscores/201812160sfo.htm
+2018,2018-12-16,VkxV91RtzHn65,New England,Patriots,NE,19,96,0,25,36,,279,1,1,89.931,272,368,1,7,0,0,1,14,106,18,3,10,0.3,0,1,0.0,1751,https://www.pro-football-reference.com/boxscores/201812160pit.htm
+2018,2018-12-16,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,25,158,0,22,34,,235,2,2,79.902,218,376,2,17,0,0,2,4,40,24,4,9,0.444,0,0,0.0,1849,https://www.pro-football-reference.com/boxscores/201812160pit.htm
+2018,2018-12-16,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,30,111,3,24,31,,270,0,1,89.449,270,381,0,0,0,0,1,6,49,17,4,13,0.308,0,1,0.0,1896,https://www.pro-football-reference.com/boxscores/201812160ram.htm
+2018,2018-12-16,u98I1lDKQBwZ0,Los Angeles,Rams,LA,18,82,2,35,54,,339,0,1,74.537,325,407,2,14,3,2,3,5,50,23,4,12,0.333,0,1,0.0,1704,https://www.pro-football-reference.com/boxscores/201812160ram.htm
+2018,2018-12-17,CI5mhfNa0Zqd2,New Orleans,Saints,NO,32,155,1,23,35,,203,0,1,69.107,191,346,2,12,1,1,2,9,80,21,4,13,0.308,1,1,1.0,2109,https://www.pro-football-reference.com/boxscores/201812170car.htm
+2018,2018-12-17,jJBGuksuDJF5L,Carolina,Panthers,CAR,23,98,0,17,30,,181,1,1,71.667,149,247,4,32,1,1,2,4,48,13,7,15,0.467,1,2,0.5,1491,https://www.pro-football-reference.com/boxscores/201812170car.htm
+2018,2018-12-22,9JtBk8kFeaGEs,Washington,Football Team,WAS,34,161,0,13,23,,153,1,2,55.163,131,292,2,22,0,0,2,8,49,17,8,14,0.571,0,0,0.0,1983,https://www.pro-football-reference.com/boxscores/201812220oti.htm
+2018,2018-12-22,ltMyRE3yvVUaw,Tennessee,Titans,TEN,27,99,1,17,25,,211,1,0,107.25,192,291,3,19,0,0,0,2,10,20,5,11,0.455,0,0,0.0,1617,https://www.pro-football-reference.com/boxscores/201812220oti.htm
+2018,2018-12-22,zyhFXj1nywrm1,Baltimore,Ravens,BAL,35,159,0,12,22,,204,1,0,101.326,202,361,3,2,2,1,1,4,40,15,4,14,0.286,1,2,0.5,1885,https://www.pro-football-reference.com/boxscores/201812220sdg.htm
+2018,2018-12-22,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,16,51,1,23,37,,181,0,2,51.745,147,198,4,34,2,1,3,8,69,14,4,13,0.308,0,0,0.0,1715,https://www.pro-football-reference.com/boxscores/201812220sdg.htm
+2018,2018-12-23,mLspw4gJNTQGN,Atlanta,Falcons,ATL,21,194,0,15,26,,239,3,0,126.923,233,427,1,6,2,2,2,4,41,16,4,10,0.4,0,0,0.0,1351,https://www.pro-football-reference.com/boxscores/201812230car.htm
+2018,2018-12-23,jJBGuksuDJF5L,Carolina,Panthers,CAR,25,141,0,37,57,,312,1,3,62.902,295,436,2,17,2,1,4,10,86,29,7,14,0.5,0,2,0.0,2249,https://www.pro-football-reference.com/boxscores/201812230car.htm
+2018,2018-12-23,3VqeLK0LS9rpw,Buffalo,Bills,BUF,18,72,0,20,41,,217,1,2,52.591,217,289,0,0,1,1,3,3,29,14,2,12,0.167,0,1,0.0,1462,https://www.pro-football-reference.com/boxscores/201812230nwe.htm
+2018,2018-12-23,VkxV91RtzHn65,New England,Patriots,NE,47,273,2,13,25,,126,1,2,46.417,117,390,1,9,1,1,3,5,49,20,3,12,0.25,1,2,0.5,2138,https://www.pro-football-reference.com/boxscores/201812230nwe.htm
+2018,2018-12-23,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,24,102,0,13,19,,133,2,0,123.355,107,209,3,26,1,0,0,3,15,15,1,8,0.125,1,1,1.0,1469,https://www.pro-football-reference.com/boxscores/201812230cle.htm
+2018,2018-12-23,IR4gIYmh269EI,Cleveland,Browns,CLE,28,146,0,28,38,,347,3,0,127.851,347,493,0,0,0,0,0,6,57,23,5,12,0.417,1,1,1.0,2131,https://www.pro-football-reference.com/boxscores/201812230cle.htm
+2018,2018-12-23,n8CuHV9wbYCqF,New York,Giants,NYG,29,83,2,25,33,,309,1,1,101.705,309,392,0,0,0,0,1,6,24,22,7,12,0.583,0,0,0.0,1901,https://www.pro-football-reference.com/boxscores/201812230clt.htm
+2018,2018-12-23,LJmHetie5VbbO,Indianapolis,Colts,IND,16,49,2,31,47,,357,2,1,94.016,353,402,1,4,0,0,1,6,29,27,7,11,0.636,0,0,0.0,1699,https://www.pro-football-reference.com/boxscores/201812230clt.htm
+2018,2018-12-23,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,24,63,1,34,48,,336,1,0,97.222,320,383,3,16,2,2,2,9,72,27,4,13,0.308,1,2,0.5,2119,https://www.pro-football-reference.com/boxscores/201812230dal.htm
+2018,2018-12-23,KdjU81i7YSFE7,Dallas,Cowboys,DAL,24,80,1,20,25,,161,1,0,106.833,152,232,1,9,1,0,0,10,67,16,3,9,0.333,0,0,0.0,1481,https://www.pro-football-reference.com/boxscores/201812230dal.htm
+2018,2018-12-23,AzOs5UWsXusSW,Minnesota,Vikings,MIN,28,100,0,21,28,,253,3,0,137.946,240,340,2,13,0,0,0,11,78,16,4,13,0.308,0,1,0.0,1712,https://www.pro-football-reference.com/boxscores/201812230det.htm
+2018,2018-12-23,FCuH1wdksA2DQ,Detroit,Lions,DET,23,86,0,23,43,,161,0,0,62.258,137,223,3,24,1,0,0,7,55,17,4,16,0.25,1,3,0.333,1888,https://www.pro-football-reference.com/boxscores/201812230det.htm
+2018,2018-12-23,D5QY6bOxfn8ZL,Green Bay,Packers,GB,20,127,3,37,55,,442,2,0,103.75,413,540,4,29,2,1,1,10,86,35,5,12,0.417,2,2,1.0,2059,https://www.pro-football-reference.com/boxscores/201812230nyj.htm
+2018,2018-12-23,mexvMWO2v1hWn,New York,Jets,NYJ,20,47,1,24,35,,341,3,0,128.393,323,370,2,18,1,0,0,16,172,23,3,11,0.273,2,2,1.0,1758,https://www.pro-football-reference.com/boxscores/201812230nyj.htm
+2018,2018-12-23,UI0Ax4HUEXFh6,Houston,Texans,HOU,19,62,2,29,40,,339,2,0,114.479,309,371,4,30,2,1,1,10,61,25,3,10,0.3,0,1,0.0,1575,https://www.pro-football-reference.com/boxscores/201812230phi.htm
+2018,2018-12-23,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,22,57,0,35,50,,471,4,1,118.0,462,519,1,9,3,2,3,11,105,25,9,16,0.562,4,4,1.0,2025,https://www.pro-football-reference.com/boxscores/201812230phi.htm
+2018,2018-12-23,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,32,126,1,17,24,,145,0,0,86.285,118,244,6,27,2,1,1,10,97,19,6,13,0.462,0,0,0.0,2085,https://www.pro-football-reference.com/boxscores/201812230mia.htm
+2018,2018-12-23,mfbu6O5aMHbJg,Miami,Dolphins,MIA,18,62,0,15,22,,146,1,1,82.765,121,183,3,25,1,1,2,10,95,11,2,9,0.222,0,0,0.0,1515,https://www.pro-football-reference.com/boxscores/201812230mia.htm
+2018,2018-12-23,1vVmWGzUZ1rea,Chicago,Bears,CHI,28,90,1,25,29,,246,1,0,113.506,235,325,3,11,2,2,2,4,30,20,5,11,0.455,1,1,1.0,2130,https://www.pro-football-reference.com/boxscores/201812230sfo.htm
+2018,2018-12-23,IwSI92ZDKoazn,San Francisco,49ers,SF,15,47,0,22,38,,241,0,1,65.789,232,279,1,9,1,0,1,6,45,15,7,14,0.5,0,1,0.0,1470,https://www.pro-football-reference.com/boxscores/201812230sfo.htm
+2018,2018-12-23,u98I1lDKQBwZ0,Los Angeles,Rams,LA,41,269,3,19,24,,216,1,0,118.056,192,461,2,24,1,1,1,6,66,33,6,9,0.667,0,0,0.0,2224,https://www.pro-football-reference.com/boxscores/201812230crd.htm
+2018,2018-12-23,GJizlkzQFaqGA,Arizona,Cardinals,ARI,18,104,0,18,31,,182,1,0,85.685,159,263,4,23,0,0,0,7,54,15,2,11,0.182,1,2,0.5,1376,https://www.pro-football-reference.com/boxscores/201812230crd.htm
+2018,2018-12-23,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,18,65,0,33,50,,380,3,0,108.75,364,429,3,16,3,2,2,6,79,26,6,13,0.462,1,2,0.5,1880,https://www.pro-football-reference.com/boxscores/201812230nor.htm
+2018,2018-12-23,CI5mhfNa0Zqd2,New Orleans,Saints,NO,19,57,3,27,40,,326,1,1,90.208,313,370,2,13,1,0,1,9,91,24,6,12,0.5,0,0,0.0,1720,https://www.pro-football-reference.com/boxscores/201812230nor.htm
+2018,2018-12-23,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,19,154,0,23,40,,273,3,0,103.438,265,419,1,8,3,2,2,8,76,22,5,12,0.417,1,1,1.0,1498,https://www.pro-football-reference.com/boxscores/201812230sea.htm
+2018,2018-12-23,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,43,210,2,18,29,,271,3,0,127.227,254,464,3,17,1,0,0,3,20,31,7,14,0.5,0,0,0.0,2102,https://www.pro-football-reference.com/boxscores/201812230sea.htm
+2018,2018-12-24,6DclFuycdPaOB,Denver,Broncos,DEN,24,100,0,23,37,,202,2,2,72.128,200,300,1,2,1,0,2,11,91,19,6,14,0.429,1,2,0.5,1792,https://www.pro-football-reference.com/boxscores/201812240rai.htm
+2018,2018-12-24,LZoDld8s63xUs,Las Vegas,Raiders,LV,30,114,2,19,26,,167,0,0,89.744,159,273,1,8,1,0,0,6,50,16,5,13,0.385,0,0,0.0,1808,https://www.pro-football-reference.com/boxscores/201812240rai.htm
+2018,2018-12-30,mLspw4gJNTQGN,Atlanta,Falcons,ATL,30,109,1,32,45,,383,3,1,109.769,380,489,1,3,0,0,1,9,85,27,6,13,0.462,0,0,0.0,2086,https://www.pro-football-reference.com/boxscores/201812300tam.htm
+2018,2018-12-30,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,20,92,0,22,35,,345,4,1,121.726,341,433,1,4,1,0,1,3,30,22,4,10,0.4,0,0,0.0,1514,https://www.pro-football-reference.com/boxscores/201812300tam.htm
+2018,2018-12-30,mfbu6O5aMHbJg,Miami,Dolphins,MIA,25,99,0,19,32,,150,1,2,55.469,126,225,4,24,3,2,4,4,35,17,3,12,0.25,1,1,1.0,1782,https://www.pro-football-reference.com/boxscores/201812300buf.htm
+2018,2018-12-30,3VqeLK0LS9rpw,Buffalo,Bills,BUF,33,166,3,17,26,,224,3,1,114.904,215,381,1,9,0,0,1,3,24,23,5,11,0.455,1,2,0.5,1818,https://www.pro-football-reference.com/boxscores/201812300buf.htm
+2018,2018-12-30,jJBGuksuDJF5L,Carolina,Panthers,CAR,37,111,2,18,30,,268,2,0,111.528,263,374,1,5,0,0,0,2,10,25,6,13,0.462,1,2,0.5,2006,https://www.pro-football-reference.com/boxscores/201812300nor.htm
+2018,2018-12-30,CI5mhfNa0Zqd2,New Orleans,Saints,NO,27,184,1,14,22,,118,1,1,73.674,110,294,2,8,0,0,1,6,94,17,4,10,0.4,0,1,0.0,1594,https://www.pro-football-reference.com/boxscores/201812300nor.htm
+2018,2018-12-30,KdjU81i7YSFE7,Dallas,Cowboys,DAL,22,51,1,27,44,,387,4,0,120.17,368,419,4,19,1,1,1,6,46,23,11,17,0.647,2,2,1.0,1852,https://www.pro-football-reference.com/boxscores/201812300nyg.htm
+2018,2018-12-30,n8CuHV9wbYCqF,New York,Giants,NYG,25,143,2,24,41,,301,2,1,87.551,298,441,1,3,1,1,2,11,78,20,7,15,0.467,2,3,0.667,1748,https://www.pro-football-reference.com/boxscores/201812300nyg.htm
+2018,2018-12-30,FCuH1wdksA2DQ,Detroit,Lions,DET,38,130,1,21,33,,274,3,0,120.013,272,402,1,2,0,0,0,3,34,25,7,14,0.5,1,1,1.0,2214,https://www.pro-football-reference.com/boxscores/201812300gnb.htm
+2018,2018-12-30,D5QY6bOxfn8ZL,Green Bay,Packers,GB,13,46,0,19,40,,158,0,1,47.708,129,175,3,29,0,0,1,5,38,9,5,16,0.312,1,3,0.333,1386,https://www.pro-football-reference.com/boxscores/201812300gnb.htm
+2018,2018-12-30,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,16,30,0,15,28,,107,0,1,47.768,89,119,3,18,2,1,2,8,68,6,3,13,0.231,0,0,0.0,1493,https://www.pro-football-reference.com/boxscores/201812300htx.htm
+2018,2018-12-30,UI0Ax4HUEXFh6,Houston,Texans,HOU,33,134,2,25,35,,234,0,0,89.464,208,342,6,26,1,1,1,2,15,23,6,17,0.353,1,1,1.0,2107,https://www.pro-football-reference.com/boxscores/201812300htx.htm
+2018,2018-12-30,mexvMWO2v1hWn,New York,Jets,NYJ,23,104,0,16,28,,167,0,0,74.554,135,239,4,32,3,3,3,4,30,12,4,13,0.308,0,2,0.0,1667,https://www.pro-football-reference.com/boxscores/201812300nwe.htm
+2018,2018-12-30,VkxV91RtzHn65,New England,Patriots,NE,30,131,0,24,33,,250,4,0,133.838,244,375,1,6,0,0,0,4,30,24,5,11,0.455,0,1,0.0,1933,https://www.pro-football-reference.com/boxscores/201812300nwe.htm
+2018,2018-12-30,1vVmWGzUZ1rea,Chicago,Bears,CHI,37,169,3,18,26,,163,0,0,85.897,163,332,0,0,2,0,0,11,102,17,8,14,0.571,0,1,0.0,2228,https://www.pro-football-reference.com/boxscores/201812300min.htm
+2018,2018-12-30,AzOs5UWsXusSW,Minnesota,Vikings,MIN,15,63,0,20,33,,132,1,0,79.356,101,164,4,31,0,0,0,3,30,12,1,11,0.091,1,4,0.25,1372,https://www.pro-football-reference.com/boxscores/201812300min.htm
+2018,2018-12-30,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,18,125,0,12,24,,95,0,0,60.243,71,196,4,24,2,0,0,9,85,9,3,12,0.25,0,1,0.0,1538,https://www.pro-football-reference.com/boxscores/201812300pit.htm
+2018,2018-12-30,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,20,65,0,31,45,,287,1,1,84.213,278,343,1,9,1,0,1,9,70,18,5,15,0.333,2,2,1.0,2062,https://www.pro-football-reference.com/boxscores/201812300pit.htm
+2018,2018-12-30,IR4gIYmh269EI,Cleveland,Browns,CLE,14,50,0,23,42,,376,3,3,79.067,376,426,0,0,0,0,3,4,35,18,4,11,0.364,0,1,0.0,1290,https://www.pro-football-reference.com/boxscores/201812300rav.htm
+2018,2018-12-30,zyhFXj1nywrm1,Baltimore,Ravens,BAL,47,296,2,14,24,,179,0,0,81.771,167,463,2,12,2,1,1,10,65,24,3,13,0.231,1,1,1.0,2310,https://www.pro-football-reference.com/boxscores/201812300rav.htm
+2018,2018-12-30,GJizlkzQFaqGA,Arizona,Cardinals,ARI,24,85,0,18,34,,149,1,0,74.265,113,198,6,36,3,2,2,3,20,12,4,17,0.235,1,2,0.5,1851,https://www.pro-football-reference.com/boxscores/201812300sea.htm
+2018,2018-12-30,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,34,182,2,12,21,,152,1,1,75.893,109,291,6,43,0,0,1,1,10,16,4,14,0.286,0,0,0.0,1749,https://www.pro-football-reference.com/boxscores/201812300sea.htm
+2018,2018-12-30,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,30,116,1,14,24,,176,1,2,60.417,160,276,1,16,3,2,4,6,51,17,4,11,0.364,0,0,0.0,1692,https://www.pro-football-reference.com/boxscores/201812300den.htm
+2018,2018-12-30,6DclFuycdPaOB,Denver,Broncos,DEN,25,82,0,31,48,,292,1,1,79.514,288,370,1,4,4,3,4,11,99,19,4,14,0.286,1,2,0.5,1908,https://www.pro-football-reference.com/boxscores/201812300den.htm
+2018,2018-12-30,LZoDld8s63xUs,Las Vegas,Raiders,LV,29,127,0,24,33,,185,0,2,60.795,165,292,3,20,3,2,4,4,22,20,4,10,0.4,1,1,1.0,2036,https://www.pro-football-reference.com/boxscores/201812300kan.htm
+2018,2018-12-30,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,27,99,2,16,27,,310,2,1,108.565,310,409,0,0,0,0,1,4,50,18,5,9,0.556,1,3,0.333,1564,https://www.pro-football-reference.com/boxscores/201812300kan.htm
+2018,2018-12-30,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,34,129,0,29,34,,243,3,1,113.603,231,360,3,12,1,0,1,5,25,25,8,14,0.571,1,1,1.0,2599,https://www.pro-football-reference.com/boxscores/201812300was.htm
+2018,2018-12-30,9JtBk8kFeaGEs,Washington,Football Team,WAS,12,21,0,13,28,,98,0,1,40.476,68,89,4,30,1,0,1,2,15,8,0,9,0.0,2,4,0.5,1001,https://www.pro-football-reference.com/boxscores/201812300was.htm
+2018,2018-12-30,IwSI92ZDKoazn,San Francisco,49ers,SF,22,127,1,23,33,,282,3,3,88.194,264,391,3,18,1,1,4,5,41,22,3,11,0.273,1,1,1.0,1690,https://www.pro-football-reference.com/boxscores/201812300ram.htm
+2018,2018-12-30,u98I1lDKQBwZ0,Los Angeles,Rams,LA,42,155,1,17,29,,222,4,0,122.414,222,377,0,0,2,0,0,6,57,28,10,16,0.625,0,1,0.0,1910,https://www.pro-football-reference.com/boxscores/201812300ram.htm
+2018,2018-12-30,LJmHetie5VbbO,Indianapolis,Colts,IND,36,158,1,24,35,,285,3,1,109.821,278,436,1,7,1,1,2,12,96,24,5,13,0.385,1,1,1.0,2413,https://www.pro-football-reference.com/boxscores/201812300oti.htm
+2018,2018-12-30,ltMyRE3yvVUaw,Tennessee,Titans,TEN,16,93,0,18,29,,165,1,2,60.273,165,258,0,0,1,1,3,9,75,11,1,9,0.111,0,1,0.0,1187,https://www.pro-football-reference.com/boxscores/201812300oti.htm
+2018,2019-01-05,LJmHetie5VbbO,Indianapolis,Colts,IND,35,200,1,19,32,,222,2,1,88.281,222,422,0,0,0,0,1,2,10,26,9,14,0.643,0,0,0.0,1874,https://www.pro-football-reference.com/boxscores/201901050htx.htm
+2018,2019-01-05,UI0Ax4HUEXFh6,Houston,Texans,HOU,16,105,0,29,49,,235,1,1,69.685,217,322,3,18,0,0,1,8,67,20,3,13,0.231,2,5,0.4,1726,https://www.pro-football-reference.com/boxscores/201901050htx.htm
+2018,2019-01-05,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,24,73,1,18,27,,233,1,0,105.941,226,299,1,7,0,0,0,5,36,11,2,13,0.154,2,2,1.0,1510,https://www.pro-football-reference.com/boxscores/201901050dal.htm
+2018,2019-01-05,KdjU81i7YSFE7,Dallas,Cowboys,DAL,34,164,2,22,33,,226,1,1,83.649,216,380,1,10,0,0,1,6,36,23,4,11,0.364,0,0,0.0,2090,https://www.pro-football-reference.com/boxscores/201901050dal.htm
+2018,2019-01-06,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,33,89,1,22,32,,160,0,0,80.208,154,243,1,6,1,1,1,5,35,14,6,17,0.353,1,1,1.0,2020,https://www.pro-football-reference.com/boxscores/201901060rav.htm
+2018,2019-01-06,zyhFXj1nywrm1,Baltimore,Ravens,BAL,23,90,0,14,29,,194,2,1,78.807,139,229,7,55,4,2,3,7,41,11,5,15,0.333,2,2,1.0,1580,https://www.pro-football-reference.com/boxscores/201901060rav.htm
+2018,2019-01-06,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,23,42,0,25,40,,266,2,2,77.708,258,300,1,8,0,0,2,3,25,21,6,13,0.462,1,1,1.0,1848,https://www.pro-football-reference.com/boxscores/201901060chi.htm
+2018,2019-01-06,1vVmWGzUZ1rea,Chicago,Bears,CHI,18,65,0,26,43,,303,1,0,89.583,291,356,2,12,0,0,0,3,52,17,5,16,0.312,0,0,0.0,1752,https://www.pro-football-reference.com/boxscores/201901060chi.htm
+2018,2019-01-12,LJmHetie5VbbO,Indianapolis,Colts,IND,14,87,0,19,36,,203,1,0,78.819,179,266,3,24,1,1,1,10,70,15,0,9,0.0,1,1,1.0,1211,https://www.pro-football-reference.com/boxscores/201901120kan.htm
+2018,2019-01-12,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,33,180,4,27,41,,278,0,0,85.213,253,433,4,25,3,1,1,6,54,29,4,14,0.286,3,4,0.75,2389,https://www.pro-football-reference.com/boxscores/201901120kan.htm
+2018,2019-01-12,KdjU81i7YSFE7,Dallas,Cowboys,DAL,22,50,2,20,32,,266,1,0,99.219,258,308,1,8,1,0,0,4,26,19,1,10,0.1,3,4,0.75,1427,https://www.pro-football-reference.com/boxscores/201901120ram.htm
+2018,2019-01-12,u98I1lDKQBwZ0,Los Angeles,Rams,LA,48,273,3,15,28,,186,0,0,74.405,186,459,0,0,1,0,0,4,41,30,5,11,0.455,2,2,1.0,2173,https://www.pro-football-reference.com/boxscores/201901120ram.htm
+2018,2019-01-13,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,10,19,1,25,51,,331,3,1,81.413,316,335,2,15,1,1,2,5,33,22,5,13,0.385,1,1,1.0,1300,https://www.pro-football-reference.com/boxscores/201901130nwe.htm
+2018,2019-01-13,VkxV91RtzHn65,New England,Patriots,NE,34,155,4,34,44,,343,1,0,106.534,343,498,0,0,0,0,0,9,75,30,7,14,0.5,1,1,1.0,2300,https://www.pro-football-reference.com/boxscores/201901130nwe.htm
+2018,2019-01-13,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,16,49,1,18,31,,201,1,2,61.358,201,250,0,0,0,0,2,4,30,15,2,7,0.286,0,0,0.0,1330,https://www.pro-football-reference.com/boxscores/201901130nor.htm
+2018,2019-01-13,CI5mhfNa0Zqd2,New Orleans,Saints,NO,31,137,0,28,38,,301,2,1,103.07,283,420,2,18,2,0,1,11,84,25,8,15,0.533,2,2,1.0,2270,https://www.pro-football-reference.com/boxscores/201901130nor.htm
+2018,2019-01-20,u98I1lDKQBwZ0,Los Angeles,Rams,LA,26,77,1,26,41,,309,1,1,84.299,301,378,1,8,1,0,1,7,64,19,6,16,0.375,1,1,1.0,1956,https://www.pro-football-reference.com/boxscores/201901200nor.htm
+2018,2019-01-20,CI5mhfNa0Zqd2,New Orleans,Saints,NO,21,48,0,26,41,,249,2,1,86.331,242,290,2,7,2,0,1,3,20,19,6,14,0.429,0,0,0.0,1841,https://www.pro-football-reference.com/boxscores/201901200nor.htm
+2018,2019-01-20,VkxV91RtzHn65,New England,Patriots,NE,48,176,4,30,46,,348,1,2,77.083,348,524,0,0,0,0,2,6,61,36,13,19,0.684,1,2,0.5,2639,https://www.pro-football-reference.com/boxscores/201901200kan.htm
+2018,2019-01-20,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,12,41,1,16,31,,295,3,0,117.003,249,290,4,46,1,0,0,4,28,18,4,9,0.444,0,0,0.0,1253,https://www.pro-football-reference.com/boxscores/201901200kan.htm
+2018,2019-02-03,u98I1lDKQBwZ0,Los Angeles,Rams,LA,18,62,0,19,38,,229,0,1,57.895,198,260,4,31,1,0,1,9,65,14,3,13,0.231,0,0,0.0,1610,https://www.pro-football-reference.com/boxscores/201902030ram.htm
+2018,2019-02-03,VkxV91RtzHn65,New England,Patriots,NE,32,154,1,21,35,,262,0,1,71.369,253,407,1,9,1,0,1,3,20,22,3,12,0.25,0,1,0.0,1990,https://www.pro-football-reference.com/boxscores/201902030ram.htm

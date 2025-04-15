@@ -1,0 +1,535 @@
+season,event_date,nano,market,name,alias,rush_att,rush_yds,rush_tds,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_tds,pass_int,passer_rating,net_pass_yds,total_yds,times_sacked,yds_sacked_for,fumbles,fumbles_lost,turnovers,penalties,penalty_yds,first_downs,third_down_conv,third_down_att,third_down_conv_pct,fourth_down_conv,fourth_down_att,fourth_down_conv_pct,time_of_possession,boxscore_stats_link
+2014,2014-09-04,D5QY6bOxfn8ZL,Green Bay,Packers,GB,21,80,1,23,33,,189,1,1,81.503,175,255,3,14,1,0,1,8,65,19,6,12,0.5,0,1,0.0,1600,https://www.pro-football-reference.com/boxscores/201409040sea.htm
+2014,2014-09-04,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,37,207,2,19,28,,191,2,0,110.863,191,398,1,0,2,1,1,4,69,25,4,11,0.364,1,1,1.0,2000,https://www.pro-football-reference.com/boxscores/201409040sea.htm
+2014,2014-09-07,3VqeLK0LS9rpw,Buffalo,Bills,BUF,33,193,1,16,22,,173,1,1,91.667,167,360,1,6,1,0,1,9,108,15,4,12,0.333,0,0,0.0,1832,https://www.pro-football-reference.com/boxscores/201409070chi.htm
+2014,2014-09-07,1vVmWGzUZ1rea,Chicago,Bears,CHI,18,86,0,34,49,,349,2,2,86.182,341,427,2,8,1,1,3,4,43,29,5,12,0.417,0,0,0.0,2082,https://www.pro-football-reference.com/boxscores/201409070chi.htm
+2014,2014-09-07,AzOs5UWsXusSW,Minnesota,Vikings,MIN,32,185,1,17,25,,170,2,0,113.75,170,355,0,0,2,0,0,7,60,18,3,12,0.25,0,0,0.0,1697,https://www.pro-football-reference.com/boxscores/201409070ram.htm
+2014,2014-09-07,u98I1lDKQBwZ0,Los Angeles,Rams,LA,22,72,0,24,36,,273,0,2,66.088,246,318,5,27,4,0,2,13,121,15,4,14,0.286,0,0,0.0,1903,https://www.pro-football-reference.com/boxscores/201409070ram.htm
+2014,2014-09-07,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,26,79,0,25,38,,301,1,0,98.684,301,380,0,0,0,0,0,4,45,16,4,14,0.286,0,0,0.0,1830,https://www.pro-football-reference.com/boxscores/201409070rav.htm
+2014,2014-09-07,zyhFXj1nywrm1,Baltimore,Ravens,BAL,20,94,1,35,62,,345,1,1,70.968,329,423,3,16,2,1,2,3,29,26,8,17,0.471,1,2,0.5,1770,https://www.pro-football-reference.com/boxscores/201409070rav.htm
+2014,2014-09-07,IR4gIYmh269EI,Cleveland,Browns,CLE,31,191,2,18,30,,222,1,0,94.028,198,389,3,24,0,0,0,8,55,23,2,11,0.182,0,0,0.0,1653,https://www.pro-football-reference.com/boxscores/201409070pit.htm
+2014,2014-09-07,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,29,127,2,24,35,,390,1,1,103.274,376,503,3,14,1,0,1,11,96,24,4,12,0.333,1,1,1.0,1947,https://www.pro-football-reference.com/boxscores/201409070pit.htm
+2014,2014-09-07,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,24,64,0,24,43,,266,2,0,89.874,242,306,3,24,1,1,1,7,55,18,2,14,0.143,0,1,0.0,1754,https://www.pro-football-reference.com/boxscores/201409070phi.htm
+2014,2014-09-07,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,32,145,1,27,45,,322,2,1,87.454,275,420,5,47,3,2,3,6,50,24,8,19,0.421,1,1,1.0,1846,https://www.pro-football-reference.com/boxscores/201409070phi.htm
+2014,2014-09-07,ltMyRE3yvVUaw,Tennessee,Titans,TEN,38,162,0,22,33,,266,2,0,111.427,243,405,4,23,1,0,0,12,110,24,7,16,0.438,0,0,0.0,2264,https://www.pro-football-reference.com/boxscores/201409070kan.htm
+2014,2014-09-07,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,17,67,0,19,35,,202,1,3,45.179,178,245,4,24,0,0,3,3,25,15,1,12,0.083,1,2,0.5,1336,https://www.pro-football-reference.com/boxscores/201409070kan.htm
+2014,2014-09-07,LZoDld8s63xUs,Las Vegas,Raiders,LV,15,25,0,20,32,,151,2,0,94.661,133,158,2,18,1,0,0,4,20,11,3,12,0.25,0,0,0.0,1510,https://www.pro-football-reference.com/boxscores/201409070nyj.htm
+2014,2014-09-07,mexvMWO2v1hWn,New York,Jets,NYJ,34,212,1,23,29,,221,1,1,95.546,190,402,2,31,2,1,2,11,105,20,5,12,0.417,0,0,0.0,2090,https://www.pro-football-reference.com/boxscores/201409070nyj.htm
+2014,2014-09-07,CI5mhfNa0Zqd2,New Orleans,Saints,NO,28,139,3,29,42,,333,1,1,90.675,333,472,0,0,1,1,2,3,27,30,8,13,0.615,0,0,0.0,1825,https://www.pro-football-reference.com/boxscores/201409070atl.htm
+2014,2014-09-07,mLspw4gJNTQGN,Atlanta,Falcons,ATL,25,123,1,31,43,,448,3,0,128.828,445,568,1,3,1,1,1,10,96,28,6,11,0.545,0,0,0.0,1878,https://www.pro-football-reference.com/boxscores/201409070atl.htm
+2014,2014-09-07,9JtBk8kFeaGEs,Washington,Football Team,WAS,23,131,1,29,37,,267,0,0,96.734,241,372,3,26,3,2,2,7,71,20,3,12,0.25,0,1,0.0,1854,https://www.pro-football-reference.com/boxscores/201409070htx.htm
+2014,2014-09-07,UI0Ax4HUEXFh6,Houston,Texans,HOU,34,115,0,14,22,,206,1,0,109.28,206,321,0,0,2,1,1,6,45,16,7,14,0.5,0,0,0.0,1746,https://www.pro-football-reference.com/boxscores/201409070htx.htm
+2014,2014-09-07,VkxV91RtzHn65,New England,Patriots,NE,20,89,1,29,56,,249,1,0,69.717,226,315,4,23,3,2,2,9,100,20,5,17,0.294,2,4,0.5,1773,https://www.pro-football-reference.com/boxscores/201409070mia.htm
+2014,2014-09-07,mfbu6O5aMHbJg,Miami,Dolphins,MIA,38,191,1,18,32,,178,2,1,79.948,169,360,1,9,3,2,3,4,26,25,7,13,0.538,0,0,0.0,1827,https://www.pro-football-reference.com/boxscores/201409070mia.htm
+2014,2014-09-07,jJBGuksuDJF5L,Carolina,Panthers,CAR,33,113,0,24,34,,230,2,0,108.701,221,334,1,9,1,0,0,6,55,19,6,15,0.4,1,1,1.0,2112,https://www.pro-football-reference.com/boxscores/201409070tam.htm
+2014,2014-09-07,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,17,102,0,22,35,,183,2,2,71.488,162,264,3,21,3,1,3,3,15,17,6,12,0.5,0,0,0.0,1488,https://www.pro-football-reference.com/boxscores/201409070tam.htm
+2014,2014-09-07,IwSI92ZDKoazn,San Francisco,49ers,SF,30,127,1,16,23,,201,2,0,125.453,192,319,1,9,0,0,0,11,78,19,7,12,0.583,0,0,0.0,1716,https://www.pro-football-reference.com/boxscores/201409070dal.htm
+2014,2014-09-07,KdjU81i7YSFE7,Dallas,Cowboys,DAL,23,127,1,23,37,,281,1,3,60.755,255,382,3,26,3,1,4,10,72,26,5,9,0.556,1,1,1.0,1884,https://www.pro-football-reference.com/boxscores/201409070dal.htm
+2014,2014-09-07,LJmHetie5VbbO,Indianapolis,Colts,IND,14,54,1,35,53,,370,2,2,83.058,354,408,3,16,1,0,2,9,45,24,4,13,0.308,2,4,0.5,1656,https://www.pro-football-reference.com/boxscores/201409070den.htm
+2014,2014-09-07,6DclFuycdPaOB,Denver,Broncos,DEN,32,102,1,22,36,,269,3,0,111.921,259,361,1,10,2,0,0,7,70,24,7,14,0.5,0,0,0.0,1944,https://www.pro-football-reference.com/boxscores/201409070den.htm
+2014,2014-09-08,n8CuHV9wbYCqF,New York,Giants,NYG,22,53,1,18,33,,163,1,2,52.967,144,197,2,19,0,0,2,4,25,16,3,13,0.231,2,3,0.667,1436,https://www.pro-football-reference.com/boxscores/201409080det.htm
+2014,2014-09-08,FCuH1wdksA2DQ,Detroit,Lions,DET,30,76,2,22,32,,346,2,0,125.26,341,417,1,5,1,0,0,8,85,20,10,15,0.667,0,0,0.0,2164,https://www.pro-football-reference.com/boxscores/201409080det.htm
+2014,2014-09-08,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,24,52,1,21,36,,238,1,1,75.926,238,290,0,0,1,0,1,6,47,15,6,15,0.4,0,1,0.0,1691,https://www.pro-football-reference.com/boxscores/201409080crd.htm
+2014,2014-09-08,GJizlkzQFaqGA,Arizona,Cardinals,ARI,26,109,0,24,37,,304,2,0,108.39,294,403,2,10,2,2,2,5,23,22,6,13,0.462,0,0,0.0,1909,https://www.pro-football-reference.com/boxscores/201409080crd.htm
+2014,2014-09-11,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,18,99,0,22,37,,217,0,1,64.809,202,301,2,15,2,2,3,9,75,17,6,12,0.5,0,0,0.0,1492,https://www.pro-football-reference.com/boxscores/201409110rav.htm
+2014,2014-09-11,zyhFXj1nywrm1,Baltimore,Ravens,BAL,36,157,0,21,29,,166,2,0,109.267,166,323,0,0,0,0,0,4,35,25,5,12,0.417,1,1,1.0,2108,https://www.pro-football-reference.com/boxscores/201409110rav.htm
+2014,2014-09-14,mfbu6O5aMHbJg,Miami,Dolphins,MIA,21,80,0,31,49,,241,1,1,73.597,210,290,4,31,1,1,2,3,20,23,5,16,0.312,1,4,0.25,1877,https://www.pro-football-reference.com/boxscores/201409140buf.htm
+2014,2014-09-14,3VqeLK0LS9rpw,Buffalo,Bills,BUF,33,113,0,16,26,,202,1,0,98.558,202,315,0,0,0,0,0,6,40,13,5,15,0.333,0,0,0.0,1723,https://www.pro-football-reference.com/boxscores/201409140buf.htm
+2014,2014-09-14,CI5mhfNa0Zqd2,New Orleans,Saints,NO,27,174,1,27,40,,237,2,1,89.271,223,397,2,14,1,1,2,5,39,26,7,13,0.538,0,0,0.0,1910,https://www.pro-football-reference.com/boxscores/201409140cle.htm
+2014,2014-09-14,IR4gIYmh269EI,Cleveland,Browns,CLE,30,122,1,24,41,,204,1,0,79.726,202,324,1,2,0,0,0,4,30,23,7,16,0.438,2,2,1.0,1690,https://www.pro-football-reference.com/boxscores/201409140cle.htm
+2014,2014-09-14,KdjU81i7YSFE7,Dallas,Cowboys,DAL,43,220,1,19,29,,176,1,0,93.463,148,368,4,28,1,1,1,4,25,26,9,16,0.562,0,0,0.0,2471,https://www.pro-football-reference.com/boxscores/201409140oti.htm
+2014,2014-09-14,ltMyRE3yvVUaw,Tennessee,Titans,TEN,13,82,0,18,34,,234,1,2,60.172,232,314,2,2,1,0,2,5,30,13,2,10,0.2,0,1,0.0,1129,https://www.pro-football-reference.com/boxscores/201409140oti.htm
+2014,2014-09-14,FCuH1wdksA2DQ,Detroit,Lions,DET,18,70,0,27,48,,291,1,1,72.483,253,323,4,38,3,2,3,5,33,21,6,15,0.4,1,2,0.5,1841,https://www.pro-football-reference.com/boxscores/201409140car.htm
+2014,2014-09-14,jJBGuksuDJF5L,Carolina,Panthers,CAR,24,62,1,22,34,,281,1,0,100.245,251,313,4,30,0,0,0,4,45,20,3,12,0.25,0,0,0.0,1759,https://www.pro-football-reference.com/boxscores/201409140car.htm
+2014,2014-09-14,GJizlkzQFaqGA,Arizona,Cardinals,ARI,28,124,1,14,29,,167,0,0,66.307,142,266,4,25,0,0,0,7,71,21,5,13,0.385,0,0,0.0,1651,https://www.pro-football-reference.com/boxscores/201409140nyg.htm
+2014,2014-09-14,n8CuHV9wbYCqF,New York,Giants,NYG,27,81,0,26,39,,277,2,2,82.959,260,341,2,17,2,2,4,9,70,24,6,12,0.5,0,1,0.0,1949,https://www.pro-football-reference.com/boxscores/201409140nyg.htm
+2014,2014-09-14,mLspw4gJNTQGN,Atlanta,Falcons,ATL,19,97,0,24,44,,231,1,3,48.58,212,309,2,19,0,0,3,7,56,19,3,12,0.25,1,2,0.5,1621,https://www.pro-football-reference.com/boxscores/201409140cin.htm
+2014,2014-09-14,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,45,170,2,16,24,,302,1,0,123.611,302,472,0,0,0,0,0,7,55,21,6,14,0.429,0,0,0.0,1979,https://www.pro-football-reference.com/boxscores/201409140cin.htm
+2014,2014-09-14,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,10,25,0,14,28,,193,1,1,69.494,123,148,10,70,0,0,1,6,44,8,3,13,0.231,0,1,0.0,1259,https://www.pro-football-reference.com/boxscores/201409140was.htm
+2014,2014-09-14,9JtBk8kFeaGEs,Washington,Football Team,WAS,42,191,3,24,36,,288,2,0,109.491,258,449,3,30,0,0,0,11,98,32,6,14,0.429,1,2,0.5,2341,https://www.pro-football-reference.com/boxscores/201409140was.htm
+2014,2014-09-14,VkxV91RtzHn65,New England,Patriots,NE,37,150,1,14,21,,149,1,0,103.075,142,292,1,7,1,0,0,15,163,16,5,14,0.357,0,1,0.0,1894,https://www.pro-football-reference.com/boxscores/201409140min.htm
+2014,2014-09-14,AzOs5UWsXusSW,Minnesota,Vikings,MIN,19,54,0,19,36,,202,1,4,39.12,163,217,6,39,1,0,4,7,58,17,4,11,0.364,0,1,0.0,1706,https://www.pro-football-reference.com/boxscores/201409140min.htm
+2014,2014-09-14,u98I1lDKQBwZ0,Los Angeles,Rams,LA,29,119,1,22,29,,235,0,0,99.066,220,339,2,15,2,1,1,5,65,20,5,11,0.455,0,0,0.0,1925,https://www.pro-football-reference.com/boxscores/201409140tam.htm
+2014,2014-09-14,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,30,157,2,16,21,,179,0,1,81.25,175,332,1,4,1,0,1,4,30,18,4,8,0.5,0,0,0.0,1675,https://www.pro-football-reference.com/boxscores/201409140tam.htm
+2014,2014-09-14,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,13,108,1,17,25,,202,2,0,119.083,180,288,2,22,2,1,1,8,53,14,3,8,0.375,0,1,0.0,1065,https://www.pro-football-reference.com/boxscores/201409140sdg.htm
+2014,2014-09-14,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,37,101,0,28,37,,284,3,0,124.155,276,377,1,8,4,0,0,6,53,26,10,17,0.588,0,0,0.0,2535,https://www.pro-football-reference.com/boxscores/201409140sdg.htm
+2014,2014-09-14,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,31,133,2,26,42,,255,0,0,78.968,247,380,2,8,1,0,0,7,62,28,11,16,0.688,0,1,0.0,2174,https://www.pro-football-reference.com/boxscores/201409140den.htm
+2014,2014-09-14,6DclFuycdPaOB,Denver,Broncos,DEN,19,88,0,21,26,,242,3,0,143.91,237,325,1,5,0,0,0,11,71,19,3,8,0.375,1,1,1.0,1426,https://www.pro-football-reference.com/boxscores/201409140den.htm
+2014,2014-09-14,mexvMWO2v1hWn,New York,Jets,NYJ,37,147,2,16,32,,176,1,1,64.062,166,313,2,10,1,0,1,7,82,19,8,17,0.471,2,3,0.667,1826,https://www.pro-football-reference.com/boxscores/201409140gnb.htm
+2014,2014-09-14,D5QY6bOxfn8ZL,Green Bay,Packers,GB,22,80,0,25,42,,346,3,0,109.821,310,390,4,36,3,1,1,3,34,25,7,14,0.5,0,0,0.0,1774,https://www.pro-football-reference.com/boxscores/201409140gnb.htm
+2014,2014-09-14,UI0Ax4HUEXFh6,Houston,Texans,HOU,46,188,1,14,19,,139,2,0,129.057,139,327,0,0,1,0,0,7,85,20,9,15,0.6,0,0,0.0,2316,https://www.pro-football-reference.com/boxscores/201409140rai.htm
+2014,2014-09-14,LZoDld8s63xUs,Las Vegas,Raiders,LV,17,101,1,27,42,,263,1,2,69.841,263,364,0,0,4,2,4,5,24,22,2,9,0.222,2,2,1.0,1284,https://www.pro-football-reference.com/boxscores/201409140rai.htm
+2014,2014-09-14,1vVmWGzUZ1rea,Chicago,Bears,CHI,17,46,0,23,34,,176,4,0,119.24,170,216,1,6,1,0,0,10,58,19,3,9,0.333,0,0,0.0,1569,https://www.pro-football-reference.com/boxscores/201409140sfo.htm
+2014,2014-09-14,IwSI92ZDKoazn,San Francisco,49ers,SF,27,127,1,21,34,,248,1,3,56.985,232,359,4,16,2,1,4,16,118,19,7,13,0.538,1,2,0.5,2031,https://www.pro-football-reference.com/boxscores/201409140sfo.htm
+2014,2014-09-15,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,27,127,2,21,37,,331,1,1,84.403,331,458,0,0,0,0,1,11,90,24,5,12,0.417,0,0,0.0,1425,https://www.pro-football-reference.com/boxscores/201409150clt.htm
+2014,2014-09-15,LJmHetie5VbbO,Indianapolis,Colts,IND,38,169,0,20,34,,172,3,1,89.338,172,341,0,0,2,1,2,4,70,25,4,12,0.333,1,1,1.0,2175,https://www.pro-football-reference.com/boxscores/201409150clt.htm
+2014,2014-09-18,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,18,64,0,22,36,,179,1,1,71.412,153,217,3,26,5,4,5,11,110,10,3,13,0.231,1,1,1.0,1641,https://www.pro-football-reference.com/boxscores/201409180atl.htm
+2014,2014-09-18,mLspw4gJNTQGN,Atlanta,Falcons,ATL,36,144,3,24,28,,350,3,1,139.583,344,488,1,6,4,3,4,5,50,26,8,11,0.727,0,0,0.0,1959,https://www.pro-football-reference.com/boxscores/201409180atl.htm
+2014,2014-09-21,KdjU81i7YSFE7,Dallas,Cowboys,DAL,29,123,1,18,23,,217,2,1,116.848,217,340,0,0,1,1,2,3,15,19,5,10,0.5,0,0,0.0,1630,https://www.pro-football-reference.com/boxscores/201409210ram.htm
+2014,2014-09-21,u98I1lDKQBwZ0,Los Angeles,Rams,LA,30,121,0,30,42,,327,3,2,98.016,327,448,0,0,1,1,3,8,119,26,8,13,0.615,1,2,0.5,1970,https://www.pro-football-reference.com/boxscores/201409210ram.htm
+2014,2014-09-21,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,36,83,0,18,25,,256,2,0,131.417,250,333,2,6,0,0,0,6,44,20,5,13,0.385,0,0,0.0,1894,https://www.pro-football-reference.com/boxscores/201409210buf.htm
+2014,2014-09-21,3VqeLK0LS9rpw,Buffalo,Bills,BUF,22,87,0,23,40,,238,1,0,83.125,205,292,3,33,1,0,0,11,110,18,6,14,0.429,0,2,0.0,1706,https://www.pro-football-reference.com/boxscores/201409210buf.htm
+2014,2014-09-21,ltMyRE3yvVUaw,Tennessee,Titans,TEN,28,149,1,17,34,,185,0,2,41.912,177,326,2,8,2,0,2,11,99,22,2,12,0.167,1,2,0.5,1876,https://www.pro-football-reference.com/boxscores/201409210cin.htm
+2014,2014-09-21,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,31,116,3,17,26,,184,1,1,82.853,184,300,0,0,0,0,1,7,50,25,3,9,0.333,0,1,0.0,1724,https://www.pro-football-reference.com/boxscores/201409210cin.htm
+2014,2014-09-21,zyhFXj1nywrm1,Baltimore,Ravens,BAL,33,160,1,19,31,,217,1,1,79.637,217,377,0,0,0,0,1,5,32,23,4,12,0.333,0,1,0.0,1855,https://www.pro-football-reference.com/boxscores/201409210cle.htm
+2014,2014-09-21,IR4gIYmh269EI,Cleveland,Browns,CLE,30,85,2,19,25,,290,1,0,127.083,290,375,0,0,1,0,0,12,94,19,5,11,0.455,0,0,0.0,1745,https://www.pro-football-reference.com/boxscores/201409210cle.htm
+2014,2014-09-21,LJmHetie5VbbO,Indianapolis,Colts,IND,29,144,0,33,43,,390,4,0,134.835,385,529,2,5,0,0,0,8,46,27,8,14,0.571,0,1,0.0,2223,https://www.pro-football-reference.com/boxscores/201409210jax.htm
+2014,2014-09-21,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,20,105,0,18,31,,256,2,2,79.503,239,344,4,17,1,1,3,2,15,18,4,10,0.4,0,0,0.0,1377,https://www.pro-football-reference.com/boxscores/201409210jax.htm
+2014,2014-09-21,D5QY6bOxfn8ZL,Green Bay,Packers,GB,22,76,0,16,27,,162,1,0,88.812,147,223,2,15,1,1,1,5,30,14,4,10,0.4,0,1,0.0,1307,https://www.pro-football-reference.com/boxscores/201409210det.htm
+2014,2014-09-21,FCuH1wdksA2DQ,Detroit,Lions,DET,38,115,1,22,34,,246,0,2,61.642,238,353,2,8,1,1,3,6,40,21,11,18,0.611,0,0,0.0,2293,https://www.pro-football-reference.com/boxscores/201409210det.htm
+2014,2014-09-21,UI0Ax4HUEXFh6,Houston,Texans,HOU,25,119,1,21,35,,299,1,3,61.488,292,411,2,7,1,0,3,5,40,20,2,12,0.167,1,2,0.5,1646,https://www.pro-football-reference.com/boxscores/201409210nyg.htm
+2014,2014-09-21,n8CuHV9wbYCqF,New York,Giants,NYG,42,193,1,21,28,,234,2,0,123.214,226,419,1,8,2,1,1,4,31,26,4,12,0.333,0,1,0.0,1954,https://www.pro-football-reference.com/boxscores/201409210nyg.htm
+2014,2014-09-21,LZoDld8s63xUs,Las Vegas,Raiders,LV,22,67,0,21,34,,174,0,1,62.623,174,241,0,0,0,0,1,6,49,14,5,13,0.385,0,0,0.0,1705,https://www.pro-football-reference.com/boxscores/201409210nwe.htm
+2014,2014-09-21,VkxV91RtzHn65,New England,Patriots,NE,32,76,0,24,37,,234,1,0,91.498,221,297,2,13,1,0,0,6,59,21,9,18,0.5,0,1,0.0,1895,https://www.pro-football-reference.com/boxscores/201409210nwe.htm
+2014,2014-09-21,9JtBk8kFeaGEs,Washington,Football Team,WAS,28,84,1,30,48,,427,3,1,103.385,427,511,0,0,1,0,1,10,131,27,8,15,0.533,0,1,0.0,2088,https://www.pro-football-reference.com/boxscores/201409210phi.htm
+2014,2014-09-21,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,25,54,0,27,41,,325,3,0,114.38,325,379,0,0,2,1,1,9,70,22,4,11,0.364,0,0,0.0,1512,https://www.pro-football-reference.com/boxscores/201409210phi.htm
+2014,2014-09-21,AzOs5UWsXusSW,Minnesota,Vikings,MIN,22,59,0,17,30,,203,0,0,77.5,188,247,2,15,0,0,0,5,44,13,6,15,0.4,0,0,0.0,1587,https://www.pro-football-reference.com/boxscores/201409210nor.htm
+2014,2014-09-21,CI5mhfNa0Zqd2,New Orleans,Saints,NO,32,108,1,27,35,,293,2,0,120.298,288,396,1,5,1,0,0,4,30,27,9,13,0.692,0,0,0.0,2013,https://www.pro-football-reference.com/boxscores/201409210nor.htm
+2014,2014-09-21,IwSI92ZDKoazn,San Francisco,49ers,SF,23,82,1,29,37,,245,1,0,103.266,236,318,1,9,0,0,0,9,107,20,6,12,0.5,1,1,1.0,1940,https://www.pro-football-reference.com/boxscores/201409210crd.htm
+2014,2014-09-21,GJizlkzQFaqGA,Arizona,Cardinals,ARI,27,84,0,19,34,,254,2,0,99.387,254,338,0,0,1,1,1,5,36,24,8,13,0.615,1,1,1.0,1660,https://www.pro-football-reference.com/boxscores/201409210crd.htm
+2014,2014-09-21,6DclFuycdPaOB,Denver,Broncos,DEN,20,36,0,31,49,,303,2,1,85.672,296,332,1,7,1,1,2,4,27,20,6,16,0.375,0,0,0.0,1662,https://www.pro-football-reference.com/boxscores/201409210sea.htm
+2014,2014-09-21,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,37,129,1,25,35,,275,2,1,101.488,255,384,3,20,1,0,1,7,34,26,7,17,0.412,0,0,0.0,2284,https://www.pro-football-reference.com/boxscores/201409210sea.htm
+2014,2014-09-21,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,41,174,2,19,25,,186,3,0,136.0,168,342,5,18,4,2,2,4,23,23,9,16,0.562,1,1,1.0,2022,https://www.pro-football-reference.com/boxscores/201409210mia.htm
+2014,2014-09-21,mfbu6O5aMHbJg,Miami,Dolphins,MIA,20,141,0,21,43,,205,1,0,70.397,191,332,4,14,1,0,0,6,65,18,4,15,0.267,0,2,0.0,1578,https://www.pro-football-reference.com/boxscores/201409210mia.htm
+2014,2014-09-21,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,34,264,1,22,30,,196,2,0,112.639,190,454,1,6,0,0,0,11,91,24,3,11,0.273,1,1,1.0,2079,https://www.pro-football-reference.com/boxscores/201409210car.htm
+2014,2014-09-21,jJBGuksuDJF5L,Carolina,Panthers,CAR,10,42,0,29,41,,330,2,0,110.823,307,349,3,23,3,2,2,7,105,20,4,12,0.333,1,1,1.0,1521,https://www.pro-football-reference.com/boxscores/201409210car.htm
+2014,2014-09-22,1vVmWGzUZ1rea,Chicago,Bears,CHI,21,60,0,23,38,,225,2,0,94.737,197,257,4,28,1,1,1,9,95,17,7,15,0.467,0,0,0.0,1688,https://www.pro-football-reference.com/boxscores/201409220nyj.htm
+2014,2014-09-22,mexvMWO2v1hWn,New York,Jets,NYJ,26,114,0,26,43,,316,1,2,71.463,300,414,3,16,5,1,3,6,78,21,6,15,0.4,1,2,0.5,1912,https://www.pro-football-reference.com/boxscores/201409220nyj.htm
+2014,2014-09-25,n8CuHV9wbYCqF,New York,Giants,NYG,38,154,2,28,39,,300,4,1,117.468,295,449,1,5,0,0,1,7,66,31,11,16,0.688,0,0,0.0,2237,https://www.pro-football-reference.com/boxscores/201409250was.htm
+2014,2014-09-25,9JtBk8kFeaGEs,Washington,Football Team,WAS,17,86,1,19,33,,257,1,4,53.03,243,329,2,14,2,2,6,11,88,17,1,8,0.125,0,0,0.0,1363,https://www.pro-football-reference.com/boxscores/201409250was.htm
+2014,2014-09-28,3VqeLK0LS9rpw,Buffalo,Bills,BUF,23,96,0,21,44,,225,2,2,59.375,220,316,2,5,1,0,2,8,40,17,5,16,0.312,0,0,0.0,1744,https://www.pro-football-reference.com/boxscores/201409280htx.htm
+2014,2014-09-28,UI0Ax4HUEXFh6,Houston,Texans,HOU,23,37,0,25,37,,268,1,2,75.056,264,301,3,4,2,1,3,8,90,19,5,14,0.357,0,0,0.0,1856,https://www.pro-football-reference.com/boxscores/201409280htx.htm
+2014,2014-09-28,jJBGuksuDJF5L,Carolina,Panthers,CAR,26,67,0,20,34,,268,1,0,93.75,248,315,2,20,2,1,1,7,59,20,10,15,0.667,0,0,0.0,1776,https://www.pro-football-reference.com/boxscores/201409280rav.htm
+2014,2014-09-28,zyhFXj1nywrm1,Baltimore,Ravens,BAL,30,127,2,22,31,,327,3,0,137.433,327,454,0,0,1,0,0,4,40,25,10,13,0.769,0,0,0.0,1824,https://www.pro-football-reference.com/boxscores/201409280rav.htm
+2014,2014-09-28,D5QY6bOxfn8ZL,Green Bay,Packers,GB,18,56,1,22,28,,302,4,0,151.19,302,358,1,0,0,0,0,9,70,21,4,8,0.5,0,0,0.0,1418,https://www.pro-football-reference.com/boxscores/201409280chi.htm
+2014,2014-09-28,1vVmWGzUZ1rea,Chicago,Bears,CHI,41,235,0,23,35,,265,2,2,83.631,261,496,1,4,3,0,2,6,46,33,7,11,0.636,2,3,0.667,2182,https://www.pro-football-reference.com/boxscores/201409280chi.htm
+2014,2014-09-28,FCuH1wdksA2DQ,Detroit,Lions,DET,27,88,1,24,34,,293,2,0,116.422,272,360,4,21,0,0,0,5,33,17,6,15,0.4,0,0,0.0,2093,https://www.pro-football-reference.com/boxscores/201409280nyj.htm
+2014,2014-09-28,mexvMWO2v1hWn,New York,Jets,NYJ,27,132,1,17,33,,209,1,1,68.876,204,336,2,5,2,1,2,6,32,17,7,15,0.467,0,0,0.0,1507,https://www.pro-football-reference.com/boxscores/201409280nyj.htm
+2014,2014-09-28,ltMyRE3yvVUaw,Tennessee,Titans,TEN,16,85,1,14,28,,194,1,2,54.762,176,261,3,18,2,1,3,6,68,16,1,9,0.111,0,0,0.0,1059,https://www.pro-football-reference.com/boxscores/201409280clt.htm
+2014,2014-09-28,LJmHetie5VbbO,Indianapolis,Colts,IND,41,105,1,29,41,,393,4,1,123.323,393,498,0,0,0,0,1,11,88,31,7,14,0.5,0,0,0.0,2541,https://www.pro-football-reference.com/boxscores/201409280clt.htm
+2014,2014-09-28,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,19,63,1,21,43,,302,2,1,77.859,287,350,1,15,0,0,1,9,50,21,7,13,0.538,0,1,0.0,1545,https://www.pro-football-reference.com/boxscores/201409280pit.htm
+2014,2014-09-28,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,27,85,0,30,41,,331,3,0,121.087,305,390,5,26,2,1,1,13,125,27,6,14,0.429,1,1,1.0,2055,https://www.pro-football-reference.com/boxscores/201409280pit.htm
+2014,2014-09-28,mfbu6O5aMHbJg,Miami,Dolphins,MIA,35,157,2,23,31,,278,2,1,109.341,278,435,0,0,3,2,3,5,35,24,5,11,0.455,1,2,0.5,1854,https://www.pro-football-reference.com/boxscores/201409280rai.htm
+2014,2014-09-28,LZoDld8s63xUs,Las Vegas,Raiders,LV,18,53,0,28,44,,275,2,3,67.898,264,317,2,11,1,1,4,9,80,17,6,14,0.429,0,1,0.0,1746,https://www.pro-football-reference.com/boxscores/201409280rai.htm
+2014,2014-09-28,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,25,85,1,29,37,,254,1,2,81.757,235,320,3,19,1,1,3,3,32,21,9,14,0.643,0,2,0.0,1834,https://www.pro-football-reference.com/boxscores/201409280sdg.htm
+2014,2014-09-28,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,20,42,0,29,39,,377,3,0,129.968,365,407,2,12,1,0,0,7,57,19,9,16,0.562,0,0,0.0,1766,https://www.pro-football-reference.com/boxscores/201409280sdg.htm
+2014,2014-09-28,mLspw4gJNTQGN,Atlanta,Falcons,ATL,22,123,1,25,41,,298,3,2,87.246,288,411,1,10,0,0,2,5,50,23,10,15,0.667,0,0,0.0,1628,https://www.pro-football-reference.com/boxscores/201409280min.htm
+2014,2014-09-28,AzOs5UWsXusSW,Minnesota,Vikings,MIN,44,241,4,19,30,,317,0,0,98.889,317,558,0,0,0,0,0,6,40,26,6,13,0.462,1,1,1.0,1972,https://www.pro-football-reference.com/boxscores/201409280min.htm
+2014,2014-09-28,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,12,22,0,21,43,,195,0,2,42.297,191,213,1,4,2,2,4,10,70,11,5,13,0.385,0,2,0.0,1063,https://www.pro-football-reference.com/boxscores/201409280sfo.htm
+2014,2014-09-28,IwSI92ZDKoazn,San Francisco,49ers,SF,42,218,0,17,30,,218,2,1,87.917,189,407,4,29,0,0,1,10,80,20,8,19,0.421,0,0,0.0,2537,https://www.pro-football-reference.com/boxscores/201409280sfo.htm
+2014,2014-09-28,CI5mhfNa0Zqd2,New Orleans,Saints,NO,13,104,0,32,44,,340,2,1,100.568,334,438,2,6,2,2,3,3,20,20,4,10,0.4,1,2,0.5,1515,https://www.pro-football-reference.com/boxscores/201409280dal.htm
+2014,2014-09-28,KdjU81i7YSFE7,Dallas,Cowboys,DAL,35,190,2,22,29,,262,3,0,137.428,255,445,1,7,2,0,0,6,50,24,8,14,0.571,0,0,0.0,2085,https://www.pro-football-reference.com/boxscores/201409280dal.htm
+2014,2014-09-29,VkxV91RtzHn65,New England,Patriots,NE,16,75,0,20,30,,229,2,2,83.889,215,290,3,14,2,1,3,3,30,13,2,9,0.222,0,0,0.0,1413,https://www.pro-football-reference.com/boxscores/201409290kan.htm
+2014,2014-09-29,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,38,207,1,20,26,,248,3,0,144.391,236,443,2,12,0,0,0,4,35,26,7,12,0.583,0,0,0.0,2187,https://www.pro-football-reference.com/boxscores/201409290kan.htm
+2014,2014-10-02,AzOs5UWsXusSW,Minnesota,Vikings,MIN,25,111,1,22,44,,222,0,2,45.833,188,299,6,34,1,1,3,9,91,20,5,15,0.333,1,2,0.5,1929,https://www.pro-football-reference.com/boxscores/201410020gnb.htm
+2014,2014-10-02,D5QY6bOxfn8ZL,Green Bay,Packers,GB,28,156,2,15,22,,178,3,1,113.258,164,320,2,14,0,0,1,5,30,15,4,11,0.364,0,0,0.0,1671,https://www.pro-football-reference.com/boxscores/201410020gnb.htm
+2014,2014-10-05,IR4gIYmh269EI,Cleveland,Browns,CLE,36,176,0,21,37,,291,3,1,97.917,284,460,1,7,0,0,1,7,74,27,4,12,0.333,0,2,0.0,1757,https://www.pro-football-reference.com/boxscores/201410050oti.htm
+2014,2014-10-05,ltMyRE3yvVUaw,Tennessee,Titans,TEN,30,149,1,21,32,,273,3,0,123.568,261,410,3,12,0,0,0,7,68,22,8,14,0.571,0,1,0.0,1843,https://www.pro-football-reference.com/boxscores/201410050oti.htm
+2014,2014-10-05,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,28,111,0,26,36,,273,1,0,103.125,261,372,4,12,1,1,1,7,50,20,8,16,0.5,0,0,0.0,2117,https://www.pro-football-reference.com/boxscores/201410050jax.htm
+2014,2014-10-05,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,15,56,0,22,36,,191,0,2,51.968,187,243,1,4,3,0,2,4,34,12,3,12,0.25,1,1,1.0,1483,https://www.pro-football-reference.com/boxscores/201410050jax.htm
+2014,2014-10-05,u98I1lDKQBwZ0,Los Angeles,Rams,LA,23,125,1,29,49,,375,3,0,103.699,341,466,4,34,3,3,3,10,82,29,7,14,0.5,0,1,0.0,1979,https://www.pro-football-reference.com/boxscores/201410050phi.htm
+2014,2014-10-05,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,33,145,0,24,37,,207,2,1,86.205,207,352,0,0,2,2,3,4,39,22,8,15,0.533,0,0,0.0,1621,https://www.pro-football-reference.com/boxscores/201410050phi.htm
+2014,2014-10-05,mLspw4gJNTQGN,Atlanta,Falcons,ATL,21,90,1,29,45,,316,1,1,83.194,307,397,1,9,1,0,1,8,81,20,2,13,0.154,1,2,0.5,1699,https://www.pro-football-reference.com/boxscores/201410050nyg.htm
+2014,2014-10-05,n8CuHV9wbYCqF,New York,Giants,NYG,34,124,1,19,30,,200,2,0,104.861,193,317,1,7,2,2,2,3,15,22,9,15,0.6,0,0,0.0,1901,https://www.pro-football-reference.com/boxscores/201410050nyg.htm
+2014,2014-10-05,3VqeLK0LS9rpw,Buffalo,Bills,BUF,22,49,0,30,43,,308,1,1,88.13,294,343,2,14,3,0,1,11,74,19,5,16,0.312,0,0,0.0,1939,https://www.pro-football-reference.com/boxscores/201410050det.htm
+2014,2014-10-05,FCuH1wdksA2DQ,Detroit,Lions,DET,20,69,0,18,31,,231,1,1,78.831,204,273,6,27,3,1,2,8,62,13,1,11,0.091,0,0,0.0,1661,https://www.pro-football-reference.com/boxscores/201410050det.htm
+2014,2014-10-05,1vVmWGzUZ1rea,Chicago,Bears,CHI,22,85,1,28,36,,289,2,2,95.486,262,347,4,27,3,2,4,10,79,17,5,13,0.385,0,1,0.0,1979,https://www.pro-football-reference.com/boxscores/201410050car.htm
+2014,2014-10-05,jJBGuksuDJF5L,Carolina,Panthers,CAR,26,91,1,19,35,,255,2,1,84.821,231,322,2,24,3,2,3,3,30,22,5,12,0.417,0,0,0.0,1621,https://www.pro-football-reference.com/boxscores/201410050car.htm
+2014,2014-10-05,zyhFXj1nywrm1,Baltimore,Ravens,BAL,15,90,1,22,38,,235,0,1,65.132,197,287,4,38,2,2,3,5,36,15,1,11,0.091,1,3,0.333,1277,https://www.pro-football-reference.com/boxscores/201410050clt.htm
+2014,2014-10-05,LJmHetie5VbbO,Indianapolis,Colts,IND,30,127,1,32,49,,312,1,2,72.832,305,432,1,7,4,2,4,6,83,26,7,15,0.467,0,1,0.0,2323,https://www.pro-football-reference.com/boxscores/201410050clt.htm
+2014,2014-10-05,UI0Ax4HUEXFh6,Houston,Texans,HOU,31,176,2,16,25,,154,0,1,64.417,154,330,0,0,0,0,1,5,35,15,4,13,0.308,1,1,1.0,1868,https://www.pro-football-reference.com/boxscores/201410050dal.htm
+2014,2014-10-05,KdjU81i7YSFE7,Dallas,Cowboys,DAL,33,140,0,28,41,,324,2,1,98.018,316,456,1,8,2,2,3,7,56,24,8,14,0.571,0,0,0.0,2167,https://www.pro-football-reference.com/boxscores/201410050dal.htm
+2014,2014-10-05,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,21,66,1,19,32,,249,2,1,91.797,248,314,1,1,2,0,1,15,113,20,3,9,0.333,0,0,0.0,1624,https://www.pro-football-reference.com/boxscores/201410050nor.htm
+2014,2014-10-05,CI5mhfNa0Zqd2,New Orleans,Saints,NO,29,140,2,35,57,,371,2,3,70.139,371,511,0,0,0,0,3,6,50,34,6,13,0.462,0,0,0.0,2312,https://www.pro-football-reference.com/boxscores/201410050nor.htm
+2014,2014-10-05,GJizlkzQFaqGA,Arizona,Cardinals,ARI,19,37,1,12,34,,199,1,0,65.686,178,215,3,21,1,0,0,3,15,9,3,16,0.188,0,0,0.0,1483,https://www.pro-football-reference.com/boxscores/201410050den.htm
+2014,2014-10-05,6DclFuycdPaOB,Denver,Broncos,DEN,28,92,1,31,47,,479,4,2,110.151,476,568,1,3,0,0,2,7,67,24,7,16,0.438,0,0,0.0,2117,https://www.pro-football-reference.com/boxscores/201410050den.htm
+2014,2014-10-05,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,20,107,1,16,30,,158,1,1,65.694,158,265,0,0,1,0,1,4,29,14,6,11,0.545,0,0,0.0,1436,https://www.pro-football-reference.com/boxscores/201410050sfo.htm
+2014,2014-10-05,IwSI92ZDKoazn,San Francisco,49ers,SF,40,171,0,14,27,,201,1,0,88.657,186,357,3,15,1,0,0,2,10,22,6,16,0.375,1,1,1.0,2164,https://www.pro-football-reference.com/boxscores/201410050sfo.htm
+2014,2014-10-05,mexvMWO2v1hWn,New York,Jets,NYJ,21,91,0,12,31,,74,0,1,33.401,60,151,2,14,1,1,2,12,94,11,1,12,0.083,0,1,0.0,1266,https://www.pro-football-reference.com/boxscores/201410050sdg.htm
+2014,2014-10-05,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,40,162,1,20,28,,288,3,1,125.298,277,439,3,11,0,0,1,5,76,21,12,18,0.667,0,0,0.0,2334,https://www.pro-football-reference.com/boxscores/201410050sdg.htm
+2014,2014-10-05,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,18,79,0,18,29,,249,2,0,112.572,241,320,1,8,3,3,3,4,37,17,0,7,0.0,0,1,0.0,1264,https://www.pro-football-reference.com/boxscores/201410050nwe.htm
+2014,2014-10-05,VkxV91RtzHn65,New England,Patriots,NE,46,220,1,23,35,,292,2,0,110.655,285,505,1,7,1,0,0,12,114,30,6,16,0.375,1,1,1.0,2336,https://www.pro-football-reference.com/boxscores/201410050nwe.htm
+2014,2014-10-06,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,36,225,1,18,24,,201,2,0,127.257,178,403,3,23,2,0,0,13,90,20,5,14,0.357,1,1,1.0,2096,https://www.pro-football-reference.com/boxscores/201410060was.htm
+2014,2014-10-06,9JtBk8kFeaGEs,Washington,Football Team,WAS,17,32,0,21,36,,283,2,0,101.968,275,307,1,8,1,0,0,3,30,14,3,12,0.25,0,0,0.0,1504,https://www.pro-football-reference.com/boxscores/201410060was.htm
+2014,2014-10-09,LJmHetie5VbbO,Indianapolis,Colts,IND,35,93,1,25,44,,370,3,1,97.727,363,456,3,7,1,1,2,5,51,27,8,16,0.5,0,0,0.0,2209,https://www.pro-football-reference.com/boxscores/201410090htx.htm
+2014,2014-10-09,UI0Ax4HUEXFh6,Houston,Texans,HOU,24,136,2,15,23,,212,1,0,109.33,196,332,5,16,2,2,2,5,66,18,1,8,0.125,0,1,0.0,1391,https://www.pro-football-reference.com/boxscores/201410090htx.htm
+2014,2014-10-12,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,32,138,0,21,42,,228,1,1,64.385,221,359,2,7,1,0,1,6,42,22,6,16,0.375,0,2,0.0,1985,https://www.pro-football-reference.com/boxscores/201410120cle.htm
+2014,2014-10-12,IR4gIYmh269EI,Cleveland,Browns,CLE,38,158,3,8,17,,217,1,0,112.99,210,368,1,7,3,1,1,6,60,19,4,11,0.364,0,0,0.0,1615,https://www.pro-football-reference.com/boxscores/201410120cle.htm
+2014,2014-10-12,6DclFuycdPaOB,Denver,Broncos,DEN,33,138,0,22,33,,237,3,0,117.866,221,359,2,16,2,0,0,11,101,21,7,16,0.438,0,0,0.0,2014,https://www.pro-football-reference.com/boxscores/201410120nyj.htm
+2014,2014-10-12,mexvMWO2v1hWn,New York,Jets,NYJ,15,31,0,23,43,,190,2,1,70.882,173,204,4,17,2,1,2,2,9,15,5,14,0.357,0,0,0.0,1586,https://www.pro-football-reference.com/boxscores/201410120nyj.htm
+2014,2014-10-12,VkxV91RtzHn65,New England,Patriots,NE,27,50,0,27,37,,361,4,0,139.583,346,396,2,15,0,0,0,9,60,22,7,15,0.467,0,0,0.0,1820,https://www.pro-football-reference.com/boxscores/201410120buf.htm
+2014,2014-10-12,3VqeLK0LS9rpw,Buffalo,Bills,BUF,23,68,1,24,38,,299,2,1,94.079,268,336,5,31,2,2,3,8,107,19,8,15,0.533,1,2,0.5,1780,https://www.pro-football-reference.com/boxscores/201410120buf.htm
+2014,2014-10-12,FCuH1wdksA2DQ,Detroit,Lions,DET,28,100,1,19,33,,185,1,0,83.523,155,255,4,30,0,0,0,5,40,18,1,13,0.077,1,2,0.5,1941,https://www.pro-football-reference.com/boxscores/201410120min.htm
+2014,2014-10-12,AzOs5UWsXusSW,Minnesota,Vikings,MIN,18,69,0,23,37,,188,0,3,41.273,143,212,8,45,1,0,3,9,60,15,3,14,0.214,0,1,0.0,1659,https://www.pro-football-reference.com/boxscores/201410120min.htm
+2014,2014-10-12,D5QY6bOxfn8ZL,Green Bay,Packers,GB,34,121,0,24,42,,264,3,0,99.702,248,369,3,16,1,0,0,4,44,27,8,17,0.471,1,1,1.0,2232,https://www.pro-football-reference.com/boxscores/201410120mia.htm
+2014,2014-10-12,mfbu6O5aMHbJg,Miami,Dolphins,MIA,23,112,1,20,31,,244,2,2,83.266,237,349,1,7,1,1,3,5,25,19,4,10,0.4,0,1,0.0,1368,https://www.pro-football-reference.com/boxscores/201410120mia.htm
+2014,2014-10-12,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,23,82,1,32,46,,336,1,1,88.678,297,379,6,39,1,1,2,6,35,27,8,15,0.533,0,0,0.0,1867,https://www.pro-football-reference.com/boxscores/201410120oti.htm
+2014,2014-10-12,ltMyRE3yvVUaw,Tennessee,Titans,TEN,24,70,1,17,28,,233,0,0,87.351,220,290,3,13,1,0,0,5,48,14,3,11,0.273,0,0,0.0,1733,https://www.pro-football-reference.com/boxscores/201410120oti.htm
+2014,2014-10-12,zyhFXj1nywrm1,Baltimore,Ravens,BAL,35,169,1,21,28,,306,5,0,149.702,306,475,0,0,1,1,1,8,70,23,7,13,0.538,0,0,0.0,1934,https://www.pro-football-reference.com/boxscores/201410120tam.htm
+2014,2014-10-12,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,18,87,0,24,44,,314,2,1,82.955,277,364,5,37,1,0,1,5,43,22,2,12,0.167,0,2,0.0,1666,https://www.pro-football-reference.com/boxscores/201410120tam.htm
+2014,2014-10-12,jJBGuksuDJF5L,Carolina,Panthers,CAR,34,147,2,29,46,,284,2,1,85.779,284,431,0,0,0,0,1,8,60,29,8,17,0.471,2,2,1.0,2370,https://www.pro-football-reference.com/boxscores/201410120cin.htm
+2014,2014-10-12,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,31,193,2,33,43,,323,2,2,93.459,320,513,1,3,0,0,2,13,119,29,10,16,0.625,0,0,0.0,2130,https://www.pro-football-reference.com/boxscores/201410120cin.htm
+2014,2014-10-12,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,33,116,1,22,35,,313,3,0,120.298,307,423,1,6,1,0,0,7,60,24,8,14,0.571,0,1,0.0,2222,https://www.pro-football-reference.com/boxscores/201410120rai.htm
+2014,2014-10-12,LZoDld8s63xUs,Las Vegas,Raiders,LV,20,114,0,18,34,,282,4,1,107.721,282,396,0,0,1,0,1,11,78,17,8,13,0.615,0,0,0.0,1378,https://www.pro-football-reference.com/boxscores/201410120rai.htm
+2014,2014-10-12,9JtBk8kFeaGEs,Washington,Football Team,WAS,17,72,0,24,38,,354,2,3,78.18,335,407,2,19,1,1,4,6,62,21,2,10,0.2,1,1,1.0,1541,https://www.pro-football-reference.com/boxscores/201410120crd.htm
+2014,2014-10-12,GJizlkzQFaqGA,Arizona,Cardinals,ARI,23,74,0,28,44,,250,2,0,93.939,243,317,1,7,2,0,0,14,108,19,7,17,0.412,0,0,0.0,2059,https://www.pro-football-reference.com/boxscores/201410120crd.htm
+2014,2014-10-12,1vVmWGzUZ1rea,Chicago,Bears,CHI,29,103,2,26,38,,381,1,0,109.649,375,478,2,6,0,0,0,7,47,23,7,15,0.467,0,0,0.0,2175,https://www.pro-football-reference.com/boxscores/201410120atl.htm
+2014,2014-10-12,mLspw4gJNTQGN,Atlanta,Falcons,ATL,13,42,0,19,37,,271,1,1,73.142,245,287,4,26,1,0,1,6,52,12,4,13,0.308,0,2,0.0,1425,https://www.pro-football-reference.com/boxscores/201410120atl.htm
+2014,2014-10-12,KdjU81i7YSFE7,Dallas,Cowboys,DAL,36,162,1,21,32,,250,2,0,110.156,239,401,1,11,2,2,2,6,46,23,10,17,0.588,0,0,0.0,2259,https://www.pro-football-reference.com/boxscores/201410120sea.htm
+2014,2014-10-12,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,18,80,1,14,28,,126,0,1,47.619,126,206,2,0,1,0,1,9,58,9,5,13,0.385,0,1,0.0,1341,https://www.pro-football-reference.com/boxscores/201410120sea.htm
+2014,2014-10-12,n8CuHV9wbYCqF,New York,Giants,NYG,24,86,0,17,28,,211,0,0,84.077,168,254,8,43,3,1,1,10,75,12,2,14,0.143,0,1,0.0,1654,https://www.pro-football-reference.com/boxscores/201410120phi.htm
+2014,2014-10-12,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,36,203,1,21,34,,248,2,2,79.044,245,448,1,3,1,0,2,3,25,24,4,13,0.308,0,0,0.0,1946,https://www.pro-football-reference.com/boxscores/201410120phi.htm
+2014,2014-10-13,IwSI92ZDKoazn,San Francisco,49ers,SF,30,89,0,22,35,,343,3,0,123.869,343,432,0,0,1,1,1,5,23,17,6,14,0.429,0,2,0.0,1718,https://www.pro-football-reference.com/boxscores/201410130ram.htm
+2014,2014-10-13,u98I1lDKQBwZ0,Los Angeles,Rams,LA,24,93,1,21,42,,236,1,1,65.179,216,309,5,20,1,0,1,8,38,19,5,14,0.357,0,0,0.0,1882,https://www.pro-football-reference.com/boxscores/201410130ram.htm
+2014,2014-10-16,mexvMWO2v1hWn,New York,Jets,NYJ,43,218,1,20,34,,226,1,0,88.603,205,423,3,21,1,0,0,7,70,28,9,16,0.562,0,0,0.0,2454,https://www.pro-football-reference.com/boxscores/201410160nwe.htm
+2014,2014-10-16,VkxV91RtzHn65,New England,Patriots,NE,15,63,0,20,37,,261,3,0,103.547,260,323,1,1,0,0,0,9,64,16,6,13,0.462,0,0,0.0,1146,https://www.pro-football-reference.com/boxscores/201410160nwe.htm
+2014,2014-10-19,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,29,171,1,23,36,,313,2,0,110.069,292,463,3,21,0,0,0,10,86,25,6,12,0.5,0,0,0.0,1944,https://www.pro-football-reference.com/boxscores/201410190ram.htm
+2014,2014-10-19,u98I1lDKQBwZ0,Los Angeles,Rams,LA,27,102,1,18,21,,173,2,0,132.738,173,275,0,0,1,0,0,2,20,18,4,9,0.444,1,1,1.0,1656,https://www.pro-football-reference.com/boxscores/201410190ram.htm
+2014,2014-10-19,mfbu6O5aMHbJg,Miami,Dolphins,MIA,33,137,1,25,32,,277,2,0,123.568,256,393,4,21,1,0,0,7,84,24,4,11,0.364,1,1,1.0,2242,https://www.pro-football-reference.com/boxscores/201410190chi.htm
+2014,2014-10-19,1vVmWGzUZ1rea,Chicago,Bears,CHI,14,52,1,21,34,,190,1,1,74.387,172,224,3,18,4,2,3,2,15,14,5,12,0.417,2,3,0.667,1358,https://www.pro-football-reference.com/boxscores/201410190chi.htm
+2014,2014-10-19,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,12,32,0,18,38,,126,0,0,55.373,103,135,4,23,1,0,0,4,20,8,1,13,0.077,0,1,0.0,1217,https://www.pro-football-reference.com/boxscores/201410190clt.htm
+2014,2014-10-19,LJmHetie5VbbO,Indianapolis,Colts,IND,34,171,1,27,42,,344,2,0,105.655,335,506,2,9,2,2,2,8,57,27,5,13,0.385,0,0,0.0,2383,https://www.pro-football-reference.com/boxscores/201410190clt.htm
+2014,2014-10-19,IR4gIYmh269EI,Cleveland,Browns,CLE,30,69,0,16,41,,215,0,1,46.291,197,266,3,18,2,2,3,8,50,13,4,17,0.235,0,3,0.0,1707,https://www.pro-football-reference.com/boxscores/201410190jax.htm
+2014,2014-10-19,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,35,185,2,17,31,,159,1,3,40.323,151,336,2,8,0,0,3,3,25,20,5,16,0.312,0,0,0.0,1893,https://www.pro-football-reference.com/boxscores/201410190jax.htm
+2014,2014-10-19,mLspw4gJNTQGN,Atlanta,Falcons,ATL,16,68,0,29,44,,228,1,0,86.174,186,254,5,42,1,1,1,7,76,16,4,15,0.267,1,3,0.333,1607,https://www.pro-football-reference.com/boxscores/201410190rav.htm
+2014,2014-10-19,zyhFXj1nywrm1,Baltimore,Ravens,BAL,36,123,1,16,25,,258,2,2,91.75,248,371,1,10,1,1,3,9,72,23,4,11,0.364,1,1,1.0,1993,https://www.pro-football-reference.com/boxscores/201410190rav.htm
+2014,2014-10-19,AzOs5UWsXusSW,Minnesota,Vikings,MIN,29,158,0,15,26,,157,1,2,56.09,118,276,5,39,0,0,2,7,50,16,5,16,0.312,0,0,0.0,1943,https://www.pro-football-reference.com/boxscores/201410190buf.htm
+2014,2014-10-19,3VqeLK0LS9rpw,Buffalo,Bills,BUF,19,118,0,31,43,,283,2,1,95.397,255,373,6,28,4,3,4,8,48,22,4,12,0.333,1,1,1.0,1657,https://www.pro-football-reference.com/boxscores/201410190buf.htm
+2014,2014-10-19,jJBGuksuDJF5L,Carolina,Panthers,CAR,25,108,0,22,39,,248,2,1,81.998,223,331,3,25,0,0,1,9,70,23,4,12,0.333,0,1,0.0,1811,https://www.pro-football-reference.com/boxscores/201410190gnb.htm
+2014,2014-10-19,D5QY6bOxfn8ZL,Green Bay,Packers,GB,30,122,2,19,24,,255,3,0,150.521,241,363,2,14,1,0,0,5,29,22,4,11,0.364,0,0,0.0,1789,https://www.pro-football-reference.com/boxscores/201410190gnb.htm
+2014,2014-10-19,CI5mhfNa0Zqd2,New Orleans,Saints,NO,21,73,0,28,45,,342,2,1,91.157,335,408,1,7,1,1,2,12,134,25,3,12,0.25,1,2,0.5,1662,https://www.pro-football-reference.com/boxscores/201410190det.htm
+2014,2014-10-19,FCuH1wdksA2DQ,Detroit,Lions,DET,24,59,1,27,40,,299,2,2,85.312,285,344,3,14,0,0,2,9,71,21,7,15,0.467,0,0,0.0,1938,https://www.pro-football-reference.com/boxscores/201410190det.htm
+2014,2014-10-19,ltMyRE3yvVUaw,Tennessee,Titans,TEN,22,76,0,17,26,,160,2,1,91.827,160,236,1,0,1,1,2,11,96,14,3,11,0.273,1,1,1.0,1856,https://www.pro-football-reference.com/boxscores/201410190was.htm
+2014,2014-10-19,9JtBk8kFeaGEs,Washington,Football Team,WAS,26,100,0,21,28,,267,1,1,101.339,251,351,3,16,1,1,2,7,50,16,3,11,0.273,0,0,0.0,1744,https://www.pro-football-reference.com/boxscores/201410190was.htm
+2014,2014-10-19,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,39,154,1,19,28,,221,1,0,103.423,211,365,3,10,0,0,0,7,73,22,7,14,0.5,0,0,0.0,2340,https://www.pro-football-reference.com/boxscores/201410190sdg.htm
+2014,2014-10-19,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,16,69,0,17,31,,205,2,1,83.401,182,251,2,23,1,0,1,4,49,19,3,10,0.3,0,0,0.0,1260,https://www.pro-football-reference.com/boxscores/201410190sdg.htm
+2014,2014-10-19,GJizlkzQFaqGA,Arizona,Cardinals,ARI,37,123,1,22,31,,253,2,1,103.293,242,365,1,11,1,0,1,6,43,25,9,15,0.6,0,1,0.0,2217,https://www.pro-football-reference.com/boxscores/201410190rai.htm
+2014,2014-10-19,LZoDld8s63xUs,Las Vegas,Raiders,LV,19,56,1,16,28,,173,0,0,75.446,164,220,1,9,0,0,0,8,74,13,4,12,0.333,0,0,0.0,1383,https://www.pro-football-reference.com/boxscores/201410190rai.htm
+2014,2014-10-19,n8CuHV9wbYCqF,New York,Giants,NYG,26,104,0,21,33,,248,3,0,116.73,248,352,0,0,2,2,2,6,40,20,5,13,0.385,1,1,1.0,1571,https://www.pro-football-reference.com/boxscores/201410190dal.htm
+2014,2014-10-19,KdjU81i7YSFE7,Dallas,Cowboys,DAL,35,156,1,17,23,,279,3,1,135.688,267,423,2,12,0,0,1,6,46,20,9,14,0.643,0,0,0.0,2029,https://www.pro-football-reference.com/boxscores/201410190dal.htm
+2014,2014-10-19,IwSI92ZDKoazn,San Francisco,49ers,SF,18,62,0,27,46,,301,2,1,83.696,248,310,6,53,0,0,1,6,62,22,3,13,0.231,1,2,0.5,1921,https://www.pro-football-reference.com/boxscores/201410190den.htm
+2014,2014-10-19,6DclFuycdPaOB,Denver,Broncos,DEN,27,115,2,22,27,,318,4,0,155.324,304,419,2,14,1,0,0,8,75,23,5,9,0.556,0,0,0.0,1679,https://www.pro-football-reference.com/boxscores/201410190den.htm
+2014,2014-10-20,UI0Ax4HUEXFh6,Houston,Texans,HOU,30,132,0,21,32,,262,2,1,98.698,261,393,1,1,3,2,3,4,20,20,4,12,0.333,2,2,1.0,1674,https://www.pro-football-reference.com/boxscores/201410200pit.htm
+2014,2014-10-20,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,25,76,0,24,34,,268,3,0,123.162,252,328,3,16,1,1,1,6,38,18,5,14,0.357,0,0,0.0,1926,https://www.pro-football-reference.com/boxscores/201410200pit.htm
+2014,2014-10-23,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,15,61,0,30,41,,252,3,2,92.734,245,306,2,7,0,0,2,7,77,22,4,10,0.4,1,1,1.0,1754,https://www.pro-football-reference.com/boxscores/201410230den.htm
+2014,2014-10-23,6DclFuycdPaOB,Denver,Broncos,DEN,30,139,2,25,35,,286,3,0,124.226,286,425,0,0,2,0,0,9,71,27,8,13,0.615,0,0,0.0,1846,https://www.pro-football-reference.com/boxscores/201410230den.htm
+2014,2014-10-26,FCuH1wdksA2DQ,Detroit,Lions,DET,23,60,0,24,47,,325,2,1,78.768,325,385,0,0,2,0,1,8,85,22,8,15,0.533,0,0,0.0,1855,https://www.pro-football-reference.com/boxscores/201410260atl.htm
+2014,2014-10-26,mLspw4gJNTQGN,Atlanta,Falcons,ATL,26,78,1,20,27,,228,2,1,108.256,213,291,2,15,3,0,1,5,39,22,4,8,0.5,0,0,0.0,1745,https://www.pro-football-reference.com/boxscores/201410260atl.htm
+2014,2014-10-26,zyhFXj1nywrm1,Baltimore,Ravens,BAL,26,107,2,17,34,,195,0,2,43.137,187,294,1,8,1,0,2,7,51,18,5,13,0.385,1,3,0.333,1756,https://www.pro-football-reference.com/boxscores/201410260cin.htm
+2014,2014-10-26,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,34,111,3,21,28,,266,0,1,89.286,239,350,2,27,2,1,2,6,40,19,8,14,0.571,1,1,1.0,1844,https://www.pro-football-reference.com/boxscores/201410260cin.htm
+2014,2014-10-26,3VqeLK0LS9rpw,Buffalo,Bills,BUF,32,67,1,10,17,,238,4,0,142.77,213,280,4,25,1,0,0,7,49,12,3,12,0.25,0,0,0.0,1663,https://www.pro-football-reference.com/boxscores/201410260nyj.htm
+2014,2014-10-26,mexvMWO2v1hWn,New York,Jets,NYJ,33,175,3,20,44,,158,0,4,17.045,137,312,4,21,4,2,6,10,90,22,9,19,0.474,1,1,1.0,1937,https://www.pro-football-reference.com/boxscores/201410260nyj.htm
+2014,2014-10-26,1vVmWGzUZ1rea,Chicago,Bears,CHI,26,153,0,21,35,,249,3,1,98.393,231,384,3,18,1,1,2,5,41,27,4,11,0.364,1,3,0.333,1637,https://www.pro-football-reference.com/boxscores/201410260nwe.htm
+2014,2014-10-26,VkxV91RtzHn65,New England,Patriots,NE,32,122,0,33,38,,376,5,0,147.478,365,487,1,11,1,0,0,7,38,32,7,11,0.636,0,0,0.0,1963,https://www.pro-football-reference.com/boxscores/201410260nwe.htm
+2014,2014-10-26,mfbu6O5aMHbJg,Miami,Dolphins,MIA,24,148,0,16,29,,196,1,1,73.348,178,326,3,18,0,0,1,7,52,17,5,12,0.417,0,0,0.0,1657,https://www.pro-football-reference.com/boxscores/201410260jax.htm
+2014,2014-10-26,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,30,176,0,18,34,,221,1,2,58.578,201,377,4,20,1,1,3,6,37,19,6,15,0.4,2,2,1.0,1943,https://www.pro-football-reference.com/boxscores/201410260jax.htm
+2014,2014-10-26,UI0Ax4HUEXFh6,Houston,Texans,HOU,40,212,2,19,35,,227,1,0,83.869,193,405,5,34,0,0,0,4,35,24,7,16,0.438,0,0,0.0,2122,https://www.pro-football-reference.com/boxscores/201410260oti.htm
+2014,2014-10-26,ltMyRE3yvVUaw,Tennessee,Titans,TEN,13,36,0,27,41,,299,2,1,93.445,290,326,2,9,1,1,2,6,61,13,2,12,0.167,1,2,0.5,1478,https://www.pro-football-reference.com/boxscores/201410260oti.htm
+2014,2014-10-26,AzOs5UWsXusSW,Minnesota,Vikings,MIN,22,97,0,24,42,,241,1,0,81.548,235,332,1,6,0,0,0,6,59,22,6,15,0.4,0,0,0.0,1834,https://www.pro-football-reference.com/boxscores/201410260tam.htm
+2014,2014-10-26,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,23,66,0,19,28,,171,1,1,81.101,159,225,5,12,2,1,2,8,52,15,1,12,0.083,2,2,1.0,1783,https://www.pro-football-reference.com/boxscores/201410260tam.htm
+2014,2014-10-26,u98I1lDKQBwZ0,Los Angeles,Rams,LA,19,84,0,15,25,,160,1,1,75.417,116,200,7,44,0,0,1,8,68,13,3,11,0.273,0,1,0.0,1462,https://www.pro-football-reference.com/boxscores/201410260kan.htm
+2014,2014-10-26,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,33,140,3,25,29,,223,0,0,98.707,215,355,2,8,2,1,1,7,51,23,6,12,0.5,0,0,0.0,2138,https://www.pro-football-reference.com/boxscores/201410260kan.htm
+2014,2014-10-26,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,26,119,0,20,32,,199,1,1,77.474,191,310,1,8,2,1,2,7,41,19,4,11,0.364,0,0,0.0,1740,https://www.pro-football-reference.com/boxscores/201410260car.htm
+2014,2014-10-26,jJBGuksuDJF5L,Carolina,Panthers,CAR,31,114,0,12,22,,171,0,1,60.985,152,266,3,19,4,1,2,4,20,17,2,10,0.2,1,2,0.5,1860,https://www.pro-football-reference.com/boxscores/201410260car.htm
+2014,2014-10-26,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,25,110,0,36,62,,411,2,2,75.403,411,521,0,0,1,1,3,11,103,27,9,20,0.45,1,1,1.0,1870,https://www.pro-football-reference.com/boxscores/201410260crd.htm
+2014,2014-10-26,GJizlkzQFaqGA,Arizona,Cardinals,ARI,23,71,1,20,42,,329,2,0,90.278,329,400,0,0,1,1,1,10,95,17,7,17,0.412,1,1,1.0,1730,https://www.pro-football-reference.com/boxscores/201410260crd.htm
+2014,2014-10-26,LZoDld8s63xUs,Las Vegas,Raiders,LV,21,76,0,34,56,,328,1,1,75.595,311,387,4,17,4,2,3,8,54,19,6,19,0.316,3,4,0.75,2092,https://www.pro-football-reference.com/boxscores/201410260cle.htm
+2014,2014-10-26,IR4gIYmh269EI,Cleveland,Browns,CLE,25,39,1,19,28,,275,1,0,111.458,267,306,1,8,1,0,0,6,30,15,2,12,0.167,0,0,0.0,1508,https://www.pro-football-reference.com/boxscores/201410260cle.htm
+2014,2014-10-26,LJmHetie5VbbO,Indianapolis,Colts,IND,10,63,1,26,45,,400,3,2,90.972,385,448,2,15,1,0,2,5,43,26,5,10,0.5,0,0,0.0,1217,https://www.pro-football-reference.com/boxscores/201410260pit.htm
+2014,2014-10-26,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,32,117,0,40,49,,522,6,0,150.638,522,639,0,0,2,2,2,10,59,34,8,13,0.615,1,1,1.0,2383,https://www.pro-football-reference.com/boxscores/201410260pit.htm
+2014,2014-10-26,D5QY6bOxfn8ZL,Green Bay,Packers,GB,19,89,1,29,40,,426,1,2,94.375,402,491,4,24,1,1,3,8,84,23,1,7,0.143,1,2,0.5,1701,https://www.pro-football-reference.com/boxscores/201410260nor.htm
+2014,2014-10-26,CI5mhfNa0Zqd2,New Orleans,Saints,NO,31,193,2,27,32,,311,3,0,138.411,302,495,2,9,1,1,1,4,35,28,6,10,0.6,0,1,0.0,1899,https://www.pro-football-reference.com/boxscores/201410260nor.htm
+2014,2014-10-27,9JtBk8kFeaGEs,Washington,Football Team,WAS,31,123,2,25,30,,299,0,1,94.306,286,409,3,13,0,0,1,6,45,19,6,14,0.429,1,1,1.0,2292,https://www.pro-football-reference.com/boxscores/201410270dal.htm
+2014,2014-10-27,KdjU81i7YSFE7,Dallas,Cowboys,DAL,25,171,0,21,34,,278,2,0,107.23,224,395,5,54,4,2,2,3,35,20,5,12,0.417,0,1,0.0,1717,https://www.pro-football-reference.com/boxscores/201410270dal.htm
+2014,2014-10-30,CI5mhfNa0Zqd2,New Orleans,Saints,NO,37,105,3,24,34,,297,1,1,94.853,270,375,4,27,3,1,2,4,36,27,7,13,0.538,1,1,1.0,2118,https://www.pro-football-reference.com/boxscores/201410300car.htm
+2014,2014-10-30,jJBGuksuDJF5L,Carolina,Panthers,CAR,22,109,1,10,28,,151,0,1,39.435,122,231,4,29,1,1,2,6,67,15,6,14,0.429,0,0,0.0,1482,https://www.pro-football-reference.com/boxscores/201410300car.htm
+2014,2014-11-02,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,25,132,1,22,33,,247,2,1,96.402,233,365,2,14,0,0,1,3,35,19,4,12,0.333,0,0,0.0,1636,https://www.pro-football-reference.com/boxscores/201411020cin.htm
+2014,2014-11-02,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,34,191,2,19,31,,233,2,2,79.099,232,423,2,1,1,0,2,6,40,23,6,13,0.462,0,0,0.0,1964,https://www.pro-football-reference.com/boxscores/201411020cin.htm
+2014,2014-11-02,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,26,113,0,17,33,,260,2,2,72.79,252,365,2,8,0,0,2,4,33,20,4,12,0.333,0,1,0.0,1832,https://www.pro-football-reference.com/boxscores/201411020cle.htm
+2014,2014-11-02,IR4gIYmh269EI,Cleveland,Browns,CLE,27,56,0,21,34,,300,2,2,85.417,274,330,4,26,0,0,2,7,44,19,5,14,0.357,1,2,0.5,1768,https://www.pro-football-reference.com/boxscores/201411020cle.htm
+2014,2014-11-02,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,19,50,0,13,26,,148,0,3,27.885,128,178,4,20,1,1,4,7,57,10,3,11,0.273,0,1,0.0,1433,https://www.pro-football-reference.com/boxscores/201411020mia.htm
+2014,2014-11-02,mfbu6O5aMHbJg,Miami,Dolphins,MIA,35,132,1,26,39,,309,3,0,116.293,309,441,0,0,1,0,0,3,25,28,8,14,0.571,0,1,0.0,2167,https://www.pro-football-reference.com/boxscores/201411020mia.htm
+2014,2014-11-02,mexvMWO2v1hWn,New York,Jets,NYJ,30,139,0,24,36,,235,1,0,94.097,225,364,3,10,1,0,0,5,40,22,4,12,0.333,2,5,0.4,1895,https://www.pro-football-reference.com/boxscores/201411020kan.htm
+2014,2014-11-02,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,24,113,1,21,31,,199,2,0,106.788,196,309,1,3,1,0,0,3,20,23,8,13,0.615,0,0,0.0,1705,https://www.pro-football-reference.com/boxscores/201411020kan.htm
+2014,2014-11-02,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,41,190,1,24,34,,326,3,3,93.505,293,483,4,33,1,1,4,7,55,30,9,16,0.562,2,2,1.0,1933,https://www.pro-football-reference.com/boxscores/201411020htx.htm
+2014,2014-11-02,UI0Ax4HUEXFh6,Houston,Texans,HOU,28,118,0,13,27,,203,2,1,82.793,182,300,4,21,1,0,1,9,54,15,5,13,0.385,0,1,0.0,1667,https://www.pro-football-reference.com/boxscores/201411020htx.htm
+2014,2014-11-02,9JtBk8kFeaGEs,Washington,Football Team,WAS,29,122,2,18,28,,251,1,1,90.03,225,347,5,26,1,0,1,6,55,21,6,13,0.462,0,1,0.0,1774,https://www.pro-football-reference.com/boxscores/201411020min.htm
+2014,2014-11-02,AzOs5UWsXusSW,Minnesota,Vikings,MIN,27,100,3,26,42,,268,1,0,88.194,252,352,2,16,0,0,0,9,60,24,8,15,0.533,0,1,0.0,1826,https://www.pro-football-reference.com/boxscores/201411020min.htm
+2014,2014-11-02,GJizlkzQFaqGA,Arizona,Cardinals,ARI,29,102,1,22,34,,249,3,1,103.676,237,339,2,12,1,0,1,6,62,22,9,15,0.6,0,0,0.0,1888,https://www.pro-football-reference.com/boxscores/201411020dal.htm
+2014,2014-11-02,KdjU81i7YSFE7,Dallas,Cowboys,DAL,25,92,0,18,33,,183,1,2,55.492,174,266,1,9,0,0,2,5,33,18,3,11,0.273,0,1,0.0,1712,https://www.pro-football-reference.com/boxscores/201411020dal.htm
+2014,2014-11-02,u98I1lDKQBwZ0,Los Angeles,Rams,LA,27,91,0,13,24,,105,1,2,44.618,102,193,1,3,0,0,2,9,83,13,4,12,0.333,0,0,0.0,1654,https://www.pro-football-reference.com/boxscores/201411020sfo.htm
+2014,2014-11-02,IwSI92ZDKoazn,San Francisco,49ers,SF,21,80,0,22,33,,237,1,0,97.664,183,263,8,54,3,2,2,9,44,20,3,12,0.25,0,0,0.0,1946,https://www.pro-football-reference.com/boxscores/201411020sfo.htm
+2014,2014-11-02,6DclFuycdPaOB,Denver,Broncos,DEN,17,43,1,34,57,,438,2,2,80.885,429,472,1,9,1,0,2,10,72,26,3,11,0.273,0,4,0.0,1833,https://www.pro-football-reference.com/boxscores/201411020nwe.htm
+2014,2014-11-02,VkxV91RtzHn65,New England,Patriots,NE,25,66,0,33,53,,333,4,1,97.445,332,398,1,1,1,0,1,9,71,29,6,16,0.375,1,1,1.0,1767,https://www.pro-football-reference.com/boxscores/201411020nwe.htm
+2014,2014-11-02,LZoDld8s63xUs,Las Vegas,Raiders,LV,18,37,0,24,41,,194,2,2,66.514,189,226,1,5,4,1,3,5,69,17,5,15,0.333,2,2,1.0,1494,https://www.pro-football-reference.com/boxscores/201411020sea.htm
+2014,2014-11-02,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,38,149,2,17,35,,179,0,0,63.869,177,326,1,2,0,0,0,9,65,21,7,18,0.389,0,0,0.0,2106,https://www.pro-football-reference.com/boxscores/201411020sea.htm
+2014,2014-11-02,zyhFXj1nywrm1,Baltimore,Ravens,BAL,18,63,0,30,45,,303,2,1,91.25,269,332,4,34,1,1,2,10,108,22,3,13,0.231,2,2,1.0,1714,https://www.pro-football-reference.com/boxscores/201411020pit.htm
+2014,2014-11-02,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,25,55,0,25,37,,340,6,0,136.261,321,376,3,19,1,1,1,7,67,22,6,14,0.429,1,1,1.0,1886,https://www.pro-football-reference.com/boxscores/201411020pit.htm
+2014,2014-11-03,LJmHetie5VbbO,Indianapolis,Colts,IND,24,98,0,25,46,,354,4,0,108.424,345,443,1,9,3,0,0,4,30,22,5,15,0.333,0,0,0.0,1983,https://www.pro-football-reference.com/boxscores/201411030nyg.htm
+2014,2014-11-03,n8CuHV9wbYCqF,New York,Giants,NYG,20,89,1,27,52,,359,2,0,86.939,349,438,3,10,3,1,1,4,30,22,4,16,0.25,1,2,0.5,1617,https://www.pro-football-reference.com/boxscores/201411030nyg.htm
+2014,2014-11-06,IR4gIYmh269EI,Cleveland,Browns,CLE,52,170,3,15,23,,198,0,0,92.301,198,368,0,0,1,1,1,6,62,21,7,16,0.438,0,0,0.0,2149,https://www.pro-football-reference.com/boxscores/201411060cin.htm
+2014,2014-11-06,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,22,86,0,13,39,,93,0,3,10.31,79,165,2,14,1,1,4,7,55,11,3,17,0.176,1,1,1.0,1451,https://www.pro-football-reference.com/boxscores/201411060cin.htm
+2014,2014-11-09,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,24,127,2,17,29,,177,0,0,76.365,151,278,6,26,2,1,1,3,19,16,3,13,0.231,1,1,1.0,1758,https://www.pro-football-reference.com/boxscores/201411090buf.htm
+2014,2014-11-09,3VqeLK0LS9rpw,Buffalo,Bills,BUF,22,111,0,29,48,,259,1,0,81.858,253,364,1,6,3,3,3,6,44,21,7,16,0.438,0,1,0.0,1842,https://www.pro-football-reference.com/boxscores/201411090buf.htm
+2014,2014-11-09,mfbu6O5aMHbJg,Miami,Dolphins,MIA,19,50,0,27,38,,207,1,1,81.798,178,228,3,29,3,1,2,5,44,20,5,14,0.357,0,0,0.0,1706,https://www.pro-football-reference.com/boxscores/201411090det.htm
+2014,2014-11-09,FCuH1wdksA2DQ,Detroit,Lions,DET,19,63,0,27,42,,307,2,1,92.063,288,351,3,19,0,0,1,10,98,19,3,12,0.25,2,3,0.667,1894,https://www.pro-football-reference.com/boxscores/201411090det.htm
+2014,2014-11-09,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,17,36,0,30,43,,343,1,2,81.831,326,362,2,17,3,2,4,3,20,22,6,11,0.545,0,1,0.0,1767,https://www.pro-football-reference.com/boxscores/201411090nyj.htm
+2014,2014-11-09,mexvMWO2v1hWn,New York,Jets,NYJ,36,150,0,10,18,,132,2,0,115.972,125,275,4,7,0,0,0,9,75,15,6,15,0.4,0,0,0.0,1833,https://www.pro-football-reference.com/boxscores/201411090nyj.htm
+2014,2014-11-09,IwSI92ZDKoazn,San Francisco,49ers,SF,32,144,2,14,32,,210,1,0,76.302,186,330,4,24,1,1,1,2,15,21,6,15,0.4,1,1,1.0,2026,https://www.pro-football-reference.com/boxscores/201411090nor.htm
+2014,2014-11-09,CI5mhfNa0Zqd2,New Orleans,Saints,NO,31,136,0,28,47,,292,3,2,81.161,287,423,2,5,2,1,3,6,43,23,8,18,0.444,2,2,1.0,2160,https://www.pro-football-reference.com/boxscores/201411090nor.htm
+2014,2014-11-09,ltMyRE3yvVUaw,Tennessee,Titans,TEN,22,67,0,16,27,,179,1,1,76.003,143,210,5,36,2,1,2,9,67,14,4,12,0.333,0,0,0.0,1753,https://www.pro-football-reference.com/boxscores/201411090rav.htm
+2014,2014-11-09,zyhFXj1nywrm1,Baltimore,Ravens,BAL,34,151,2,16,27,,169,1,0,89.892,161,312,1,8,1,0,0,5,40,18,4,13,0.308,1,1,1.0,1847,https://www.pro-football-reference.com/boxscores/201411090rav.htm
+2014,2014-11-09,mLspw4gJNTQGN,Atlanta,Falcons,ATL,28,110,1,20,31,,219,1,0,96.035,212,322,1,7,0,0,0,5,30,19,6,12,0.5,0,0,0.0,1788,https://www.pro-football-reference.com/boxscores/201411090tam.htm
+2014,2014-11-09,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,23,92,0,27,43,,301,2,2,79.7,281,373,4,20,1,1,3,10,79,23,12,17,0.706,0,1,0.0,1812,https://www.pro-football-reference.com/boxscores/201411090tam.htm
+2014,2014-11-09,KdjU81i7YSFE7,Dallas,Cowboys,DAL,30,151,1,21,28,,254,3,0,138.095,248,399,1,6,1,1,1,9,65,16,4,13,0.308,0,0,0.0,1892,https://www.pro-football-reference.com/boxscores/201411090jax.htm
+2014,2014-11-09,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,24,71,2,22,37,,290,0,1,73.029,262,333,4,28,3,2,3,2,19,20,4,14,0.286,2,4,0.5,1708,https://www.pro-football-reference.com/boxscores/201411090jax.htm
+2014,2014-11-09,6DclFuycdPaOB,Denver,Broncos,DEN,27,118,0,33,49,,353,5,2,105.23,353,471,0,0,1,0,2,12,95,25,7,15,0.467,1,1,1.0,1942,https://www.pro-football-reference.com/boxscores/201411090rai.htm
+2014,2014-11-09,LZoDld8s63xUs,Las Vegas,Raiders,LV,15,30,0,30,47,,192,2,2,68.75,192,222,0,0,2,1,3,4,37,10,5,18,0.278,0,0,0.0,1658,https://www.pro-football-reference.com/boxscores/201411090rai.htm
+2014,2014-11-09,u98I1lDKQBwZ0,Los Angeles,Rams,LA,22,70,1,17,30,,216,1,2,62.639,174,244,6,42,1,1,3,8,80,16,1,10,0.1,1,2,0.5,1600,https://www.pro-football-reference.com/boxscores/201411090crd.htm
+2014,2014-11-09,GJizlkzQFaqGA,Arizona,Cardinals,ARI,22,28,1,28,41,,326,1,1,90.091,307,335,3,19,1,0,1,5,35,21,6,15,0.4,0,0,0.0,2000,https://www.pro-football-reference.com/boxscores/201411090crd.htm
+2014,2014-11-09,n8CuHV9wbYCqF,New York,Giants,NYG,17,54,1,29,44,,283,1,1,81.913,270,324,2,13,1,1,2,4,35,20,6,12,0.5,0,1,0.0,1608,https://www.pro-football-reference.com/boxscores/201411090sea.htm
+2014,2014-11-09,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,45,350,5,10,17,,172,0,2,53.676,160,510,2,12,3,1,3,6,50,27,7,12,0.583,1,1,1.0,1992,https://www.pro-football-reference.com/boxscores/201411090sea.htm
+2014,2014-11-09,1vVmWGzUZ1rea,Chicago,Bears,CHI,24,55,0,23,40,,283,1,2,66.979,256,311,4,27,2,1,3,11,163,21,3,12,0.25,0,4,0.0,1819,https://www.pro-football-reference.com/boxscores/201411090gnb.htm
+2014,2014-11-09,D5QY6bOxfn8ZL,Green Bay,Packers,GB,32,132,0,19,32,,319,6,0,132.682,319,451,0,0,1,1,1,5,50,21,6,13,0.462,2,2,1.0,1781,https://www.pro-football-reference.com/boxscores/201411090gnb.htm
+2014,2014-11-10,jJBGuksuDJF5L,Carolina,Panthers,CAR,32,102,1,25,40,,306,2,3,71.458,215,317,9,91,3,2,5,4,30,21,10,20,0.5,0,1,0.0,2285,https://www.pro-football-reference.com/boxscores/201411100phi.htm
+2014,2014-11-10,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,23,37,2,20,38,,332,2,0,99.89,328,365,1,4,2,0,0,5,50,17,5,15,0.333,0,1,0.0,1315,https://www.pro-football-reference.com/boxscores/201411100phi.htm
+2014,2014-11-13,3VqeLK0LS9rpw,Buffalo,Bills,BUF,19,54,0,22,39,,193,0,0,69.712,183,237,2,10,0,0,0,7,70,13,6,15,0.4,0,2,0.0,1658,https://www.pro-football-reference.com/boxscores/201411130mia.htm
+2014,2014-11-13,mfbu6O5aMHbJg,Miami,Dolphins,MIA,24,125,0,26,34,,240,2,0,114.828,205,330,5,35,2,2,2,4,30,24,4,9,0.444,0,0,0.0,1942,https://www.pro-football-reference.com/boxscores/201411130mia.htm
+2014,2014-11-16,6DclFuycdPaOB,Denver,Broncos,DEN,10,28,0,34,54,,389,1,2,75.309,369,397,2,20,0,0,2,8,62,21,4,12,0.333,0,3,0.0,1450,https://www.pro-football-reference.com/boxscores/201411160ram.htm
+2014,2014-11-16,u98I1lDKQBwZ0,Los Angeles,Rams,LA,33,131,0,20,29,,220,1,0,102.658,206,337,3,14,1,0,0,3,25,16,6,17,0.353,0,0,0.0,2150,https://www.pro-football-reference.com/boxscores/201411160ram.htm
+2014,2014-11-16,AzOs5UWsXusSW,Minnesota,Vikings,MIN,16,96,0,18,28,,158,1,1,76.19,147,243,2,11,0,0,1,2,18,10,2,11,0.182,2,2,1.0,1282,https://www.pro-football-reference.com/boxscores/201411160chi.htm
+2014,2014-11-16,1vVmWGzUZ1rea,Chicago,Bears,CHI,31,138,0,31,43,,330,3,2,98.014,330,468,0,0,0,0,2,7,60,24,10,17,0.588,2,3,0.667,2318,https://www.pro-football-reference.com/boxscores/201411160chi.htm
+2014,2014-11-16,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,36,186,0,16,22,,220,3,0,143.939,219,405,1,1,2,0,0,4,33,22,9,13,0.692,0,0,0.0,1754,https://www.pro-football-reference.com/boxscores/201411160nor.htm
+2014,2014-11-16,CI5mhfNa0Zqd2,New Orleans,Saints,NO,26,75,0,33,41,,255,1,0,100.711,255,330,0,0,2,1,1,5,34,24,8,13,0.615,0,1,0.0,1846,https://www.pro-football-reference.com/boxscores/201411160nor.htm
+2014,2014-11-16,mLspw4gJNTQGN,Atlanta,Falcons,ATL,27,86,0,31,45,,268,1,0,91.713,260,346,2,8,1,1,1,5,58,22,5,15,0.333,0,0,0.0,1918,https://www.pro-football-reference.com/boxscores/201411160car.htm
+2014,2014-11-16,jJBGuksuDJF5L,Carolina,Panthers,CAR,25,106,0,23,37,,292,2,2,82.264,285,391,2,7,0,0,2,1,15,22,3,13,0.231,0,0,0.0,1682,https://www.pro-football-reference.com/boxscores/201411160car.htm
+2014,2014-11-16,UI0Ax4HUEXFh6,Houston,Texans,HOU,54,213,0,20,30,,211,2,1,95.278,211,424,0,0,1,0,1,5,55,29,7,18,0.389,1,1,1.0,2033,https://www.pro-football-reference.com/boxscores/201411160cle.htm
+2014,2014-11-16,IR4gIYmh269EI,Cleveland,Browns,CLE,23,65,0,20,50,,330,1,1,61.25,310,375,3,20,3,1,2,8,67,24,3,15,0.2,0,2,0.0,1567,https://www.pro-football-reference.com/boxscores/201411160cle.htm
+2014,2014-11-16,IwSI92ZDKoazn,San Francisco,49ers,SF,37,148,0,15,30,,193,1,0,81.667,185,333,1,8,3,1,1,4,35,20,6,14,0.429,0,1,0.0,2099,https://www.pro-football-reference.com/boxscores/201411160nyg.htm
+2014,2014-11-16,n8CuHV9wbYCqF,New York,Giants,NYG,21,65,0,22,45,,280,1,5,36.574,265,330,2,15,1,0,5,3,54,17,6,15,0.4,0,3,0.0,1501,https://www.pro-football-reference.com/boxscores/201411160nyg.htm
+2014,2014-11-16,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,21,48,0,15,23,,288,2,0,137.5,281,329,2,7,2,1,1,11,101,12,3,10,0.3,0,0,0.0,1549,https://www.pro-football-reference.com/boxscores/201411160was.htm
+2014,2014-11-16,9JtBk8kFeaGEs,Washington,Football Team,WAS,31,155,0,23,32,,207,1,2,73.307,167,322,6,40,4,1,3,9,67,20,4,13,0.308,1,1,1.0,2051,https://www.pro-football-reference.com/boxscores/201411160was.htm
+2014,2014-11-16,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,37,204,0,20,32,,178,2,0,98.177,168,372,2,10,1,0,0,8,50,25,5,12,0.417,0,3,0.0,2157,https://www.pro-football-reference.com/boxscores/201411160kan.htm
+2014,2014-11-16,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,30,190,3,11,16,,108,0,0,87.5,108,298,0,0,3,2,2,3,6,20,2,6,0.333,0,0,0.0,1443,https://www.pro-football-reference.com/boxscores/201411160kan.htm
+2014,2014-11-16,LZoDld8s63xUs,Las Vegas,Raiders,LV,19,71,0,16,34,,172,0,0,62.377,162,233,2,10,2,1,1,8,41,9,3,15,0.2,1,1,1.0,1514,https://www.pro-football-reference.com/boxscores/201411160sdg.htm
+2014,2014-11-16,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,32,120,0,22,34,,193,1,0,89.461,180,300,2,13,0,0,0,6,40,18,4,15,0.267,0,0,0.0,2086,https://www.pro-football-reference.com/boxscores/201411160sdg.htm
+2014,2014-11-16,FCuH1wdksA2DQ,Detroit,Lions,DET,19,98,0,18,30,,183,0,1,63.611,164,262,4,19,2,0,1,9,80,11,5,15,0.333,0,1,0.0,1757,https://www.pro-football-reference.com/boxscores/201411160crd.htm
+2014,2014-11-16,GJizlkzQFaqGA,Arizona,Cardinals,ARI,26,46,0,21,32,,306,2,2,91.406,306,352,0,0,0,0,2,4,35,18,8,14,0.571,0,0,0.0,1843,https://www.pro-football-reference.com/boxscores/201411160crd.htm
+2014,2014-11-16,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,31,109,0,26,44,,346,2,2,80.303,320,429,3,26,4,2,4,6,53,22,5,15,0.333,2,3,0.667,1638,https://www.pro-football-reference.com/boxscores/201411160gnb.htm
+2014,2014-11-16,D5QY6bOxfn8ZL,Green Bay,Packers,GB,25,110,1,24,38,,367,3,0,121.272,365,475,1,2,2,0,0,4,52,25,8,14,0.571,0,0,0.0,1962,https://www.pro-football-reference.com/boxscores/201411160gnb.htm
+2014,2014-11-16,VkxV91RtzHn65,New England,Patriots,NE,44,246,4,19,30,,257,2,2,85.0,257,503,0,0,0,0,2,5,53,33,9,11,0.818,0,0,0.0,2061,https://www.pro-football-reference.com/boxscores/201411160clt.htm
+2014,2014-11-16,LJmHetie5VbbO,Indianapolis,Colts,IND,16,19,0,23,39,,303,2,1,90.011,303,322,1,0,1,0,1,4,27,17,5,13,0.385,1,3,0.333,1539,https://www.pro-football-reference.com/boxscores/201411160clt.htm
+2014,2014-11-17,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,36,206,1,21,32,,207,1,1,81.12,180,386,5,27,0,0,1,4,39,29,7,13,0.538,0,0,0.0,2389,https://www.pro-football-reference.com/boxscores/201411170oti.htm
+2014,2014-11-17,ltMyRE3yvVUaw,Tennessee,Titans,TEN,15,49,1,15,24,,263,2,1,110.243,263,312,0,0,0,0,1,1,10,14,3,8,0.375,0,0,0.0,1211,https://www.pro-football-reference.com/boxscores/201411170oti.htm
+2014,2014-11-20,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,24,96,0,20,36,,234,2,0,93.981,217,313,2,17,2,0,0,7,59,16,2,14,0.143,0,1,0.0,1796,https://www.pro-football-reference.com/boxscores/201411200rai.htm
+2014,2014-11-20,LZoDld8s63xUs,Las Vegas,Raiders,LV,30,179,2,18,35,,174,1,0,75.179,172,351,1,2,2,1,1,7,60,18,8,16,0.5,1,1,1.0,1804,https://www.pro-football-reference.com/boxscores/201411200rai.htm
+2014,2014-11-23,IR4gIYmh269EI,Cleveland,Browns,CLE,29,162,2,23,41,,322,0,3,51.067,313,475,1,9,2,0,3,5,30,29,4,10,0.4,0,0,0.0,1837,https://www.pro-football-reference.com/boxscores/201411230atl.htm
+2014,2014-11-23,mLspw4gJNTQGN,Atlanta,Falcons,ATL,23,63,1,27,43,,273,2,1,86.676,252,315,3,21,1,1,2,7,40,21,9,16,0.562,0,0,0.0,1763,https://www.pro-football-reference.com/boxscores/201411230atl.htm
+2014,2014-11-23,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,22,66,0,25,48,,341,1,2,64.67,301,367,5,40,4,2,4,9,87,17,7,17,0.412,0,1,0.0,1810,https://www.pro-football-reference.com/boxscores/201411230chi.htm
+2014,2014-11-23,1vVmWGzUZ1rea,Chicago,Bears,CHI,26,92,2,17,27,,130,1,0,86.96,112,204,3,18,1,1,1,6,45,12,4,16,0.25,0,0,0.0,1790,https://www.pro-football-reference.com/boxscores/201411230chi.htm
+2014,2014-11-23,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,43,139,1,24,35,,233,1,1,84.583,233,372,0,0,1,0,1,6,60,24,11,20,0.55,0,1,0.0,2350,https://www.pro-football-reference.com/boxscores/201411230htx.htm
+2014,2014-11-23,UI0Ax4HUEXFh6,Houston,Texans,HOU,19,64,0,21,45,,189,0,1,49.213,184,248,1,5,0,0,1,3,15,18,4,14,0.286,2,3,0.667,1250,https://www.pro-football-reference.com/boxscores/201411230htx.htm
+2014,2014-11-23,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,23,80,0,15,27,,146,0,1,55.478,114,194,4,32,2,1,2,6,43,11,3,12,0.25,0,1,0.0,1555,https://www.pro-football-reference.com/boxscores/201411230clt.htm
+2014,2014-11-23,LJmHetie5VbbO,Indianapolis,Colts,IND,35,175,1,21,32,,253,1,0,100.13,214,389,5,39,6,3,3,6,54,24,9,17,0.529,0,0,0.0,2045,https://www.pro-football-reference.com/boxscores/201411230clt.htm
+2014,2014-11-23,FCuH1wdksA2DQ,Detroit,Lions,DET,25,91,0,18,46,,264,0,1,49.547,244,335,2,20,0,0,1,9,54,21,5,17,0.294,2,3,0.667,1811,https://www.pro-football-reference.com/boxscores/201411230nwe.htm
+2014,2014-11-23,VkxV91RtzHn65,New England,Patriots,NE,20,90,2,38,53,,349,2,1,93.986,349,439,0,0,1,0,1,11,89,29,6,14,0.429,1,1,1.0,1789,https://www.pro-football-reference.com/boxscores/201411230nwe.htm
+2014,2014-11-23,ltMyRE3yvVUaw,Tennessee,Titans,TEN,19,52,1,20,39,,345,2,1,88.088,299,351,5,46,3,2,3,7,56,16,2,12,0.167,1,2,0.5,1608,https://www.pro-football-reference.com/boxscores/201411230phi.htm
+2014,2014-11-23,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,38,164,2,30,43,,307,1,2,78.343,298,462,2,9,0,0,2,9,69,26,10,19,0.526,0,0,0.0,1992,https://www.pro-football-reference.com/boxscores/201411230phi.htm
+2014,2014-11-23,D5QY6bOxfn8ZL,Green Bay,Packers,GB,32,155,1,19,29,,209,2,0,109.698,207,362,1,2,1,0,0,8,75,24,6,11,0.545,0,0,0.0,1905,https://www.pro-football-reference.com/boxscores/201411230min.htm
+2014,2014-11-23,AzOs5UWsXusSW,Minnesota,Vikings,MIN,25,112,0,21,37,,210,2,1,79.786,196,308,2,14,0,0,1,7,77,20,5,13,0.385,1,1,1.0,1695,https://www.pro-football-reference.com/boxscores/201411230min.htm
+2014,2014-11-23,u98I1lDKQBwZ0,Los Angeles,Rams,LA,24,107,1,19,36,,217,1,2,57.292,210,317,1,7,2,1,3,9,90,16,6,14,0.429,1,1,1.0,1731,https://www.pro-football-reference.com/boxscores/201411230sdg.htm
+2014,2014-11-23,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,22,128,1,29,35,,291,1,1,98.929,282,410,3,9,3,2,3,8,85,19,4,12,0.333,0,0,0.0,1869,https://www.pro-football-reference.com/boxscores/201411230sdg.htm
+2014,2014-11-23,GJizlkzQFaqGA,Arizona,Cardinals,ARI,20,64,0,14,26,,149,0,1,54.808,140,204,3,9,2,0,1,3,25,12,3,12,0.25,0,0,0.0,1473,https://www.pro-football-reference.com/boxscores/201411230sea.htm
+2014,2014-11-23,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,29,124,0,17,22,,211,1,0,121.591,169,293,7,42,0,0,0,7,74,16,5,13,0.385,0,0,0.0,2127,https://www.pro-football-reference.com/boxscores/201411230sea.htm
+2014,2014-11-23,mfbu6O5aMHbJg,Miami,Dolphins,MIA,21,97,2,26,36,,228,3,1,104.861,216,313,1,12,3,0,1,6,50,25,4,8,0.5,1,1,1.0,1543,https://www.pro-football-reference.com/boxscores/201411230den.htm
+2014,2014-11-23,6DclFuycdPaOB,Denver,Broncos,DEN,35,201,1,28,35,,257,4,0,135.357,249,450,1,8,1,1,1,9,98,29,9,13,0.692,1,1,1.0,2057,https://www.pro-football-reference.com/boxscores/201411230den.htm
+2014,2014-11-23,9JtBk8kFeaGEs,Washington,Football Team,WAS,27,136,1,11,20,,106,0,0,70.0,77,213,5,29,1,1,1,7,53,12,2,13,0.154,0,0,0.0,1795,https://www.pro-football-reference.com/boxscores/201411230sfo.htm
+2014,2014-11-23,IwSI92ZDKoazn,San Francisco,49ers,SF,29,66,1,20,29,,256,1,1,93.463,246,312,2,10,3,2,3,5,47,16,5,13,0.385,2,2,1.0,1805,https://www.pro-football-reference.com/boxscores/201411230sfo.htm
+2014,2014-11-23,KdjU81i7YSFE7,Dallas,Cowboys,DAL,25,119,0,18,26,,275,4,0,143.429,266,385,2,9,1,1,1,7,63,18,4,10,0.4,0,0,0.0,1493,https://www.pro-football-reference.com/boxscores/201411230nyg.htm
+2014,2014-11-23,n8CuHV9wbYCqF,New York,Giants,NYG,32,89,1,29,40,,338,3,1,112.292,328,417,2,10,0,0,1,5,30,27,11,16,0.688,0,1,0.0,2107,https://www.pro-football-reference.com/boxscores/201411230nyg.htm
+2014,2014-11-24,mexvMWO2v1hWn,New York,Jets,NYJ,19,92,0,17,31,,165,0,1,56.519,126,218,7,39,0,0,1,9,60,11,3,15,0.2,1,1,1.0,1746,https://www.pro-football-reference.com/boxscores/201411240buf.htm
+2014,2014-11-24,3VqeLK0LS9rpw,Buffalo,Bills,BUF,29,116,2,24,32,,230,2,0,115.365,220,336,1,10,0,0,0,4,24,21,7,13,0.538,0,1,0.0,1854,https://www.pro-football-reference.com/boxscores/201411240buf.htm
+2014,2014-11-24,zyhFXj1nywrm1,Baltimore,Ravens,BAL,32,215,2,18,24,,243,1,0,120.66,234,449,1,9,1,1,1,6,42,23,9,13,0.692,0,0,0.0,1815,https://www.pro-football-reference.com/boxscores/201411240nor.htm
+2014,2014-11-24,CI5mhfNa0Zqd2,New Orleans,Saints,NO,21,126,0,35,45,,420,3,1,118.519,399,525,4,21,1,0,1,5,50,26,5,12,0.417,0,1,0.0,1785,https://www.pro-football-reference.com/boxscores/201411240nor.htm
+2014,2014-11-27,1vVmWGzUZ1rea,Chicago,Bears,CHI,8,13,0,31,48,,280,2,2,76.736,256,269,3,24,0,0,2,5,41,18,5,12,0.417,0,0,0.0,1595,https://www.pro-football-reference.com/boxscores/201411270det.htm
+2014,2014-11-27,FCuH1wdksA2DQ,Detroit,Lions,DET,23,91,2,34,45,,390,2,0,115.972,383,474,2,7,2,1,1,5,38,28,5,12,0.417,1,2,0.5,2005,https://www.pro-football-reference.com/boxscores/201411270det.htm
+2014,2014-11-27,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,45,256,2,20,29,,217,1,0,102.227,208,464,1,9,2,1,1,4,20,26,8,15,0.533,0,0,0.0,1825,https://www.pro-football-reference.com/boxscores/201411270dal.htm
+2014,2014-11-27,KdjU81i7YSFE7,Dallas,Cowboys,DAL,25,93,1,18,29,,199,0,2,53.664,174,267,4,25,1,1,3,6,42,16,4,12,0.333,0,1,0.0,1775,https://www.pro-football-reference.com/boxscores/201411270dal.htm
+2014,2014-11-27,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,34,157,0,15,22,,236,1,0,118.75,222,379,4,14,3,0,0,14,105,16,5,14,0.357,0,1,0.0,2119,https://www.pro-football-reference.com/boxscores/201411270sfo.htm
+2014,2014-11-27,IwSI92ZDKoazn,San Francisco,49ers,SF,18,64,0,16,29,,121,0,2,36.71,100,164,4,21,1,1,3,3,20,16,4,11,0.364,0,0,0.0,1481,https://www.pro-football-reference.com/boxscores/201411270sfo.htm
+2014,2014-11-30,LZoDld8s63xUs,Las Vegas,Raiders,LV,21,61,0,29,48,,230,0,3,46.354,183,244,6,47,3,2,5,8,73,17,4,18,0.222,0,1,0.0,2216,https://www.pro-football-reference.com/boxscores/201411300ram.htm
+2014,2014-11-30,u98I1lDKQBwZ0,Los Angeles,Rams,LA,26,172,4,13,22,,183,2,0,116.288,176,348,1,7,2,0,0,8,60,17,1,8,0.125,0,0,0.0,1384,https://www.pro-football-reference.com/boxscores/201411300ram.htm
+2014,2014-11-30,IR4gIYmh269EI,Cleveland,Browns,CLE,26,74,1,23,38,,255,0,2,58.553,241,315,2,14,2,1,3,10,76,19,3,12,0.25,0,1,0.0,1745,https://www.pro-football-reference.com/boxscores/201411300buf.htm
+2014,2014-11-30,3VqeLK0LS9rpw,Buffalo,Bills,BUF,30,106,0,17,31,,190,1,2,57.191,181,287,1,9,1,0,2,6,45,15,2,15,0.133,2,2,1.0,1855,https://www.pro-football-reference.com/boxscores/201411300buf.htm
+2014,2014-11-30,jJBGuksuDJF5L,Carolina,Panthers,CAR,33,178,0,18,35,,194,1,1,65.655,170,348,4,24,0,0,1,4,35,23,7,16,0.438,1,1,1.0,2148,https://www.pro-football-reference.com/boxscores/201411300min.htm
+2014,2014-11-30,AzOs5UWsXusSW,Minnesota,Vikings,MIN,24,92,0,15,21,,138,2,0,120.734,118,210,3,20,3,0,0,5,25,12,4,11,0.364,0,0,0.0,1452,https://www.pro-football-reference.com/boxscores/201411300min.htm
+2014,2014-11-30,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,28,112,1,20,28,,187,1,3,61.756,176,288,2,11,0,0,3,10,73,19,5,11,0.455,0,0,0.0,1837,https://www.pro-football-reference.com/boxscores/201411300tam.htm
+2014,2014-11-30,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,25,75,1,15,29,,190,0,1,58.118,188,263,1,2,2,0,1,13,94,14,2,11,0.182,0,1,0.0,1763,https://www.pro-football-reference.com/boxscores/201411300tam.htm
+2014,2014-11-30,9JtBk8kFeaGEs,Washington,Football Team,WAS,21,84,0,31,47,,392,3,0,113.076,341,425,6,51,5,1,1,10,78,24,5,15,0.333,0,2,0.0,2165,https://www.pro-football-reference.com/boxscores/201411300clt.htm
+2014,2014-11-30,LJmHetie5VbbO,Indianapolis,Colts,IND,21,126,1,19,27,,370,5,1,136.96,361,487,1,9,3,2,3,10,94,19,5,8,0.625,0,0,0.0,1435,https://www.pro-football-reference.com/boxscores/201411300clt.htm
+2014,2014-11-30,ltMyRE3yvVUaw,Tennessee,Titans,TEN,22,83,0,19,31,,275,2,3,72.043,237,320,3,38,1,1,4,6,66,19,3,9,0.333,0,0,0.0,1604,https://www.pro-football-reference.com/boxscores/201411300htx.htm
+2014,2014-11-30,UI0Ax4HUEXFh6,Houston,Texans,HOU,36,99,0,24,33,,358,6,0,147.475,358,457,0,0,1,1,1,5,40,24,11,17,0.647,1,1,1.0,1996,https://www.pro-football-reference.com/boxscores/201411300htx.htm
+2014,2014-11-30,CI5mhfNa0Zqd2,New Orleans,Saints,NO,26,143,0,19,27,,257,5,0,139.969,250,393,1,7,0,0,0,11,77,20,4,10,0.4,0,0,0.0,1561,https://www.pro-football-reference.com/boxscores/201411300pit.htm
+2014,2014-11-30,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,23,103,1,32,58,,435,2,2,76.437,435,538,1,0,0,0,2,5,28,36,6,14,0.429,0,1,0.0,2039,https://www.pro-football-reference.com/boxscores/201411300pit.htm
+2014,2014-11-30,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,18,64,1,34,45,,383,3,1,113.472,376,440,2,7,1,1,2,8,91,31,9,11,0.818,0,0,0.0,1789,https://www.pro-football-reference.com/boxscores/201411300rav.htm
+2014,2014-11-30,zyhFXj1nywrm1,Baltimore,Ravens,BAL,32,125,1,19,31,,225,2,0,104.906,225,350,0,0,1,0,0,14,98,24,7,12,0.583,0,0,0.0,1811,https://www.pro-football-reference.com/boxscores/201411300rav.htm
+2014,2014-11-30,n8CuHV9wbYCqF,New York,Giants,NYG,35,116,2,24,34,,247,1,0,100.98,213,329,4,34,3,3,3,6,40,22,7,15,0.467,0,0,0.0,2079,https://www.pro-football-reference.com/boxscores/201411300jax.htm
+2014,2014-11-30,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,22,118,0,21,35,,194,1,0,84.702,140,258,7,54,0,0,0,7,49,18,3,12,0.25,0,0,0.0,1521,https://www.pro-football-reference.com/boxscores/201411300jax.htm
+2014,2014-11-30,GJizlkzQFaqGA,Arizona,Cardinals,ARI,11,35,0,24,39,,294,1,2,71.955,294,329,0,0,1,1,3,5,34,18,1,7,0.143,0,0,0.0,1377,https://www.pro-football-reference.com/boxscores/201411300atl.htm
+2014,2014-11-30,mLspw4gJNTQGN,Atlanta,Falcons,ATL,34,142,0,30,41,,361,2,1,105.843,358,500,1,3,0,0,1,9,76,22,7,16,0.438,1,1,1.0,2223,https://www.pro-football-reference.com/boxscores/201411300atl.htm
+2014,2014-11-30,VkxV91RtzHn65,New England,Patriots,NE,18,84,1,22,35,,245,2,0,102.679,236,320,1,9,0,0,0,4,25,20,4,10,0.4,1,1,1.0,1405,https://www.pro-football-reference.com/boxscores/201411300gnb.htm
+2014,2014-11-30,D5QY6bOxfn8ZL,Green Bay,Packers,GB,29,130,0,24,38,,368,2,0,112.61,348,478,3,20,1,0,0,4,22,24,10,17,0.588,0,0,0.0,2195,https://www.pro-football-reference.com/boxscores/201411300gnb.htm
+2014,2014-11-30,6DclFuycdPaOB,Denver,Broncos,DEN,45,214,0,17,34,,179,2,0,85.294,174,388,1,5,1,1,1,5,32,21,9,21,0.429,2,2,1.0,2327,https://www.pro-football-reference.com/boxscores/201411300kan.htm
+2014,2014-11-30,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,15,41,0,15,23,,153,2,1,95.018,110,151,6,43,2,2,3,5,35,11,1,9,0.111,1,2,0.5,1273,https://www.pro-football-reference.com/boxscores/201411300kan.htm
+2014,2014-12-01,mfbu6O5aMHbJg,Miami,Dolphins,MIA,18,74,1,25,35,,235,0,1,77.679,217,291,2,18,0,0,1,3,20,16,5,13,0.385,0,0,0.0,1645,https://www.pro-football-reference.com/boxscores/201412010nyj.htm
+2014,2014-12-01,mexvMWO2v1hWn,New York,Jets,NYJ,49,277,1,7,13,,65,0,1,35.737,49,326,2,16,1,0,1,7,57,18,7,15,0.467,0,0,0.0,1955,https://www.pro-football-reference.com/boxscores/201412010nyj.htm
+2014,2014-12-04,KdjU81i7YSFE7,Dallas,Cowboys,DAL,35,194,2,21,26,,205,3,0,137.981,203,397,1,2,0,0,0,8,97,21,7,14,0.5,2,2,1.0,1948,https://www.pro-football-reference.com/boxscores/201412040chi.htm
+2014,2014-12-04,1vVmWGzUZ1rea,Chicago,Bears,CHI,15,35,2,32,46,,341,2,1,96.377,341,376,0,0,1,1,2,9,54,23,2,10,0.2,3,3,1.0,1652,https://www.pro-football-reference.com/boxscores/201412040chi.htm
+2014,2014-12-07,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,31,193,2,25,39,,350,3,0,118.536,350,543,0,0,0,0,0,3,20,25,8,16,0.5,0,0,0.0,1965,https://www.pro-football-reference.com/boxscores/201412070cin.htm
+2014,2014-12-07,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,21,86,1,25,35,,327,2,0,119.583,322,408,3,5,3,2,2,7,54,16,3,11,0.273,0,1,0.0,1635,https://www.pro-football-reference.com/boxscores/201412070cin.htm
+2014,2014-12-07,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,14,26,0,20,39,,250,2,2,67.254,207,233,6,43,1,1,3,5,50,15,4,14,0.286,0,1,0.0,1405,https://www.pro-football-reference.com/boxscores/201412070det.htm
+2014,2014-12-07,FCuH1wdksA2DQ,Detroit,Lions,DET,31,113,1,26,34,,311,3,0,133.333,294,407,4,17,3,1,1,9,122,22,7,15,0.467,0,2,0.0,2195,https://www.pro-football-reference.com/boxscores/201412070det.htm
+2014,2014-12-07,zyhFXj1nywrm1,Baltimore,Ravens,BAL,31,183,2,25,33,,269,2,1,106.755,264,447,1,5,0,0,1,7,36,26,5,12,0.417,1,1,1.0,1818,https://www.pro-football-reference.com/boxscores/201412070mia.htm
+2014,2014-12-07,mfbu6O5aMHbJg,Miami,Dolphins,MIA,16,63,0,23,33,,227,1,0,98.927,186,249,6,41,2,0,0,6,30,16,4,12,0.333,0,1,0.0,1782,https://www.pro-football-reference.com/boxscores/201412070mia.htm
+2014,2014-12-07,mexvMWO2v1hWn,New York,Jets,NYJ,42,168,0,18,29,,254,1,1,87.428,242,410,3,12,4,1,2,4,40,19,8,17,0.471,0,0,0.0,2152,https://www.pro-football-reference.com/boxscores/201412070min.htm
+2014,2014-12-07,AzOs5UWsXusSW,Minnesota,Vikings,MIN,28,114,0,19,27,,309,2,1,117.67,297,411,3,12,2,1,2,6,70,19,6,12,0.5,0,0,0.0,1727,https://www.pro-football-reference.com/boxscores/201412070min.htm
+2014,2014-12-07,jJBGuksuDJF5L,Carolina,Panthers,CAR,40,271,2,21,33,,226,3,0,113.952,226,497,0,0,2,0,0,6,55,24,7,15,0.467,0,0,0.0,2160,https://www.pro-football-reference.com/boxscores/201412070nor.htm
+2014,2014-12-07,CI5mhfNa0Zqd2,New Orleans,Saints,NO,17,92,0,29,49,,235,1,1,69.685,218,310,2,17,1,1,2,4,30,18,5,14,0.357,1,2,0.5,1440,https://www.pro-football-reference.com/boxscores/201412070nor.htm
+2014,2014-12-07,LJmHetie5VbbO,Indianapolis,Colts,IND,20,93,1,24,53,,294,2,2,59.788,269,362,3,25,4,2,4,6,40,23,5,16,0.312,1,1,1.0,1684,https://www.pro-football-reference.com/boxscores/201412070cle.htm
+2014,2014-12-07,IR4gIYmh269EI,Cleveland,Browns,CLE,32,115,1,13,30,,136,0,2,29.306,133,248,1,3,0,0,2,7,85,14,4,15,0.267,0,0,0.0,1916,https://www.pro-football-reference.com/boxscores/201412070cle.htm
+2014,2014-12-07,UI0Ax4HUEXFh6,Houston,Texans,HOU,43,169,3,13,19,,135,0,0,88.706,135,304,1,0,1,0,0,7,64,19,3,14,0.214,2,2,1.0,1949,https://www.pro-football-reference.com/boxscores/201412070jax.htm
+2014,2014-12-07,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,22,74,0,20,40,,205,1,1,63.021,188,262,4,17,0,0,1,6,40,17,5,15,0.333,0,2,0.0,1651,https://www.pro-football-reference.com/boxscores/201412070jax.htm
+2014,2014-12-07,n8CuHV9wbYCqF,New York,Giants,NYG,30,142,1,26,43,,260,1,1,75.727,260,402,0,0,0,0,1,7,70,19,8,18,0.444,0,0,0.0,2083,https://www.pro-football-reference.com/boxscores/201412070oti.htm
+2014,2014-12-07,ltMyRE3yvVUaw,Tennessee,Titans,TEN,14,61,0,23,35,,206,0,2,57.56,146,207,8,60,2,1,3,5,39,12,2,13,0.154,1,3,0.333,1517,https://www.pro-football-reference.com/boxscores/201412070oti.htm
+2014,2014-12-07,u98I1lDKQBwZ0,Los Angeles,Rams,LA,30,131,0,16,22,,213,2,0,133.333,198,329,4,15,2,0,0,11,98,19,6,12,0.5,0,0,0.0,1969,https://www.pro-football-reference.com/boxscores/201412070was.htm
+2014,2014-12-07,9JtBk8kFeaGEs,Washington,Football Team,WAS,12,27,0,23,36,,232,0,2,59.028,179,206,7,53,2,0,2,5,51,13,3,12,0.25,0,3,0.0,1631,https://www.pro-football-reference.com/boxscores/201412070was.htm
+2014,2014-12-07,3VqeLK0LS9rpw,Buffalo,Bills,BUF,16,74,1,38,57,,355,1,2,74.817,341,415,4,14,2,1,3,11,98,24,9,16,0.562,2,3,0.667,2009,https://www.pro-football-reference.com/boxscores/201412070den.htm
+2014,2014-12-07,6DclFuycdPaOB,Denver,Broncos,DEN,29,133,3,14,20,,173,0,2,56.875,173,306,0,0,1,1,3,5,45,15,4,10,0.4,0,0,0.0,1591,https://www.pro-football-reference.com/boxscores/201412070den.htm
+2014,2014-12-07,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,17,126,1,26,39,,293,1,1,86.806,264,390,5,29,1,1,2,9,75,19,6,14,0.429,0,2,0.0,1799,https://www.pro-football-reference.com/boxscores/201412070crd.htm
+2014,2014-12-07,GJizlkzQFaqGA,Arizona,Cardinals,ARI,33,141,0,15,30,,239,1,0,88.056,225,366,2,14,1,0,0,6,40,18,6,15,0.4,0,0,0.0,1801,https://www.pro-football-reference.com/boxscores/201412070crd.htm
+2014,2014-12-07,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,46,188,1,22,37,,263,2,0,99.268,252,440,2,11,2,2,2,8,67,28,7,16,0.438,0,1,0.0,2516,https://www.pro-football-reference.com/boxscores/201412070phi.htm
+2014,2014-12-07,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,22,57,0,10,20,,96,2,1,76.25,82,139,3,14,2,1,2,4,69,9,2,11,0.182,1,1,1.0,1084,https://www.pro-football-reference.com/boxscores/201412070phi.htm
+2014,2014-12-07,IwSI92ZDKoazn,San Francisco,49ers,SF,18,97,0,18,33,,174,1,2,54.356,151,248,5,23,0,0,2,7,50,18,3,11,0.273,1,1,1.0,1625,https://www.pro-football-reference.com/boxscores/201412070rai.htm
+2014,2014-12-07,LZoDld8s63xUs,Las Vegas,Raiders,LV,31,85,0,22,28,,254,3,0,140.179,245,330,1,9,0,0,0,10,84,19,6,13,0.462,0,1,0.0,1975,https://www.pro-football-reference.com/boxscores/201412070rai.htm
+2014,2014-12-07,VkxV91RtzHn65,New England,Patriots,NE,28,87,0,28,44,,317,2,1,90.814,310,397,1,7,1,1,2,6,70,24,7,16,0.438,0,0,0.0,2073,https://www.pro-football-reference.com/boxscores/201412070sdg.htm
+2014,2014-12-07,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,17,53,0,20,33,,189,1,1,73.927,163,216,4,26,1,0,1,8,61,13,4,13,0.308,0,1,0.0,1527,https://www.pro-football-reference.com/boxscores/201412070sdg.htm
+2014,2014-12-08,mLspw4gJNTQGN,Atlanta,Falcons,ATL,24,91,1,24,39,,375,4,1,116.934,374,465,1,1,0,0,1,3,11,26,5,11,0.455,3,3,1.0,1619,https://www.pro-football-reference.com/boxscores/201412080gnb.htm
+2014,2014-12-08,D5QY6bOxfn8ZL,Green Bay,Packers,GB,30,179,2,24,36,,327,3,0,123.264,323,502,1,4,1,0,0,5,40,28,7,12,0.583,0,1,0.0,1981,https://www.pro-football-reference.com/boxscores/201412080gnb.htm
+2014,2014-12-11,GJizlkzQFaqGA,Arizona,Cardinals,ARI,33,143,0,16,30,,139,0,0,65.833,131,274,1,8,1,0,0,8,59,13,5,17,0.294,0,0,0.0,2064,https://www.pro-football-reference.com/boxscores/201412110ram.htm
+2014,2014-12-11,u98I1lDKQBwZ0,Los Angeles,Rams,LA,20,69,0,20,39,,229,0,1,58.6,211,280,2,18,3,1,2,6,69,13,4,15,0.267,0,1,0.0,1536,https://www.pro-football-reference.com/boxscores/201412110ram.htm
+2014,2014-12-14,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,22,45,2,27,35,,360,0,0,109.226,353,398,1,7,0,0,0,3,34,22,6,11,0.545,0,0,0.0,1843,https://www.pro-football-reference.com/boxscores/201412140atl.htm
+2014,2014-12-14,mLspw4gJNTQGN,Atlanta,Falcons,ATL,20,97,0,26,37,,310,2,1,102.309,310,407,0,0,1,0,1,3,25,20,6,11,0.545,0,0,0.0,1757,https://www.pro-football-reference.com/boxscores/201412140atl.htm
+2014,2014-12-14,D5QY6bOxfn8ZL,Green Bay,Packers,GB,24,158,1,17,42,,185,0,2,34.325,175,333,1,10,1,0,2,9,70,21,4,14,0.286,0,0,0.0,1622,https://www.pro-football-reference.com/boxscores/201412140buf.htm
+2014,2014-12-14,3VqeLK0LS9rpw,Buffalo,Bills,BUF,33,113,0,14,27,,158,0,1,54.244,140,253,3,18,1,0,1,10,75,13,4,16,0.25,0,0,0.0,1978,https://www.pro-football-reference.com/boxscores/201412140buf.htm
+2014,2014-12-14,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,45,244,3,14,24,,117,0,1,53.646,103,347,2,14,3,0,1,5,41,24,7,14,0.5,2,2,1.0,2332,https://www.pro-football-reference.com/boxscores/201412140cle.htm
+2014,2014-12-14,IR4gIYmh269EI,Cleveland,Browns,CLE,17,53,0,10,18,,80,0,2,27.315,54,107,3,26,0,0,2,9,68,5,1,10,0.1,1,1,1.0,1268,https://www.pro-football-reference.com/boxscores/201412140cle.htm
+2014,2014-12-14,UI0Ax4HUEXFh6,Houston,Texans,HOU,41,137,0,13,25,,157,0,1,54.917,152,289,1,5,2,1,2,8,66,14,5,16,0.312,0,3,0.0,1865,https://www.pro-football-reference.com/boxscores/201412140clt.htm
+2014,2014-12-14,LJmHetie5VbbO,Indianapolis,Colts,IND,28,110,0,18,34,,187,2,1,76.471,168,278,2,19,1,1,2,7,45,20,2,12,0.167,0,0,0.0,1735,https://www.pro-football-reference.com/boxscores/201412140clt.htm
+2014,2014-12-14,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,23,82,0,22,38,,229,0,1,64.474,166,248,8,63,0,0,1,5,60,13,5,18,0.278,1,3,0.333,1902,https://www.pro-football-reference.com/boxscores/201412140rav.htm
+2014,2014-12-14,zyhFXj1nywrm1,Baltimore,Ravens,BAL,26,93,0,20,30,,221,1,0,99.444,221,314,0,0,1,1,1,9,70,17,4,12,0.333,0,0,0.0,1698,https://www.pro-football-reference.com/boxscores/201412140rav.htm
+2014,2014-12-14,mfbu6O5aMHbJg,Miami,Dolphins,MIA,23,76,0,29,47,,346,1,2,73.537,308,384,4,38,3,0,2,5,35,23,3,16,0.188,3,5,0.6,2026,https://www.pro-football-reference.com/boxscores/201412140nwe.htm
+2014,2014-12-14,VkxV91RtzHn65,New England,Patriots,NE,29,108,2,21,35,,287,2,1,93.393,287,395,0,0,1,0,1,5,51,23,8,13,0.615,0,0,0.0,1574,https://www.pro-football-reference.com/boxscores/201412140nwe.htm
+2014,2014-12-14,9JtBk8kFeaGEs,Washington,Football Team,WAS,27,144,0,22,34,,275,1,0,99.51,228,372,7,47,4,1,1,10,135,21,4,14,0.286,0,1,0.0,1951,https://www.pro-football-reference.com/boxscores/201412140nyg.htm
+2014,2014-12-14,n8CuHV9wbYCqF,New York,Giants,NYG,22,49,0,23,34,,250,3,0,118.505,238,287,1,12,1,1,1,9,60,17,4,13,0.308,1,2,0.5,1649,https://www.pro-football-reference.com/boxscores/201412140nyg.htm
+2014,2014-12-14,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,23,151,1,13,28,,154,1,1,60.714,136,287,3,18,4,2,3,4,29,15,5,12,0.417,0,0,0.0,1357,https://www.pro-football-reference.com/boxscores/201412140car.htm
+2014,2014-12-14,jJBGuksuDJF5L,Carolina,Panthers,CAR,32,123,0,25,40,,277,1,0,91.354,269,392,3,8,4,1,1,4,25,28,5,13,0.385,0,0,0.0,2243,https://www.pro-football-reference.com/boxscores/201412140car.htm
+2014,2014-12-14,LZoDld8s63xUs,Las Vegas,Raiders,LV,17,78,0,27,56,,222,1,0,64.732,202,280,4,20,1,1,1,10,75,17,5,18,0.278,0,1,0.0,1800,https://www.pro-football-reference.com/boxscores/201412140kan.htm
+2014,2014-12-14,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,27,93,1,18,31,,297,2,0,111.895,295,388,1,2,1,1,1,11,84,16,3,13,0.231,0,0,0.0,1800,https://www.pro-football-reference.com/boxscores/201412140kan.htm
+2014,2014-12-14,6DclFuycdPaOB,Denver,Broncos,DEN,38,111,0,14,22,,233,1,0,114.394,226,337,1,7,1,0,0,7,71,18,3,12,0.25,0,0,0.0,1964,https://www.pro-football-reference.com/boxscores/201412140sdg.htm
+2014,2014-12-14,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,20,56,0,24,41,,232,1,2,62.246,232,288,0,0,0,0,2,8,65,20,6,13,0.462,0,0,0.0,1636,https://www.pro-football-reference.com/boxscores/201412140sdg.htm
+2014,2014-12-14,mexvMWO2v1hWn,New York,Jets,NYJ,29,114,1,16,28,,179,1,0,88.244,163,277,3,16,0,0,0,7,46,17,2,13,0.154,1,1,1.0,1803,https://www.pro-football-reference.com/boxscores/201412140oti.htm
+2014,2014-12-14,ltMyRE3yvVUaw,Tennessee,Titans,TEN,28,89,0,16,35,,260,0,0,71.131,253,342,1,7,2,1,1,9,76,17,6,16,0.375,0,1,0.0,1797,https://www.pro-football-reference.com/boxscores/201412140oti.htm
+2014,2014-12-14,AzOs5UWsXusSW,Minnesota,Vikings,MIN,21,76,1,31,41,,315,1,2,84.909,284,360,4,31,1,0,2,3,25,21,4,11,0.364,1,2,0.5,2083,https://www.pro-football-reference.com/boxscores/201412140det.htm
+2014,2014-12-14,FCuH1wdksA2DQ,Detroit,Lions,DET,22,80,0,17,28,,153,1,0,87.351,153,233,0,0,0,0,0,5,35,11,2,11,0.182,0,0,0.0,1517,https://www.pro-football-reference.com/boxscores/201412140det.htm
+2014,2014-12-14,IwSI92ZDKoazn,San Francisco,49ers,SF,32,140,1,11,19,,141,0,0,81.25,105,245,6,36,0,0,0,8,78,14,6,15,0.4,2,4,0.5,1862,https://www.pro-football-reference.com/boxscores/201412140sea.htm
+2014,2014-12-14,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,32,152,1,12,24,,168,1,1,69.444,138,290,5,30,0,0,1,7,50,18,8,14,0.571,0,0,0.0,1738,https://www.pro-football-reference.com/boxscores/201412140sea.htm
+2014,2014-12-14,KdjU81i7YSFE7,Dallas,Cowboys,DAL,42,115,2,22,31,,265,3,0,129.099,249,364,3,16,1,1,1,11,79,26,5,13,0.385,0,0,0.0,2515,https://www.pro-football-reference.com/boxscores/201412140phi.htm
+2014,2014-12-14,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,21,75,3,17,28,,252,0,2,60.417,219,294,4,33,2,1,3,8,95,19,5,11,0.455,0,0,0.0,1085,https://www.pro-football-reference.com/boxscores/201412140phi.htm
+2014,2014-12-15,CI5mhfNa0Zqd2,New Orleans,Saints,NO,26,83,1,29,36,,375,3,0,137.847,360,443,2,15,2,1,1,3,25,25,4,11,0.364,0,0,0.0,2011,https://www.pro-football-reference.com/boxscores/201412150chi.htm
+2014,2014-12-15,1vVmWGzUZ1rea,Chicago,Bears,CHI,20,125,0,17,31,,194,2,3,55.78,153,278,7,41,1,0,3,9,74,16,2,12,0.167,0,2,0.0,1589,https://www.pro-football-reference.com/boxscores/201412150chi.htm
+2014,2014-12-18,ltMyRE3yvVUaw,Tennessee,Titans,TEN,28,95,0,24,35,,287,1,0,102.917,262,357,4,25,0,0,0,7,47,19,7,15,0.467,0,1,0.0,2092,https://www.pro-football-reference.com/boxscores/201412180jax.htm
+2014,2014-12-18,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,25,177,2,14,27,,124,1,0,76.775,111,288,4,13,1,0,0,3,25,17,5,13,0.385,0,0,0.0,1508,https://www.pro-football-reference.com/boxscores/201412180jax.htm
+2014,2014-12-20,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,31,134,1,37,50,,374,2,1,99.917,361,495,3,13,1,1,2,13,102,30,9,16,0.562,0,0,0.0,1924,https://www.pro-football-reference.com/boxscores/201412200was.htm
+2014,2014-12-20,9JtBk8kFeaGEs,Washington,Football Team,WAS,29,100,3,16,23,,220,0,1,81.793,205,305,2,15,2,1,2,3,15,21,2,9,0.222,0,0,0.0,1676,https://www.pro-football-reference.com/boxscores/201412200was.htm
+2014,2014-12-20,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,24,98,0,33,54,,356,4,3,82.022,348,446,2,8,1,0,3,8,38,28,8,16,0.5,3,3,1.0,2059,https://www.pro-football-reference.com/boxscores/201412200sfo.htm
+2014,2014-12-20,IwSI92ZDKoazn,San Francisco,49ers,SF,40,355,3,15,24,,114,1,0,87.847,92,447,2,22,3,3,3,9,92,21,5,11,0.455,0,1,0.0,1835,https://www.pro-football-reference.com/boxscores/201412200sfo.htm
+2014,2014-12-21,zyhFXj1nywrm1,Baltimore,Ravens,BAL,16,33,0,21,50,,195,2,3,41.667,178,211,2,17,1,0,3,7,56,15,4,15,0.267,0,2,0.0,1502,https://www.pro-football-reference.com/boxscores/201412210htx.htm
+2014,2014-12-21,UI0Ax4HUEXFh6,Houston,Texans,HOU,38,123,0,21,43,,190,1,1,59.254,190,313,0,0,1,0,1,7,69,18,7,21,0.333,0,0,0.0,2098,https://www.pro-football-reference.com/boxscores/201412210htx.htm
+2014,2014-12-21,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,14,39,0,32,46,,317,0,0,88.768,288,327,6,29,1,1,1,4,39,22,6,14,0.429,1,2,0.5,1867,https://www.pro-football-reference.com/boxscores/201412210pit.htm
+2014,2014-12-21,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,26,68,1,18,25,,220,1,0,112.083,214,282,1,6,0,0,0,4,40,19,5,10,0.5,0,0,0.0,1733,https://www.pro-football-reference.com/boxscores/201412210pit.htm
+2014,2014-12-21,VkxV91RtzHn65,New England,Patriots,NE,24,85,1,23,35,,182,1,1,76.131,146,231,4,36,0,0,1,5,38,19,6,13,0.462,0,0,0.0,1659,https://www.pro-football-reference.com/boxscores/201412210nyj.htm
+2014,2014-12-21,mexvMWO2v1hWn,New York,Jets,NYJ,32,116,0,17,27,,210,1,1,83.873,191,307,2,19,0,0,1,2,14,16,5,13,0.385,0,0,0.0,1941,https://www.pro-football-reference.com/boxscores/201412210nyj.htm
+2014,2014-12-21,mLspw4gJNTQGN,Atlanta,Falcons,ATL,22,81,1,30,40,,322,1,0,106.458,322,403,0,0,1,0,0,6,64,18,7,15,0.467,0,0,0.0,1929,https://www.pro-football-reference.com/boxscores/201412210nor.htm
+2014,2014-12-21,CI5mhfNa0Zqd2,New Orleans,Saints,NO,18,57,1,30,47,,313,1,2,72.385,271,328,5,42,3,2,4,3,25,22,7,14,0.5,1,2,0.5,1671,https://www.pro-football-reference.com/boxscores/201412210nor.htm
+2014,2014-12-21,FCuH1wdksA2DQ,Detroit,Lions,DET,26,138,2,22,39,,243,0,2,53.686,229,367,4,14,2,1,3,7,60,22,5,13,0.385,2,2,1.0,1916,https://www.pro-football-reference.com/boxscores/201412210chi.htm
+2014,2014-12-21,1vVmWGzUZ1rea,Chicago,Bears,CHI,22,64,0,23,39,,181,2,1,76.976,170,234,2,11,0,0,1,5,86,17,5,15,0.333,1,3,0.333,1684,https://www.pro-football-reference.com/boxscores/201412210chi.htm
+2014,2014-12-21,D5QY6bOxfn8ZL,Green Bay,Packers,GB,31,121,1,31,40,,318,1,0,108.125,310,431,1,8,2,1,1,5,40,23,6,13,0.462,0,1,0.0,2318,https://www.pro-football-reference.com/boxscores/201412210tam.htm
+2014,2014-12-21,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,14,16,0,12,26,,147,0,1,48.077,93,109,7,54,1,0,1,3,30,6,4,14,0.286,1,1,1.0,1282,https://www.pro-football-reference.com/boxscores/201412210tam.htm
+2014,2014-12-21,AzOs5UWsXusSW,Minnesota,Vikings,MIN,28,119,2,19,26,,259,2,1,114.103,238,357,4,21,0,0,1,8,74,20,7,12,0.583,0,0,0.0,1614,https://www.pro-football-reference.com/boxscores/201412210mia.htm
+2014,2014-12-21,mfbu6O5aMHbJg,Miami,Dolphins,MIA,29,110,1,35,47,,396,4,1,118.75,383,493,1,13,2,1,2,7,54,36,9,13,0.692,0,0,0.0,1986,https://www.pro-football-reference.com/boxscores/201412210mia.htm
+2014,2014-12-21,IR4gIYmh269EI,Cleveland,Browns,CLE,22,84,0,10,21,,166,1,1,70.734,144,228,3,22,0,0,1,6,49,8,3,12,0.25,0,0,0.0,1317,https://www.pro-football-reference.com/boxscores/201412210car.htm
+2014,2014-12-21,jJBGuksuDJF5L,Carolina,Panthers,CAR,45,209,1,18,31,,201,1,1,74.798,195,404,1,6,2,1,2,5,49,27,9,16,0.562,0,0,0.0,2283,https://www.pro-football-reference.com/boxscores/201412210car.htm
+2014,2014-12-21,n8CuHV9wbYCqF,New York,Giants,NYG,34,128,1,25,32,,391,3,0,148.828,386,514,1,5,0,0,0,12,149,19,8,17,0.471,0,0,0.0,2087,https://www.pro-football-reference.com/boxscores/201412210ram.htm
+2014,2014-12-21,u98I1lDKQBwZ0,Los Angeles,Rams,LA,20,106,1,24,32,,290,2,1,110.156,281,387,2,9,2,2,3,9,76,23,1,6,0.167,0,0,0.0,1513,https://www.pro-football-reference.com/boxscores/201412210ram.htm
+2014,2014-12-21,3VqeLK0LS9rpw,Buffalo,Bills,BUF,13,13,0,32,49,,329,3,2,87.883,308,321,2,21,1,0,2,7,55,15,4,15,0.267,0,0,0.0,1573,https://www.pro-football-reference.com/boxscores/201412210rai.htm
+2014,2014-12-21,LZoDld8s63xUs,Las Vegas,Raiders,LV,36,140,0,17,34,,214,2,0,89.583,207,347,1,7,1,0,0,4,35,18,5,16,0.312,0,0,0.0,2027,https://www.pro-football-reference.com/boxscores/201412210rai.htm
+2014,2014-12-21,LJmHetie5VbbO,Indianapolis,Colts,IND,10,1,0,30,44,,235,1,2,69.792,228,229,2,7,1,1,3,8,55,17,5,13,0.385,0,1,0.0,1471,https://www.pro-football-reference.com/boxscores/201412210dal.htm
+2014,2014-12-21,KdjU81i7YSFE7,Dallas,Cowboys,DAL,40,127,1,19,21,,261,5,0,158.036,250,377,1,11,1,1,1,7,67,25,5,10,0.5,0,0,0.0,2129,https://www.pro-football-reference.com/boxscores/201412210dal.htm
+2014,2014-12-21,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,34,267,3,21,32,,339,2,0,121.745,329,596,1,10,1,0,0,11,97,23,5,12,0.417,0,0,0.0,1983,https://www.pro-football-reference.com/boxscores/201412210crd.htm
+2014,2014-12-21,GJizlkzQFaqGA,Arizona,Cardinals,ARI,15,29,0,18,45,,216,0,1,46.157,187,216,4,29,1,0,1,1,5,17,3,15,0.2,1,1,1.0,1617,https://www.pro-football-reference.com/boxscores/201412210crd.htm
+2014,2014-12-22,6DclFuycdPaOB,Denver,Broncos,DEN,19,85,1,28,44,,311,2,4,61.837,300,385,2,11,0,0,4,6,72,22,5,12,0.417,0,0,0.0,1702,https://www.pro-football-reference.com/boxscores/201412220cin.htm
+2014,2014-12-22,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,37,207,1,17,25,,146,2,1,93.083,146,353,0,0,2,1,2,7,45,20,2,11,0.182,1,1,1.0,1898,https://www.pro-football-reference.com/boxscores/201412220cin.htm
+2014,2014-12-28,3VqeLK0LS9rpw,Buffalo,Bills,BUF,33,104,1,16,23,,176,1,0,106.431,164,268,2,12,1,1,1,5,44,16,5,11,0.455,0,0,0.0,1743,https://www.pro-football-reference.com/boxscores/201412280nwe.htm
+2014,2014-12-28,VkxV91RtzHn65,New England,Patriots,NE,25,116,0,18,33,,170,0,0,69.003,144,260,4,26,0,0,0,5,55,14,5,15,0.333,1,3,0.333,1857,https://www.pro-football-reference.com/boxscores/201412280nwe.htm
+2014,2014-12-28,1vVmWGzUZ1rea,Chicago,Bears,CHI,21,99,0,23,36,,172,0,0,75.231,165,264,2,7,0,0,0,8,50,12,4,15,0.267,2,3,0.667,1893,https://www.pro-football-reference.com/boxscores/201412280min.htm
+2014,2014-12-28,AzOs5UWsXusSW,Minnesota,Vikings,MIN,33,121,0,17,25,,209,1,1,90.25,190,311,3,19,0,0,1,4,25,15,8,15,0.533,0,1,0.0,1707,https://www.pro-football-reference.com/boxscores/201412280min.htm
+2014,2014-12-28,IR4gIYmh269EI,Cleveland,Browns,CLE,29,109,1,14,28,,177,0,1,55.208,150,259,4,27,1,1,2,7,58,16,3,13,0.231,1,1,1.0,1843,https://www.pro-football-reference.com/boxscores/201412280rav.htm
+2014,2014-12-28,zyhFXj1nywrm1,Baltimore,Ravens,BAL,28,129,0,22,36,,312,2,0,107.639,290,419,1,22,2,0,0,8,55,22,4,13,0.308,0,1,0.0,1757,https://www.pro-football-reference.com/boxscores/201412280rav.htm
+2014,2014-12-28,LJmHetie5VbbO,Indianapolis,Colts,IND,30,64,0,23,35,,315,3,0,122.917,314,378,1,1,1,0,0,4,20,16,5,16,0.312,1,3,0.333,2006,https://www.pro-football-reference.com/boxscores/201412280oti.htm
+2014,2014-12-28,ltMyRE3yvVUaw,Tennessee,Titans,TEN,24,142,0,13,31,,79,1,0,60.282,50,192,4,29,4,1,1,4,20,9,4,16,0.25,1,3,0.333,1594,https://www.pro-football-reference.com/boxscores/201412280oti.htm
+2014,2014-12-28,mexvMWO2v1hWn,New York,Jets,NYJ,34,104,1,21,27,,396,3,0,155.787,390,494,1,6,1,1,1,5,40,18,6,14,0.429,1,2,0.5,1876,https://www.pro-football-reference.com/boxscores/201412280mia.htm
+2014,2014-12-28,mfbu6O5aMHbJg,Miami,Dolphins,MIA,20,179,2,23,39,,259,1,0,87.447,208,387,7,51,1,1,1,5,40,23,4,13,0.308,0,1,0.0,1724,https://www.pro-football-reference.com/boxscores/201412280mia.htm
+2014,2014-12-28,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,32,164,1,23,36,,292,2,1,96.065,262,426,4,30,0,0,1,5,35,23,7,16,0.438,0,0,0.0,1523,https://www.pro-football-reference.com/boxscores/201412280nyg.htm
+2014,2014-12-28,n8CuHV9wbYCqF,New York,Giants,NYG,25,76,1,28,53,,429,1,1,78.263,429,505,0,0,1,0,1,8,106,22,7,18,0.389,0,0,0.0,2077,https://www.pro-football-reference.com/boxscores/201412280nyg.htm
+2014,2014-12-28,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,14,121,0,15,34,,140,1,0,65.809,112,233,5,28,1,0,0,4,25,13,0,11,0.0,1,2,0.5,1212,https://www.pro-football-reference.com/boxscores/201412280htx.htm
+2014,2014-12-28,UI0Ax4HUEXFh6,Houston,Texans,HOU,39,123,1,25,35,,250,2,1,98.512,235,358,3,15,1,1,2,6,55,24,10,18,0.556,0,0,0.0,2388,https://www.pro-football-reference.com/boxscores/201412280htx.htm
+2014,2014-12-28,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,25,112,1,20,34,,291,0,2,62.255,249,361,7,42,1,1,3,10,67,21,2,11,0.182,1,3,0.333,1881,https://www.pro-football-reference.com/boxscores/201412280kan.htm
+2014,2014-12-28,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,26,111,0,16,27,,157,0,0,75.694,140,251,4,17,1,0,0,7,46,15,2,12,0.167,0,0,0.0,1719,https://www.pro-football-reference.com/boxscores/201412280kan.htm
+2014,2014-12-28,CI5mhfNa0Zqd2,New Orleans,Saints,NO,23,70,2,24,38,,281,1,3,61.404,268,338,2,13,1,0,3,2,15,20,7,14,0.5,1,1,1.0,1633,https://www.pro-football-reference.com/boxscores/201412280tam.htm
+2014,2014-12-28,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,39,183,1,14,23,,115,1,1,70.018,97,280,3,18,0,0,1,4,23,18,9,17,0.529,0,0,0.0,1967,https://www.pro-football-reference.com/boxscores/201412280tam.htm
+2014,2014-12-28,KdjU81i7YSFE7,Dallas,Cowboys,DAL,27,174,2,22,34,,299,2,1,100.0,299,473,0,0,1,0,1,7,48,20,4,12,0.333,0,0,0.0,1824,https://www.pro-football-reference.com/boxscores/201412280was.htm
+2014,2014-12-28,9JtBk8kFeaGEs,Washington,Football Team,WAS,24,104,1,27,41,,336,1,2,78.913,309,413,3,27,2,2,4,9,101,20,4,12,0.333,0,2,0.0,1776,https://www.pro-football-reference.com/boxscores/201412280was.htm
+2014,2014-12-28,jJBGuksuDJF5L,Carolina,Panthers,CAR,35,194,1,10,16,,114,1,0,104.688,112,306,1,2,0,0,0,5,36,17,4,10,0.4,0,1,0.0,1873,https://www.pro-football-reference.com/boxscores/201412280atl.htm
+2014,2014-12-28,mLspw4gJNTQGN,Atlanta,Falcons,ATL,16,63,0,29,47,,260,0,2,58.821,225,288,6,35,1,1,3,6,36,16,7,16,0.438,1,3,0.333,1727,https://www.pro-football-reference.com/boxscores/201412280atl.htm
+2014,2014-12-28,GJizlkzQFaqGA,Arizona,Cardinals,ARI,25,98,0,23,40,,316,2,3,68.333,299,397,2,17,0,0,3,3,21,26,4,10,0.4,0,0,0.0,1836,https://www.pro-football-reference.com/boxscores/201412280sfo.htm
+2014,2014-12-28,IwSI92ZDKoazn,San Francisco,49ers,SF,33,206,0,15,26,,204,2,0,108.494,189,395,1,15,0,0,0,10,78,18,5,12,0.417,0,0,0.0,1764,https://www.pro-football-reference.com/boxscores/201412280sfo.htm
+2014,2014-12-28,LZoDld8s63xUs,Las Vegas,Raiders,LV,18,67,0,18,36,,158,1,1,59.722,132,199,3,26,2,1,2,9,86,10,5,15,0.333,0,1,0.0,1619,https://www.pro-football-reference.com/boxscores/201412280den.htm
+2014,2014-12-28,6DclFuycdPaOB,Denver,Broncos,DEN,34,142,3,23,39,,312,1,0,93.109,309,451,1,3,2,1,1,1,16,25,7,15,0.467,1,1,1.0,1981,https://www.pro-football-reference.com/boxscores/201412280den.htm
+2014,2014-12-28,FCuH1wdksA2DQ,Detroit,Lions,DET,23,111,0,20,41,,217,3,0,89.177,202,313,2,15,2,1,1,10,53,23,4,11,0.364,1,3,0.333,1542,https://www.pro-football-reference.com/boxscores/201412280gnb.htm
+2014,2014-12-28,D5QY6bOxfn8ZL,Green Bay,Packers,GB,38,152,1,18,23,,232,2,0,137.681,225,377,1,7,2,2,2,5,40,24,8,13,0.615,0,1,0.0,2058,https://www.pro-football-reference.com/boxscores/201412280gnb.htm
+2014,2014-12-28,u98I1lDKQBwZ0,Los Angeles,Rams,LA,19,42,0,26,37,,243,0,2,65.484,203,245,4,40,2,1,3,6,45,15,3,12,0.25,0,1,0.0,1729,https://www.pro-football-reference.com/boxscores/201412280sea.htm
+2014,2014-12-28,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,34,132,1,17,25,,239,0,1,81.917,222,354,3,17,3,1,2,2,20,17,7,15,0.467,0,1,0.0,1871,https://www.pro-football-reference.com/boxscores/201412280sea.htm
+2014,2014-12-28,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,29,116,0,27,38,,244,2,2,83.662,221,337,3,23,1,1,3,5,45,19,6,14,0.429,2,3,0.667,2098,https://www.pro-football-reference.com/boxscores/201412280pit.htm
+2014,2014-12-28,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,18,29,0,24,39,,317,2,2,82.959,317,346,0,0,2,1,3,1,10,18,3,11,0.273,0,1,0.0,1502,https://www.pro-football-reference.com/boxscores/201412280pit.htm
+2014,2015-01-03,GJizlkzQFaqGA,Arizona,Cardinals,ARI,15,27,1,16,28,,82,1,2,44.345,51,78,4,31,3,1,3,7,38,8,3,12,0.25,0,0,0.0,1374,https://www.pro-football-reference.com/boxscores/201501030car.htm
+2014,2015-01-03,jJBGuksuDJF5L,Carolina,Panthers,CAR,41,188,1,18,32,,198,2,1,82.552,198,386,1,0,3,2,3,8,80,25,5,15,0.333,0,2,0.0,2226,https://www.pro-football-reference.com/boxscores/201501030car.htm
+2014,2015-01-03,zyhFXj1nywrm1,Baltimore,Ravens,BAL,25,53,1,18,29,,259,2,0,114.009,246,299,1,13,2,1,1,2,14,19,4,11,0.364,1,1,1.0,1483,https://www.pro-football-reference.com/boxscores/201501030pit.htm
+2014,2015-01-03,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,19,68,0,33,48,,356,1,2,79.861,319,387,5,37,2,1,3,8,114,22,5,16,0.312,2,3,0.667,2117,https://www.pro-football-reference.com/boxscores/201501030pit.htm
+2014,2015-01-04,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,21,110,1,18,35,,155,0,0,63.393,144,254,3,11,1,1,1,6,45,14,6,15,0.4,0,0,0.0,1550,https://www.pro-football-reference.com/boxscores/201501040clt.htm
+2014,2015-01-04,LJmHetie5VbbO,Indianapolis,Colts,IND,25,114,1,31,44,,376,1,0,103.977,368,482,1,8,2,1,1,9,66,22,6,14,0.429,0,0,0.0,2050,https://www.pro-football-reference.com/boxscores/201501040clt.htm
+2014,2015-01-04,FCuH1wdksA2DQ,Detroit,Lions,DET,22,90,1,28,42,,323,1,1,87.698,307,397,3,16,4,2,3,8,44,19,4,11,0.364,0,1,0.0,1773,https://www.pro-football-reference.com/boxscores/201501040dal.htm
+2014,2015-01-04,KdjU81i7YSFE7,Dallas,Cowboys,DAL,21,73,1,19,31,,293,2,0,114.046,242,315,6,51,3,1,1,6,46,18,6,14,0.429,2,2,1.0,1827,https://www.pro-football-reference.com/boxscores/201501040dal.htm
+2014,2015-01-10,zyhFXj1nywrm1,Baltimore,Ravens,BAL,28,136,0,28,45,,292,4,2,92.083,292,428,0,0,1,0,2,7,65,28,1,9,0.111,3,3,1.0,1959,https://www.pro-football-reference.com/boxscores/201501100nwe.htm
+2014,2015-01-10,VkxV91RtzHn65,New England,Patriots,NE,13,14,1,34,51,,418,4,1,109.763,408,422,2,10,2,0,1,7,60,29,6,11,0.545,0,0,0.0,1641,https://www.pro-football-reference.com/boxscores/201501100nwe.htm
+2014,2015-01-10,jJBGuksuDJF5L,Carolina,Panthers,CAR,30,132,0,23,36,,246,2,2,79.167,230,362,2,16,3,1,3,5,35,21,9,16,0.562,1,1,1.0,2043,https://www.pro-football-reference.com/boxscores/201501100sea.htm
+2014,2015-01-10,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,28,100,0,15,22,,268,3,0,149.242,248,348,2,20,2,0,0,6,60,16,7,13,0.538,0,0,0.0,1557,https://www.pro-football-reference.com/boxscores/201501100sea.htm
+2014,2015-01-11,KdjU81i7YSFE7,Dallas,Cowboys,DAL,28,145,1,15,19,,191,2,0,143.64,170,315,4,21,3,1,1,5,35,21,4,8,0.5,0,1,0.0,1839,https://www.pro-football-reference.com/boxscores/201501110gnb.htm
+2014,2015-01-11,D5QY6bOxfn8ZL,Green Bay,Packers,GB,29,119,0,24,35,,316,3,0,125.417,297,416,2,19,3,1,1,10,87,23,9,14,0.643,0,0,0.0,1761,https://www.pro-football-reference.com/boxscores/201501110gnb.htm
+2014,2015-01-11,LJmHetie5VbbO,Indianapolis,Colts,IND,28,99,1,27,43,,265,2,2,76.211,265,364,0,0,0,0,2,10,67,23,5,13,0.385,0,0,0.0,2041,https://www.pro-football-reference.com/boxscores/201501110den.htm
+2014,2015-01-11,6DclFuycdPaOB,Denver,Broncos,DEN,20,88,0,26,46,,211,1,0,75.543,200,288,2,11,1,1,1,2,8,19,4,16,0.25,1,2,0.5,1559,https://www.pro-football-reference.com/boxscores/201501110den.htm
+2014,2015-01-18,D5QY6bOxfn8ZL,Green Bay,Packers,GB,30,135,0,19,34,,178,1,2,55.76,171,306,1,7,1,0,2,5,45,19,3,14,0.214,0,0,0.0,1935,https://www.pro-football-reference.com/boxscores/201501180sea.htm
+2014,2015-01-18,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,35,194,2,15,30,,228,2,4,58.056,203,397,5,25,2,1,5,8,40,20,8,16,0.5,1,1,1.0,1864,https://www.pro-football-reference.com/boxscores/201501180sea.htm
+2014,2015-01-18,LJmHetie5VbbO,Indianapolis,Colts,IND,19,83,1,12,33,,126,0,2,23.043,126,209,0,0,1,1,3,3,23,17,3,11,0.273,0,0,0.0,1331,https://www.pro-football-reference.com/boxscores/201501180nwe.htm
+2014,2015-01-18,VkxV91RtzHn65,New England,Patriots,NE,40,177,3,23,35,,226,3,1,100.417,220,397,1,6,1,0,1,6,45,28,12,18,0.667,2,2,1.0,2269,https://www.pro-football-reference.com/boxscores/201501180nwe.htm
+2014,2015-02-01,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,29,162,1,12,21,,247,2,1,110.615,234,396,3,13,0,0,1,7,70,20,3,10,0.3,0,0,0.0,1574,https://www.pro-football-reference.com/boxscores/201502010sea.htm
+2014,2015-02-01,VkxV91RtzHn65,New England,Patriots,NE,21,57,0,37,50,,328,4,2,101.083,320,377,1,8,0,0,2,5,36,25,8,14,0.571,0,0,0.0,2026,https://www.pro-football-reference.com/boxscores/201502010sea.htm

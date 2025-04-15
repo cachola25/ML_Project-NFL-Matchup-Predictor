@@ -1,0 +1,535 @@
+season,event_date,nano,market,name,alias,rush_att,rush_yds,rush_tds,pass_cmp,pass_att,pass_cmp_pct,pass_yds,pass_tds,pass_int,passer_rating,net_pass_yds,total_yds,times_sacked,yds_sacked_for,fumbles,fumbles_lost,turnovers,penalties,penalty_yds,first_downs,third_down_conv,third_down_att,third_down_conv_pct,fourth_down_conv,fourth_down_att,fourth_down_conv_pct,time_of_possession,boxscore_stats_link
+2016,2016-09-08,jJBGuksuDJF5L,Carolina,Panthers,CAR,32,157,1,18,33,,194,1,1,69.508,176,333,3,18,0,0,1,8,85,21,9,15,0.6,0,0,0.0,1939,https://www.pro-football-reference.com/boxscores/201609080den.htm
+2016,2016-09-08,6DclFuycdPaOB,Denver,Broncos,DEN,29,148,2,18,26,,178,1,2,69.071,159,307,2,19,1,1,3,4,22,21,5,10,0.5,1,1,1.0,1661,https://www.pro-football-reference.com/boxscores/201609080den.htm
+2016,2016-09-11,3VqeLK0LS9rpw,Buffalo,Bills,BUF,24,65,1,15,22,,111,0,0,79.924,95,160,2,16,0,0,0,8,89,11,3,13,0.231,2,2,1.0,1627,https://www.pro-football-reference.com/boxscores/201609110rav.htm
+2016,2016-09-11,zyhFXj1nywrm1,Baltimore,Ravens,BAL,28,83,0,22,33,,258,1,0,100.316,225,308,4,33,1,1,1,6,35,18,6,15,0.4,0,1,0.0,1973,https://www.pro-football-reference.com/boxscores/201609110rav.htm
+2016,2016-09-11,D5QY6bOxfn8ZL,Green Bay,Packers,GB,25,95,1,20,34,,199,2,0,95.098,199,294,1,0,1,0,0,5,24,18,7,14,0.5,1,1,1.0,1717,https://www.pro-football-reference.com/boxscores/201609110jax.htm
+2016,2016-09-11,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,26,48,1,24,39,,320,1,1,85.417,300,348,3,20,1,0,1,9,79,20,4,15,0.267,3,4,0.75,1883,https://www.pro-football-reference.com/boxscores/201609110jax.htm
+2016,2016-09-11,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,28,90,0,23,32,,281,4,1,125.13,281,371,0,0,0,0,1,6,48,20,3,10,0.3,0,0,0.0,1657,https://www.pro-football-reference.com/boxscores/201609110atl.htm
+2016,2016-09-11,mLspw4gJNTQGN,Atlanta,Falcons,ATL,22,52,0,27,39,,334,2,0,112.553,322,374,3,12,0,0,0,7,74,19,3,13,0.231,1,2,0.5,1943,https://www.pro-football-reference.com/boxscores/201609110atl.htm
+2016,2016-09-11,1vVmWGzUZ1rea,Chicago,Bears,CHI,20,73,1,16,29,,216,1,1,76.221,185,258,5,31,2,0,1,4,30,14,4,13,0.308,0,2,0.0,1421,https://www.pro-football-reference.com/boxscores/201609110htx.htm
+2016,2016-09-11,UI0Ax4HUEXFh6,Houston,Texans,HOU,35,129,0,22,35,,231,2,1,89.107,215,344,2,16,1,0,1,6,69,17,12,20,0.6,0,0,0.0,2179,https://www.pro-football-reference.com/boxscores/201609110htx.htm
+2016,2016-09-11,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,19,57,1,23,30,,366,1,1,114.028,324,381,7,42,0,0,1,5,44,18,3,11,0.273,0,0,0.0,1507,https://www.pro-football-reference.com/boxscores/201609110nyj.htm
+2016,2016-09-11,mexvMWO2v1hWn,New York,Jets,NYJ,30,152,0,19,35,,189,2,1,76.964,188,340,1,1,1,0,1,7,95,22,4,12,0.333,0,0,0.0,2093,https://www.pro-football-reference.com/boxscores/201609110nyj.htm
+2016,2016-09-11,IR4gIYmh269EI,Cleveland,Browns,CLE,21,120,1,12,26,,190,0,1,54.968,168,288,3,22,2,0,1,4,15,14,2,10,0.2,0,2,0.0,1240,https://www.pro-football-reference.com/boxscores/201609110phi.htm
+2016,2016-09-11,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,34,133,1,22,37,,278,2,0,100.957,270,403,2,8,2,0,0,7,46,23,5,15,0.333,1,1,1.0,2360,https://www.pro-football-reference.com/boxscores/201609110phi.htm
+2016,2016-09-11,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,32,155,2,25,36,,243,1,0,97.338,233,388,1,10,0,0,0,5,30,25,7,15,0.467,0,0,0.0,2041,https://www.pro-football-reference.com/boxscores/201609110kan.htm
+2016,2016-09-11,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,19,83,2,34,48,,363,2,1,97.83,330,413,3,33,0,0,1,6,46,26,5,14,0.357,2,2,1.0,1866,https://www.pro-football-reference.com/boxscores/201609110kan.htm
+2016,2016-09-11,AzOs5UWsXusSW,Minnesota,Vikings,MIN,28,65,0,18,33,,236,0,0,77.336,236,301,0,0,0,0,0,3,39,15,6,14,0.429,0,0,0.0,1775,https://www.pro-football-reference.com/boxscores/201609110oti.htm
+2016,2016-09-11,ltMyRE3yvVUaw,Tennessee,Titans,TEN,22,64,0,25,41,,271,2,1,86.535,252,316,2,19,2,2,3,2,10,19,8,14,0.571,0,0,0.0,1825,https://www.pro-football-reference.com/boxscores/201609110oti.htm
+2016,2016-09-11,LZoDld8s63xUs,Las Vegas,Raiders,LV,26,167,3,24,38,,319,1,0,98.465,319,486,0,0,1,0,0,14,141,25,4,11,0.364,0,0,0.0,1825,https://www.pro-football-reference.com/boxscores/201609110nor.htm
+2016,2016-09-11,CI5mhfNa0Zqd2,New Orleans,Saints,NO,22,88,0,28,42,,423,4,0,131.349,419,507,1,4,2,1,1,7,53,27,4,11,0.364,1,1,1.0,1775,https://www.pro-football-reference.com/boxscores/201609110nor.htm
+2016,2016-09-11,mfbu6O5aMHbJg,Miami,Dolphins,MIA,20,64,1,16,29,,186,0,0,74.784,150,214,5,36,2,0,0,4,40,11,3,13,0.231,0,1,0.0,1528,https://www.pro-football-reference.com/boxscores/201609110sea.htm
+2016,2016-09-11,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,32,112,0,27,43,,258,1,1,77.471,240,352,3,18,1,1,2,8,69,21,5,16,0.312,2,3,0.667,2072,https://www.pro-football-reference.com/boxscores/201609110sea.htm
+2016,2016-09-11,FCuH1wdksA2DQ,Detroit,Lions,DET,24,116,2,31,39,,340,3,0,128.632,332,448,1,8,0,0,0,8,70,28,5,9,0.556,0,0,0.0,1836,https://www.pro-football-reference.com/boxscores/201609110clt.htm
+2016,2016-09-11,LJmHetie5VbbO,Indianapolis,Colts,IND,19,82,0,31,47,,385,4,0,119.548,368,450,2,17,0,0,0,5,45,25,9,16,0.562,0,0,0.0,1764,https://www.pro-football-reference.com/boxscores/201609110clt.htm
+2016,2016-09-11,n8CuHV9wbYCqF,New York,Giants,NYG,24,113,0,19,28,,207,3,1,110.268,203,316,2,4,1,0,1,4,40,18,5,10,0.5,0,0,0.0,1397,https://www.pro-football-reference.com/boxscores/201609110dal.htm
+2016,2016-09-11,KdjU81i7YSFE7,Dallas,Cowboys,DAL,30,101,1,25,45,,227,0,0,69.398,227,328,0,0,0,0,0,6,50,24,10,17,0.588,0,0,0.0,2203,https://www.pro-football-reference.com/boxscores/201609110dal.htm
+2016,2016-09-11,VkxV91RtzHn65,New England,Patriots,NE,31,106,1,24,33,,264,1,0,106.124,257,363,2,7,3,2,2,8,69,19,10,16,0.625,0,0,0.0,2039,https://www.pro-football-reference.com/boxscores/201609110crd.htm
+2016,2016-09-11,GJizlkzQFaqGA,Arizona,Cardinals,ARI,19,92,1,24,37,,271,2,0,104.673,252,344,3,19,1,0,0,6,58,21,6,12,0.5,0,0,0.0,1561,https://www.pro-football-reference.com/boxscores/201609110crd.htm
+2016,2016-09-12,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,30,147,2,27,37,,300,3,1,112.444,290,437,1,10,2,0,1,4,81,23,9,14,0.643,2,2,1.0,1998,https://www.pro-football-reference.com/boxscores/201609120was.htm
+2016,2016-09-12,9JtBk8kFeaGEs,Washington,Football Team,WAS,12,55,1,30,43,,329,0,2,72.723,329,384,0,0,1,0,2,9,55,18,3,10,0.3,0,2,0.0,1602,https://www.pro-football-reference.com/boxscores/201609120was.htm
+2016,2016-09-12,u98I1lDKQBwZ0,Los Angeles,Rams,LA,23,65,0,17,35,,130,0,2,34.226,120,185,2,10,0,0,2,10,102,10,3,15,0.2,1,2,0.5,1670,https://www.pro-football-reference.com/boxscores/201609120sfo.htm
+2016,2016-09-12,IwSI92ZDKoazn,San Francisco,49ers,SF,42,150,3,22,35,,170,1,0,84.226,170,320,0,0,2,1,1,2,10,28,8,17,0.471,1,2,0.5,1930,https://www.pro-football-reference.com/boxscores/201609120sfo.htm
+2016,2016-09-15,mexvMWO2v1hWn,New York,Jets,NYJ,36,123,3,24,34,,374,1,0,116.544,370,493,1,4,2,1,1,7,50,28,8,13,0.615,0,0,0.0,2352,https://www.pro-football-reference.com/boxscores/201609150buf.htm
+2016,2016-09-15,3VqeLK0LS9rpw,Buffalo,Bills,BUF,19,86,0,19,31,,307,3,1,113.239,307,393,0,0,1,0,1,6,59,16,3,10,0.3,1,2,0.5,1248,https://www.pro-football-reference.com/boxscores/201609150buf.htm
+2016,2016-09-18,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,18,46,0,31,54,,366,1,0,84.336,366,412,1,0,2,2,2,5,31,21,4,16,0.25,1,1,1.0,1625,https://www.pro-football-reference.com/boxscores/201609180pit.htm
+2016,2016-09-18,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,36,124,0,19,37,,259,3,2,78.547,250,374,1,9,0,0,2,5,54,19,7,17,0.412,0,1,0.0,1975,https://www.pro-football-reference.com/boxscores/201609180pit.htm
+2016,2016-09-18,zyhFXj1nywrm1,Baltimore,Ravens,BAL,26,80,0,25,45,,302,2,2,72.639,302,382,0,0,0,0,2,4,29,22,10,16,0.625,0,1,0.0,1859,https://www.pro-football-reference.com/boxscores/201609180cle.htm
+2016,2016-09-18,IR4gIYmh269EI,Cleveland,Browns,CLE,23,145,1,20,33,,260,2,2,80.366,242,387,3,18,3,0,2,8,59,17,8,15,0.533,1,1,1.0,1741,https://www.pro-football-reference.com/boxscores/201609180cle.htm
+2016,2016-09-18,ltMyRE3yvVUaw,Tennessee,Titans,TEN,24,139,0,25,33,,238,2,1,102.841,224,363,3,14,1,0,1,12,83,22,5,12,0.417,1,1,1.0,1851,https://www.pro-football-reference.com/boxscores/201609180det.htm
+2016,2016-09-18,FCuH1wdksA2DQ,Detroit,Lions,DET,23,137,0,22,40,,260,1,1,72.917,238,375,4,22,0,0,1,17,138,22,7,16,0.438,0,0,0.0,1749,https://www.pro-football-reference.com/boxscores/201609180det.htm
+2016,2016-09-18,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,19,119,0,20,37,,186,0,0,68.074,172,291,4,14,3,3,3,9,77,14,3,14,0.214,0,0,0.0,1561,https://www.pro-football-reference.com/boxscores/201609180htx.htm
+2016,2016-09-18,UI0Ax4HUEXFh6,Houston,Texans,HOU,34,97,0,19,33,,268,1,2,68.75,254,351,2,14,0,0,2,5,44,15,4,15,0.267,1,1,1.0,2039,https://www.pro-football-reference.com/boxscores/201609180htx.htm
+2016,2016-09-18,mfbu6O5aMHbJg,Miami,Dolphins,MIA,16,70,1,32,45,,387,2,2,93.472,387,457,0,0,3,2,4,5,49,23,5,10,0.5,0,1,0.0,1394,https://www.pro-football-reference.com/boxscores/201609180nwe.htm
+2016,2016-09-18,VkxV91RtzHn65,New England,Patriots,NE,38,161,1,24,35,,324,3,0,126.369,302,463,2,22,3,1,1,7,65,29,7,14,0.5,0,0,0.0,2206,https://www.pro-football-reference.com/boxscores/201609180nwe.htm
+2016,2016-09-18,IwSI92ZDKoazn,San Francisco,49ers,SF,26,65,1,17,36,,243,2,2,64.931,237,302,2,6,1,1,3,6,50,16,4,14,0.286,0,1,0.0,1446,https://www.pro-football-reference.com/boxscores/201609180car.htm
+2016,2016-09-18,jJBGuksuDJF5L,Carolina,Panthers,CAR,37,176,0,24,40,,353,4,1,111.771,353,529,1,0,3,3,4,8,50,26,7,15,0.467,0,0,0.0,2154,https://www.pro-football-reference.com/boxscores/201609180car.htm
+2016,2016-09-18,KdjU81i7YSFE7,Dallas,Cowboys,DAL,30,102,3,22,30,,292,0,0,103.75,278,380,4,14,2,1,1,6,39,24,6,12,0.5,1,1,1.0,1971,https://www.pro-football-reference.com/boxscores/201609180was.htm
+2016,2016-09-18,9JtBk8kFeaGEs,Washington,Football Team,WAS,17,82,1,28,46,,364,1,1,83.967,350,432,2,14,0,0,1,8,51,24,5,12,0.417,0,1,0.0,1629,https://www.pro-football-reference.com/boxscores/201609180was.htm
+2016,2016-09-18,CI5mhfNa0Zqd2,New Orleans,Saints,NO,13,41,0,29,44,,263,1,0,89.489,247,288,2,16,0,0,0,7,76,16,3,13,0.231,0,0,0.0,1553,https://www.pro-football-reference.com/boxscores/201609180nyg.htm
+2016,2016-09-18,n8CuHV9wbYCqF,New York,Giants,NYG,32,64,0,32,41,,368,0,0,104.065,353,417,2,15,3,3,3,3,25,22,7,15,0.467,0,1,0.0,2047,https://www.pro-football-reference.com/boxscores/201609180nyg.htm
+2016,2016-09-18,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,21,85,0,27,52,,243,1,4,39.183,221,306,3,22,1,1,5,5,39,21,5,13,0.385,0,1,0.0,1857,https://www.pro-football-reference.com/boxscores/201609180crd.htm
+2016,2016-09-18,GJizlkzQFaqGA,Arizona,Cardinals,ARI,30,105,1,18,34,,315,3,0,114.216,311,416,1,4,0,0,0,3,30,20,6,14,0.429,0,0,0.0,1743,https://www.pro-football-reference.com/boxscores/201609180crd.htm
+2016,2016-09-18,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,24,67,0,22,35,,254,0,0,84.702,239,306,2,15,3,1,1,10,114,17,4,13,0.308,0,0,0.0,1803,https://www.pro-football-reference.com/boxscores/201609180ram.htm
+2016,2016-09-18,u98I1lDKQBwZ0,Los Angeles,Rams,LA,25,64,0,18,30,,239,0,0,85.278,219,283,3,20,0,0,0,9,78,17,3,12,0.25,0,0,0.0,1797,https://www.pro-football-reference.com/boxscores/201609180ram.htm
+2016,2016-09-18,mLspw4gJNTQGN,Atlanta,Falcons,ATL,29,139,1,26,34,,396,3,1,131.495,389,528,1,7,0,0,1,7,73,27,5,10,0.5,0,0,0.0,1635,https://www.pro-football-reference.com/boxscores/201609180rai.htm
+2016,2016-09-18,LZoDld8s63xUs,Las Vegas,Raiders,LV,25,155,1,34,45,,299,3,0,114.954,299,454,1,0,1,0,0,9,58,29,5,12,0.417,1,2,0.5,1965,https://www.pro-football-reference.com/boxscores/201609180rai.htm
+2016,2016-09-18,LJmHetie5VbbO,Indianapolis,Colts,IND,21,83,1,21,40,,197,1,1,64.271,170,253,5,27,1,1,2,8,94,19,6,14,0.429,1,1,1.0,1759,https://www.pro-football-reference.com/boxscores/201609180den.htm
+2016,2016-09-18,6DclFuycdPaOB,Denver,Broncos,DEN,31,134,1,22,33,,266,0,1,78.598,266,400,1,0,0,0,1,8,54,24,5,11,0.455,0,0,0.0,1841,https://www.pro-football-reference.com/boxscores/201609180den.htm
+2016,2016-09-18,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,11,69,0,31,50,,329,2,2,77.833,319,388,2,10,1,1,3,14,93,20,2,11,0.182,1,2,0.5,1508,https://www.pro-football-reference.com/boxscores/201609180sdg.htm
+2016,2016-09-18,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,35,150,1,17,25,,220,4,0,135.0,207,357,3,13,1,1,1,3,23,25,7,13,0.538,0,0,0.0,2092,https://www.pro-football-reference.com/boxscores/201609180sdg.htm
+2016,2016-09-18,D5QY6bOxfn8ZL,Green Bay,Packers,GB,23,83,1,20,36,,213,1,1,70.718,180,263,5,33,4,2,3,6,72,20,6,13,0.462,0,1,0.0,1782,https://www.pro-football-reference.com/boxscores/201609180min.htm
+2016,2016-09-18,AzOs5UWsXusSW,Minnesota,Vikings,MIN,22,30,0,22,31,,286,2,0,121.169,254,284,4,32,2,1,1,13,137,15,4,14,0.286,1,2,0.5,1818,https://www.pro-football-reference.com/boxscores/201609180min.htm
+2016,2016-09-19,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,32,100,2,21,34,,190,1,0,86.642,180,280,2,10,0,0,0,5,34,21,3,15,0.2,3,3,1.0,2165,https://www.pro-football-reference.com/boxscores/201609190chi.htm
+2016,2016-09-19,1vVmWGzUZ1rea,Chicago,Bears,CHI,18,64,1,21,29,,235,0,1,81.825,220,284,3,15,2,2,3,7,60,16,4,10,0.4,0,1,0.0,1435,https://www.pro-football-reference.com/boxscores/201609190chi.htm
+2016,2016-09-22,UI0Ax4HUEXFh6,Houston,Texans,HOU,27,109,0,24,41,,196,0,1,60.62,175,284,2,21,2,2,3,6,43,19,6,15,0.4,0,3,0.0,1882,https://www.pro-football-reference.com/boxscores/201609220nwe.htm
+2016,2016-09-22,VkxV91RtzHn65,New England,Patriots,NE,39,185,3,11,19,,103,0,0,72.917,97,282,1,6,1,0,0,3,15,15,4,14,0.286,0,0,0.0,1718,https://www.pro-football-reference.com/boxscores/201609220nwe.htm
+2016,2016-09-25,GJizlkzQFaqGA,Arizona,Cardinals,ARI,22,88,2,26,50,,287,0,4,36.0,260,348,5,27,3,1,5,8,50,25,5,15,0.333,0,1,0.0,2040,https://www.pro-football-reference.com/boxscores/201609250buf.htm
+2016,2016-09-25,3VqeLK0LS9rpw,Buffalo,Bills,BUF,32,208,3,14,25,,119,0,1,51.917,89,297,4,30,3,0,1,9,75,16,4,13,0.308,0,0,0.0,1560,https://www.pro-football-reference.com/boxscores/201609250buf.htm
+2016,2016-09-25,AzOs5UWsXusSW,Minnesota,Vikings,MIN,24,58,0,18,28,,171,1,0,93.006,153,211,2,18,1,0,0,6,42,13,3,12,0.25,0,0,0.0,1508,https://www.pro-football-reference.com/boxscores/201609250car.htm
+2016,2016-09-25,jJBGuksuDJF5L,Carolina,Panthers,CAR,28,105,1,22,36,,265,0,3,48.958,201,306,8,64,0,0,3,10,65,18,6,16,0.375,0,2,0.0,2092,https://www.pro-football-reference.com/boxscores/201609250car.htm
+2016,2016-09-25,6DclFuycdPaOB,Denver,Broncos,DEN,23,52,0,23,35,,312,4,0,132.083,303,355,2,9,1,1,1,5,41,21,6,12,0.5,0,0,0.0,1674,https://www.pro-football-reference.com/boxscores/201609250cin.htm
+2016,2016-09-25,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,29,143,2,21,31,,206,0,1,72.782,189,332,4,17,1,1,2,9,69,20,5,12,0.417,0,1,0.0,1926,https://www.pro-football-reference.com/boxscores/201609250cin.htm
+2016,2016-09-25,IR4gIYmh269EI,Cleveland,Browns,CLE,32,169,1,24,38,,279,0,0,85.307,261,430,4,18,3,1,1,13,91,21,4,15,0.267,0,0,0.0,2242,https://www.pro-football-reference.com/boxscores/201609250mia.htm
+2016,2016-09-25,mfbu6O5aMHbJg,Miami,Dolphins,MIA,25,115,1,25,39,,319,3,2,93.857,311,426,1,8,1,1,3,8,67,23,2,10,0.2,0,0,0.0,1752,https://www.pro-football-reference.com/boxscores/201609250mia.htm
+2016,2016-09-25,FCuH1wdksA2DQ,Detroit,Lions,DET,23,50,0,28,41,,385,3,1,112.348,368,418,3,17,0,0,1,4,86,22,8,14,0.571,1,1,1.0,2107,https://www.pro-football-reference.com/boxscores/201609250gnb.htm
+2016,2016-09-25,D5QY6bOxfn8ZL,Green Bay,Packers,GB,24,123,0,15,24,,205,4,0,129.34,201,324,2,4,0,0,0,4,45,17,5,10,0.5,0,0,0.0,1493,https://www.pro-football-reference.com/boxscores/201609250gnb.htm
+2016,2016-09-25,zyhFXj1nywrm1,Baltimore,Ravens,BAL,22,84,1,29,40,,214,0,2,63.958,199,283,2,15,2,1,3,8,58,18,3,13,0.231,1,1,1.0,1866,https://www.pro-football-reference.com/boxscores/201609250jax.htm
+2016,2016-09-25,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,21,48,0,24,38,,194,2,3,60.636,168,216,4,26,0,0,3,7,75,14,6,16,0.375,0,0,0.0,1734,https://www.pro-football-reference.com/boxscores/201609250jax.htm
+2016,2016-09-25,9JtBk8kFeaGEs,Washington,Football Team,WAS,30,90,0,22,36,,327,2,0,109.375,313,403,2,14,3,1,1,8,70,20,7,16,0.438,1,1,1.0,2006,https://www.pro-football-reference.com/boxscores/201609250nyg.htm
+2016,2016-09-25,n8CuHV9wbYCqF,New York,Giants,NYG,21,120,2,25,38,,350,1,2,82.127,337,457,2,13,3,1,3,11,128,28,4,9,0.444,0,0,0.0,1594,https://www.pro-football-reference.com/boxscores/201609250nyg.htm
+2016,2016-09-25,LZoDld8s63xUs,Las Vegas,Raiders,LV,25,123,1,21,35,,249,1,1,79.345,245,368,1,4,0,0,1,8,58,17,5,13,0.385,0,0,0.0,1743,https://www.pro-football-reference.com/boxscores/201609250oti.htm
+2016,2016-09-25,ltMyRE3yvVUaw,Tennessee,Titans,TEN,29,181,1,17,33,,214,0,2,46.78,212,393,1,2,2,1,3,8,70,19,2,12,0.167,0,1,0.0,1857,https://www.pro-football-reference.com/boxscores/201609250oti.htm
+2016,2016-09-25,u98I1lDKQBwZ0,Los Angeles,Rams,LA,33,137,2,14,26,,190,2,1,87.019,183,320,1,7,1,1,2,8,69,18,6,13,0.462,0,0,0.0,1584,https://www.pro-football-reference.com/boxscores/201609250tam.htm
+2016,2016-09-25,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,22,83,1,36,58,,405,3,1,92.96,389,472,2,16,2,1,2,9,80,30,8,16,0.5,2,2,1.0,2016,https://www.pro-football-reference.com/boxscores/201609250tam.htm
+2016,2016-09-25,IwSI92ZDKoazn,San Francisco,49ers,SF,31,135,2,14,25,,119,0,1,51.917,119,254,0,0,1,0,1,4,35,12,4,15,0.267,1,1,1.0,1443,https://www.pro-football-reference.com/boxscores/201609250sea.htm
+2016,2016-09-25,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,31,127,2,22,32,,308,2,1,107.292,291,418,2,17,1,1,2,6,50,18,9,14,0.643,0,0,0.0,2157,https://www.pro-football-reference.com/boxscores/201609250sea.htm
+2016,2016-09-25,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,17,37,1,26,39,,326,0,0,92.468,315,352,2,11,4,3,3,10,80,17,4,11,0.364,0,0,0.0,1637,https://www.pro-football-reference.com/boxscores/201609250clt.htm
+2016,2016-09-25,LJmHetie5VbbO,Indianapolis,Colts,IND,26,93,2,24,37,,331,1,1,91.16,317,410,2,14,2,1,2,11,66,24,2,9,0.222,1,1,1.0,1963,https://www.pro-football-reference.com/boxscores/201609250clt.htm
+2016,2016-09-25,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,10,29,0,24,44,,257,0,1,62.405,222,251,4,35,2,1,2,7,77,15,4,11,0.364,0,2,0.0,1504,https://www.pro-football-reference.com/boxscores/201609250phi.htm
+2016,2016-09-25,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,30,125,2,23,31,,301,2,0,125.874,301,426,0,0,1,0,0,10,99,25,4,10,0.4,0,0,0.0,2096,https://www.pro-football-reference.com/boxscores/201609250phi.htm
+2016,2016-09-25,mexvMWO2v1hWn,New York,Jets,NYJ,22,117,0,20,44,,188,0,6,18.182,188,305,0,0,3,2,8,3,15,17,7,14,0.5,1,2,0.5,1675,https://www.pro-football-reference.com/boxscores/201609250kan.htm
+2016,2016-09-25,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,27,72,0,25,33,,237,1,0,105.24,221,293,2,16,1,1,1,5,59,18,7,15,0.467,0,1,0.0,1925,https://www.pro-football-reference.com/boxscores/201609250kan.htm
+2016,2016-09-25,1vVmWGzUZ1rea,Chicago,Bears,CHI,14,78,0,30,49,,317,2,0,93.665,312,390,1,5,4,2,2,6,45,21,2,10,0.2,1,1,1.0,1481,https://www.pro-football-reference.com/boxscores/201609250dal.htm
+2016,2016-09-25,KdjU81i7YSFE7,Dallas,Cowboys,DAL,41,199,3,19,24,,248,1,0,123.611,248,447,0,0,1,1,1,4,45,25,5,11,0.455,1,1,1.0,2119,https://www.pro-football-reference.com/boxscores/201609250dal.htm
+2016,2016-09-26,mLspw4gJNTQGN,Atlanta,Falcons,ATL,31,217,3,20,30,,240,2,0,113.194,225,442,2,15,0,0,0,4,35,26,5,11,0.455,2,2,1.0,1646,https://www.pro-football-reference.com/boxscores/201609260nor.htm
+2016,2016-09-26,CI5mhfNa0Zqd2,New Orleans,Saints,NO,23,115,1,36,54,,376,3,1,97.454,359,474,2,17,1,1,2,5,75,32,7,13,0.538,1,2,0.5,1954,https://www.pro-football-reference.com/boxscores/201609260nor.htm
+2016,2016-09-29,mfbu6O5aMHbJg,Miami,Dolphins,MIA,13,62,0,15,25,,189,1,1,80.25,160,222,5,29,1,1,2,7,68,8,2,11,0.182,0,1,0.0,1318,https://www.pro-football-reference.com/boxscores/201609290cin.htm
+2016,2016-09-29,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,37,77,0,22,31,,296,1,0,111.761,285,362,1,11,2,0,0,6,40,19,3,15,0.2,1,1,1.0,2282,https://www.pro-football-reference.com/boxscores/201609290cin.htm
+2016,2016-10-02,LJmHetie5VbbO,Indianapolis,Colts,IND,25,94,1,27,42,,234,2,1,84.821,190,284,6,44,1,0,1,7,78,23,9,17,0.529,0,2,0.0,1959,https://www.pro-football-reference.com/boxscores/201610020jax.htm
+2016,2016-10-02,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,29,136,1,19,33,,207,2,0,96.402,195,331,3,12,1,0,0,11,145,23,3,11,0.273,1,1,1.0,1641,https://www.pro-football-reference.com/boxscores/201610020jax.htm
+2016,2016-10-02,FCuH1wdksA2DQ,Detroit,Lions,DET,18,66,0,23,36,,213,0,2,56.829,197,263,2,16,0,0,2,10,76,16,4,12,0.333,0,0,0.0,1606,https://www.pro-football-reference.com/boxscores/201610020chi.htm
+2016,2016-10-02,1vVmWGzUZ1rea,Chicago,Bears,CHI,29,114,0,28,36,,302,2,0,120.139,294,408,2,8,0,0,0,8,55,23,5,13,0.385,0,1,0.0,1994,https://www.pro-football-reference.com/boxscores/201610020chi.htm
+2016,2016-10-02,3VqeLK0LS9rpw,Buffalo,Bills,BUF,32,134,0,27,39,,246,1,0,94.605,244,378,2,2,0,0,0,6,60,24,7,15,0.467,0,0,0.0,2171,https://www.pro-football-reference.com/boxscores/201610020nwe.htm
+2016,2016-10-02,VkxV91RtzHn65,New England,Patriots,NE,22,90,0,17,27,,205,0,0,86.188,187,277,3,18,5,1,1,9,74,13,1,12,0.083,2,3,0.667,1429,https://www.pro-football-reference.com/boxscores/201610020nwe.htm
+2016,2016-10-02,ltMyRE3yvVUaw,Tennessee,Titans,TEN,32,124,2,13,29,,202,0,1,54.095,196,320,1,6,1,0,1,11,93,16,7,15,0.467,0,1,0.0,1902,https://www.pro-football-reference.com/boxscores/201610020htx.htm
+2016,2016-10-02,UI0Ax4HUEXFh6,Houston,Texans,HOU,24,115,0,25,37,,254,2,2,82.489,244,359,1,10,0,0,2,6,59,21,5,12,0.417,0,1,0.0,1698,https://www.pro-football-reference.com/boxscores/201610020htx.htm
+2016,2016-10-02,LZoDld8s63xUs,Las Vegas,Raiders,LV,19,62,0,25,35,,199,4,0,123.393,199,261,0,0,1,1,1,12,93,13,3,12,0.25,0,0,0.0,1516,https://www.pro-football-reference.com/boxscores/201610020rav.htm
+2016,2016-10-02,zyhFXj1nywrm1,Baltimore,Ravens,BAL,26,130,2,32,52,,298,1,0,83.654,282,412,2,16,3,1,1,10,105,25,5,17,0.294,1,2,0.5,2084,https://www.pro-football-reference.com/boxscores/201610020rav.htm
+2016,2016-10-02,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,26,66,0,23,32,,309,3,0,133.464,288,354,2,21,0,0,0,7,71,21,3,10,0.3,0,0,0.0,1845,https://www.pro-football-reference.com/boxscores/201610020nyj.htm
+2016,2016-10-02,mexvMWO2v1hWn,New York,Jets,NYJ,20,58,0,23,41,,261,1,3,52.998,247,305,4,14,1,0,3,7,60,20,7,15,0.467,1,1,1.0,1755,https://www.pro-football-reference.com/boxscores/201610020nyj.htm
+2016,2016-10-02,jJBGuksuDJF5L,Carolina,Panthers,CAR,15,49,0,31,48,,337,3,2,88.628,329,378,1,8,0,0,2,6,55,20,7,16,0.438,1,1,1.0,1571,https://www.pro-football-reference.com/boxscores/201610020atl.htm
+2016,2016-10-02,mLspw4gJNTQGN,Atlanta,Falcons,ATL,25,90,1,28,37,,503,4,1,142.005,481,571,3,22,0,0,1,8,77,25,8,13,0.615,0,0,0.0,2029,https://www.pro-football-reference.com/boxscores/201610020atl.htm
+2016,2016-10-02,IR4gIYmh269EI,Cleveland,Browns,CLE,28,163,1,28,40,,223,1,1,81.562,217,380,1,6,3,2,3,7,101,26,8,12,0.667,0,1,0.0,1737,https://www.pro-football-reference.com/boxscores/201610020was.htm
+2016,2016-10-02,9JtBk8kFeaGEs,Washington,Football Team,WAS,26,145,1,21,27,,183,3,1,116.512,156,301,3,27,1,0,1,9,75,24,4,8,0.5,0,0,0.0,1863,https://www.pro-football-reference.com/boxscores/201610020was.htm
+2016,2016-10-02,6DclFuycdPaOB,Denver,Broncos,DEN,32,89,1,19,31,,238,2,0,106.653,218,307,4,20,0,0,0,9,88,22,3,13,0.231,0,0,0.0,1884,https://www.pro-football-reference.com/boxscores/201610020tam.htm
+2016,2016-10-02,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,26,72,1,17,35,,179,0,2,40.06,143,215,5,36,2,1,3,9,69,15,5,16,0.312,0,1,0.0,1716,https://www.pro-football-reference.com/boxscores/201610020tam.htm
+2016,2016-10-02,u98I1lDKQBwZ0,Los Angeles,Rams,LA,23,41,0,18,30,,266,2,0,111.25,247,288,2,19,1,1,1,9,84,12,6,14,0.429,0,1,0.0,1671,https://www.pro-football-reference.com/boxscores/201610020crd.htm
+2016,2016-10-02,GJizlkzQFaqGA,Arizona,Cardinals,ARI,25,118,0,27,47,,325,1,3,59.264,302,420,3,23,2,2,5,6,45,26,6,13,0.462,0,0,0.0,1929,https://www.pro-football-reference.com/boxscores/201610020crd.htm
+2016,2016-10-02,KdjU81i7YSFE7,Dallas,Cowboys,DAL,39,194,1,23,32,,245,2,0,114.714,234,428,2,11,0,0,0,6,45,26,6,14,0.429,0,0,0.0,2187,https://www.pro-football-reference.com/boxscores/201610020sfo.htm
+2016,2016-10-02,IwSI92ZDKoazn,San Francisco,49ers,SF,29,106,1,16,23,,196,1,1,91.938,189,295,1,7,0,0,1,5,32,14,8,14,0.571,0,1,0.0,1413,https://www.pro-football-reference.com/boxscores/201610020sfo.htm
+2016,2016-10-02,CI5mhfNa0Zqd2,New Orleans,Saints,NO,34,83,3,23,36,,207,2,2,74.653,192,275,2,15,0,0,2,6,34,21,11,18,0.611,1,1,1.0,1959,https://www.pro-football-reference.com/boxscores/201610020sdg.htm
+2016,2016-10-02,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,21,38,2,28,43,,321,2,1,93.266,308,346,3,13,4,2,3,5,46,21,6,13,0.462,0,1,0.0,1641,https://www.pro-football-reference.com/boxscores/201610020sdg.htm
+2016,2016-10-02,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,18,87,0,30,50,,287,2,1,81.0,270,357,4,17,3,1,2,7,40,22,8,17,0.471,2,3,0.667,1836,https://www.pro-football-reference.com/boxscores/201610020pit.htm
+2016,2016-10-02,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,26,149,1,22,27,,300,5,0,152.546,287,436,2,13,1,0,0,9,68,18,6,11,0.545,0,0,0.0,1764,https://www.pro-football-reference.com/boxscores/201610020pit.htm
+2016,2016-10-03,n8CuHV9wbYCqF,New York,Giants,NYG,18,78,1,25,45,,261,0,1,63.287,261,339,0,0,1,1,2,8,69,18,2,12,0.167,0,2,0.0,1468,https://www.pro-football-reference.com/boxscores/201610030min.htm
+2016,2016-10-03,AzOs5UWsXusSW,Minnesota,Vikings,MIN,33,104,2,26,36,,262,1,0,101.852,262,366,0,0,0,0,0,6,37,22,8,16,0.5,0,0,0.0,2132,https://www.pro-football-reference.com/boxscores/201610030min.htm
+2016,2016-10-06,GJizlkzQFaqGA,Arizona,Cardinals,ARI,37,172,2,11,28,,124,2,0,77.083,116,288,1,8,2,0,0,7,50,17,5,16,0.312,0,0,0.0,1904,https://www.pro-football-reference.com/boxscores/201610060sfo.htm
+2016,2016-10-06,IwSI92ZDKoazn,San Francisco,49ers,SF,36,151,2,18,31,,162,1,2,56.116,135,286,7,27,2,1,3,4,34,25,4,14,0.286,1,1,1.0,1696,https://www.pro-football-reference.com/boxscores/201610060sfo.htm
+2016,2016-10-09,1vVmWGzUZ1rea,Chicago,Bears,CHI,19,125,0,33,43,,397,2,0,120.01,397,522,0,0,3,1,1,10,80,25,2,9,0.222,0,1,0.0,1805,https://www.pro-football-reference.com/boxscores/201610090clt.htm
+2016,2016-10-09,LJmHetie5VbbO,Indianapolis,Colts,IND,21,98,0,28,39,,322,2,0,113.408,298,396,5,24,2,0,0,9,68,20,3,12,0.25,1,1,1.0,1795,https://www.pro-football-reference.com/boxscores/201610090clt.htm
+2016,2016-10-09,VkxV91RtzHn65,New England,Patriots,NE,35,98,1,28,41,,406,3,0,124.644,403,501,1,3,0,0,0,5,61,24,9,17,0.529,0,1,0.0,2079,https://www.pro-football-reference.com/boxscores/201610090cle.htm
+2016,2016-10-09,IR4gIYmh269EI,Cleveland,Browns,CLE,22,27,0,20,35,,249,2,1,86.488,235,262,2,14,2,0,1,5,35,17,5,13,0.385,0,1,0.0,1521,https://www.pro-football-reference.com/boxscores/201610090cle.htm
+2016,2016-10-09,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,21,116,0,25,33,,238,2,1,102.841,230,346,3,8,2,1,2,14,111,18,5,11,0.455,0,0,0.0,1776,https://www.pro-football-reference.com/boxscores/201610090det.htm
+2016,2016-10-09,FCuH1wdksA2DQ,Detroit,Lions,DET,27,80,0,19,25,,180,3,0,135.0,164,244,4,16,1,1,1,2,18,21,3,9,0.333,2,2,1.0,1824,https://www.pro-football-reference.com/boxscores/201610090det.htm
+2016,2016-10-09,ltMyRE3yvVUaw,Tennessee,Titans,TEN,41,235,1,20,29,,163,3,0,117.457,163,398,0,0,1,0,0,5,40,23,5,12,0.417,0,1,0.0,2204,https://www.pro-football-reference.com/boxscores/201610090mia.htm
+2016,2016-10-09,mfbu6O5aMHbJg,Miami,Dolphins,MIA,17,51,1,12,18,,191,0,2,62.269,149,200,6,42,0,0,2,8,83,8,4,11,0.364,0,0,0.0,1396,https://www.pro-football-reference.com/boxscores/201610090mia.htm
+2016,2016-10-09,mexvMWO2v1hWn,New York,Jets,NYJ,17,72,0,25,38,,255,1,0,93.64,244,316,3,11,1,0,0,4,18,16,2,11,0.182,0,1,0.0,1690,https://www.pro-football-reference.com/boxscores/201610090pit.htm
+2016,2016-10-09,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,24,61,0,34,47,,380,4,0,124.424,375,436,1,5,2,1,1,1,10,30,5,10,0.5,0,1,0.0,1910,https://www.pro-football-reference.com/boxscores/201610090pit.htm
+2016,2016-10-09,9JtBk8kFeaGEs,Washington,Football Team,WAS,20,60,0,29,41,,260,1,1,85.417,250,310,1,10,2,1,2,4,46,18,3,12,0.25,1,2,0.5,1775,https://www.pro-football-reference.com/boxscores/201610090rav.htm
+2016,2016-10-09,zyhFXj1nywrm1,Baltimore,Ravens,BAL,19,118,0,30,47,,210,1,0,80.984,188,306,3,22,1,1,1,9,65,18,3,15,0.2,1,3,0.333,1825,https://www.pro-football-reference.com/boxscores/201610090rav.htm
+2016,2016-10-09,UI0Ax4HUEXFh6,Houston,Texans,HOU,14,59,0,19,42,,184,1,1,56.052,155,214,4,29,1,0,1,4,15,16,1,13,0.077,0,1,0.0,1352,https://www.pro-football-reference.com/boxscores/201610090min.htm
+2016,2016-10-09,AzOs5UWsXusSW,Minnesota,Vikings,MIN,37,96,1,22,30,,271,2,0,123.056,255,351,2,16,0,0,0,9,97,22,7,14,0.5,0,0,0.0,2248,https://www.pro-football-reference.com/boxscores/201610090min.htm
+2016,2016-10-09,mLspw4gJNTQGN,Atlanta,Falcons,ATL,32,122,1,15,28,,267,1,0,98.363,250,372,2,17,1,1,1,7,78,19,2,12,0.167,2,3,0.667,1732,https://www.pro-football-reference.com/boxscores/201610090den.htm
+2016,2016-10-09,6DclFuycdPaOB,Denver,Broncos,DEN,24,84,0,23,35,,223,1,1,81.012,183,267,6,40,3,0,1,8,57,18,4,16,0.25,4,4,1.0,1868,https://www.pro-football-reference.com/boxscores/201610090den.htm
+2016,2016-10-09,3VqeLK0LS9rpw,Buffalo,Bills,BUF,27,193,1,12,23,,124,2,0,97.011,112,305,2,12,1,0,0,7,60,15,4,12,0.333,0,0,0.0,1466,https://www.pro-football-reference.com/boxscores/201610090ram.htm
+2016,2016-10-09,u98I1lDKQBwZ0,Los Angeles,Rams,LA,29,102,1,21,31,,271,0,2,68.078,243,345,4,28,2,1,3,6,40,23,4,12,0.333,0,2,0.0,2134,https://www.pro-football-reference.com/boxscores/201610090ram.htm
+2016,2016-10-09,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,19,96,0,29,41,,269,2,0,104.624,249,345,4,20,0,0,0,6,49,27,5,12,0.417,1,1,1.0,1937,https://www.pro-football-reference.com/boxscores/201610090dal.htm
+2016,2016-10-09,KdjU81i7YSFE7,Dallas,Cowboys,DAL,29,180,3,18,24,,227,1,0,117.882,222,402,1,5,3,1,1,7,45,21,4,8,0.5,0,0,0.0,1663,https://www.pro-football-reference.com/boxscores/201610090dal.htm
+2016,2016-10-09,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,19,72,0,21,30,,359,4,2,122.083,351,423,2,8,5,2,4,4,38,17,2,8,0.25,0,1,0.0,1422,https://www.pro-football-reference.com/boxscores/201610090rai.htm
+2016,2016-10-09,LZoDld8s63xUs,Las Vegas,Raiders,LV,25,89,1,25,40,,317,2,1,93.438,300,389,3,17,0,0,1,6,36,19,5,14,0.357,1,1,1.0,2178,https://www.pro-football-reference.com/boxscores/201610090rai.htm
+2016,2016-10-09,n8CuHV9wbYCqF,New York,Giants,NYG,15,43,0,18,35,,199,1,0,78.155,178,221,4,21,1,1,1,6,51,14,4,13,0.308,0,0,0.0,1402,https://www.pro-football-reference.com/boxscores/201610090gnb.htm
+2016,2016-10-09,D5QY6bOxfn8ZL,Green Bay,Packers,GB,32,147,0,23,45,,259,2,2,64.954,259,406,0,0,1,0,2,6,57,23,9,19,0.474,0,0,0.0,2198,https://www.pro-football-reference.com/boxscores/201610090gnb.htm
+2016,2016-10-10,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,37,113,0,18,30,,219,1,0,93.611,202,315,2,17,1,0,0,5,40,20,6,15,0.4,0,0,0.0,2049,https://www.pro-football-reference.com/boxscores/201610100car.htm
+2016,2016-10-10,jJBGuksuDJF5L,Carolina,Panthers,CAR,25,136,2,18,28,,278,0,2,67.262,278,414,0,0,2,2,4,7,60,20,1,8,0.125,1,1,1.0,1551,https://www.pro-football-reference.com/boxscores/201610100car.htm
+2016,2016-10-13,6DclFuycdPaOB,Denver,Broncos,DEN,16,84,0,30,50,,230,1,0,77.917,220,304,2,10,2,2,2,12,103,16,6,15,0.4,0,1,0.0,1592,https://www.pro-football-reference.com/boxscores/201610130sdg.htm
+2016,2016-10-13,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,29,99,0,18,29,,178,1,0,90.876,166,265,2,12,2,2,2,3,20,16,3,13,0.231,1,1,1.0,2008,https://www.pro-football-reference.com/boxscores/201610130sdg.htm
+2016,2016-10-16,IwSI92ZDKoazn,San Francisco,49ers,SF,28,133,0,13,29,,187,1,0,77.802,167,300,3,20,2,1,1,6,52,16,3,13,0.231,0,2,0.0,1489,https://www.pro-football-reference.com/boxscores/201610160buf.htm
+2016,2016-10-16,3VqeLK0LS9rpw,Buffalo,Bills,BUF,44,313,4,16,27,,179,2,0,103.781,179,492,3,0,3,2,2,7,71,29,8,13,0.615,0,0,0.0,2111,https://www.pro-football-reference.com/boxscores/201610160buf.htm
+2016,2016-10-16,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,20,54,1,20,33,,271,1,1,84.28,263,317,2,8,1,1,2,5,50,20,2,10,0.2,0,0,0.0,1453,https://www.pro-football-reference.com/boxscores/201610160chi.htm
+2016,2016-10-16,1vVmWGzUZ1rea,Chicago,Bears,CHI,27,92,1,30,49,,302,0,0,78.784,297,389,1,5,1,0,0,10,87,22,7,17,0.412,0,1,0.0,2147,https://www.pro-football-reference.com/boxscores/201610160chi.htm
+2016,2016-10-16,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,32,120,1,21,31,,254,1,0,103.427,237,357,2,17,0,0,0,7,46,20,5,12,0.417,1,2,0.5,1923,https://www.pro-football-reference.com/boxscores/201610160nwe.htm
+2016,2016-10-16,VkxV91RtzHn65,New England,Patriots,NE,23,79,1,29,35,,376,3,0,140.0,358,437,3,18,0,0,0,6,55,25,4,10,0.4,1,1,1.0,1677,https://www.pro-football-reference.com/boxscores/201610160nwe.htm
+2016,2016-10-16,IR4gIYmh269EI,Cleveland,Browns,CLE,15,40,1,27,42,,337,2,0,104.96,301,341,6,36,0,0,0,11,69,16,3,14,0.214,2,2,1.0,1739,https://www.pro-football-reference.com/boxscores/201610160oti.htm
+2016,2016-10-16,ltMyRE3yvVUaw,Tennessee,Titans,TEN,31,137,1,17,24,,284,3,1,132.639,270,407,2,14,0,0,1,7,96,19,7,13,0.538,0,0,0.0,1861,https://www.pro-football-reference.com/boxscores/201610160oti.htm
+2016,2016-10-16,u98I1lDKQBwZ0,Los Angeles,Rams,LA,22,76,1,27,32,,321,3,1,126.693,311,387,1,10,1,0,1,8,62,23,6,9,0.667,0,1,0.0,1668,https://www.pro-football-reference.com/boxscores/201610160det.htm
+2016,2016-10-16,FCuH1wdksA2DQ,Detroit,Lions,DET,26,83,0,23,31,,270,4,0,139.785,265,348,1,5,0,0,0,7,62,20,6,11,0.545,2,2,1.0,1932,https://www.pro-football-reference.com/boxscores/201610160det.htm
+2016,2016-10-16,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,16,128,1,19,35,,189,1,2,55.536,169,297,2,20,0,0,2,6,65,15,3,11,0.273,0,1,0.0,1410,https://www.pro-football-reference.com/boxscores/201610160mia.htm
+2016,2016-10-16,mfbu6O5aMHbJg,Miami,Dolphins,MIA,36,222,3,24,32,,252,0,0,97.396,252,474,0,0,0,0,0,8,95,24,7,14,0.5,0,0,0.0,2190,https://www.pro-football-reference.com/boxscores/201610160mia.htm
+2016,2016-10-16,zyhFXj1nywrm1,Baltimore,Ravens,BAL,26,98,2,26,48,,307,0,0,73.872,293,391,2,14,0,0,0,15,111,22,5,18,0.278,1,2,0.5,2104,https://www.pro-football-reference.com/boxscores/201610160nyg.htm
+2016,2016-10-16,n8CuHV9wbYCqF,New York,Giants,NYG,17,38,0,32,46,,403,3,2,100.181,397,435,1,6,1,1,3,7,119,19,4,14,0.286,3,3,1.0,1496,https://www.pro-football-reference.com/boxscores/201610160nyg.htm
+2016,2016-10-16,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,21,94,0,11,22,,179,0,0,77.652,145,239,5,34,0,0,0,13,114,12,4,12,0.333,0,0,0.0,1547,https://www.pro-football-reference.com/boxscores/201610160was.htm
+2016,2016-10-16,9JtBk8kFeaGEs,Washington,Football Team,WAS,33,230,1,18,34,,263,2,1,85.784,263,493,0,0,0,0,1,9,75,26,7,13,0.538,0,0,0.0,2053,https://www.pro-football-reference.com/boxscores/201610160was.htm
+2016,2016-10-16,jJBGuksuDJF5L,Carolina,Panthers,CAR,27,103,3,27,47,,322,2,1,83.821,303,406,2,19,1,1,2,5,51,32,3,11,0.273,1,1,1.0,1865,https://www.pro-football-reference.com/boxscores/201610160nor.htm
+2016,2016-10-16,CI5mhfNa0Zqd2,New Orleans,Saints,NO,21,63,1,34,49,,465,4,1,118.155,460,523,1,5,0,0,1,10,126,23,8,16,0.5,1,1,1.0,1735,https://www.pro-football-reference.com/boxscores/201610160nor.htm
+2016,2016-10-16,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,40,183,3,19,23,,224,0,0,107.246,223,406,1,1,0,0,0,2,10,22,7,13,0.538,0,0,0.0,2205,https://www.pro-football-reference.com/boxscores/201610160rai.htm
+2016,2016-10-16,LZoDld8s63xUs,Las Vegas,Raiders,LV,17,64,0,22,34,,225,1,1,81.127,221,285,2,4,2,1,2,3,25,16,4,10,0.4,0,2,0.0,1395,https://www.pro-football-reference.com/boxscores/201610160rai.htm
+2016,2016-10-16,KdjU81i7YSFE7,Dallas,Cowboys,DAL,33,191,0,18,27,,247,3,1,117.361,233,424,2,14,2,1,2,7,60,24,3,11,0.273,1,1,1.0,1790,https://www.pro-football-reference.com/boxscores/201610160gnb.htm
+2016,2016-10-16,D5QY6bOxfn8ZL,Green Bay,Packers,GB,24,78,0,31,42,,294,1,1,90.774,294,372,1,0,5,3,4,5,23,24,7,13,0.538,0,1,0.0,1810,https://www.pro-football-reference.com/boxscores/201610160gnb.htm
+2016,2016-10-16,mLspw4gJNTQGN,Atlanta,Falcons,ATL,18,52,0,27,42,,335,3,1,102.778,310,362,4,25,1,1,2,8,66,22,3,11,0.273,1,2,0.5,1791,https://www.pro-football-reference.com/boxscores/201610160sea.htm
+2016,2016-10-16,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,27,72,3,25,37,,270,0,0,88.795,261,333,1,9,3,0,0,3,30,22,5,14,0.357,0,0,0.0,1809,https://www.pro-football-reference.com/boxscores/201610160sea.htm
+2016,2016-10-16,LJmHetie5VbbO,Indianapolis,Colts,IND,32,161,1,21,32,,252,1,1,86.979,231,392,3,21,0,0,1,7,42,19,5,14,0.357,0,1,0.0,2193,https://www.pro-football-reference.com/boxscores/201610160htx.htm
+2016,2016-10-16,UI0Ax4HUEXFh6,Houston,Texans,HOU,28,158,1,25,39,,269,2,1,90.652,256,414,1,13,1,0,1,7,59,26,5,11,0.455,0,0,0.0,1817,https://www.pro-football-reference.com/boxscores/201610160htx.htm
+2016,2016-10-17,mexvMWO2v1hWn,New York,Jets,NYJ,14,33,0,20,37,,205,0,2,47.691,197,230,1,8,1,0,2,10,83,11,2,13,0.154,1,2,0.5,1438,https://www.pro-football-reference.com/boxscores/201610170crd.htm
+2016,2016-10-17,GJizlkzQFaqGA,Arizona,Cardinals,ARI,35,171,3,24,35,,225,1,0,95.536,225,396,0,0,3,0,0,9,64,28,6,11,0.545,0,0,0.0,2162,https://www.pro-football-reference.com/boxscores/201610170crd.htm
+2016,2016-10-20,1vVmWGzUZ1rea,Chicago,Bears,CHI,18,69,0,10,26,,130,0,2,22.917,120,189,1,10,0,0,2,10,108,13,2,8,0.25,0,0,0.0,1224,https://www.pro-football-reference.com/boxscores/201610200gnb.htm
+2016,2016-10-20,D5QY6bOxfn8ZL,Green Bay,Packers,GB,23,103,0,39,56,,326,3,0,102.232,303,406,2,23,2,1,1,9,56,32,9,16,0.562,1,2,0.5,2376,https://www.pro-football-reference.com/boxscores/201610200gnb.htm
+2016,2016-10-23,n8CuHV9wbYCqF,New York,Giants,NYG,20,36,1,24,37,,196,0,0,78.209,196,232,0,0,1,1,1,3,33,13,4,19,0.211,0,0,0.0,1497,https://www.pro-football-reference.com/boxscores/201610230ram.htm
+2016,2016-10-23,u98I1lDKQBwZ0,Los Angeles,Rams,LA,20,74,0,32,53,,291,1,4,50.118,271,345,3,20,4,0,4,8,43,20,9,19,0.474,1,1,1.0,2103,https://www.pro-football-reference.com/boxscores/201610230ram.htm
+2016,2016-10-23,LZoDld8s63xUs,Las Vegas,Raiders,LV,34,144,2,23,37,,200,1,0,85.417,200,344,0,0,1,0,0,11,117,21,8,18,0.444,1,1,1.0,2007,https://www.pro-football-reference.com/boxscores/201610230jax.htm
+2016,2016-10-23,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,16,105,0,23,43,,246,1,2,58.866,239,344,1,7,2,1,3,13,122,19,4,13,0.308,0,0,0.0,1593,https://www.pro-football-reference.com/boxscores/201610230jax.htm
+2016,2016-10-23,AzOs5UWsXusSW,Minnesota,Vikings,MIN,27,93,0,24,41,,224,1,1,71.596,189,282,6,35,5,3,4,7,56,18,9,19,0.474,1,3,0.333,1928,https://www.pro-football-reference.com/boxscores/201610230phi.htm
+2016,2016-10-23,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,26,101,0,16,28,,138,1,2,52.381,138,239,0,0,4,2,4,7,53,15,4,11,0.364,1,1,1.0,1672,https://www.pro-football-reference.com/boxscores/201610230phi.htm
+2016,2016-10-23,3VqeLK0LS9rpw,Buffalo,Bills,BUF,22,67,2,14,28,,221,1,0,88.542,200,267,4,21,0,0,0,6,45,16,3,13,0.231,0,0,0.0,1378,https://www.pro-football-reference.com/boxscores/201610230mia.htm
+2016,2016-10-23,mfbu6O5aMHbJg,Miami,Dolphins,MIA,42,256,2,15,25,,204,1,0,99.417,198,454,1,6,0,0,0,13,116,26,5,12,0.417,0,0,0.0,2222,https://www.pro-football-reference.com/boxscores/201610230mia.htm
+2016,2016-10-23,IR4gIYmh269EI,Cleveland,Browns,CLE,26,180,2,21,35,,182,0,2,49.94,172,352,2,10,0,0,2,5,35,22,6,14,0.429,0,0,0.0,1908,https://www.pro-football-reference.com/boxscores/201610230cin.htm
+2016,2016-10-23,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,30,271,2,19,28,,308,2,0,128.274,288,559,3,20,2,1,1,3,30,23,5,10,0.5,0,0,0.0,1692,https://www.pro-football-reference.com/boxscores/201610230cin.htm
+2016,2016-10-23,LJmHetie5VbbO,Indianapolis,Colts,IND,24,81,0,27,39,,353,3,0,123.13,341,422,2,12,0,0,0,12,131,26,4,10,0.4,0,0,0.0,1950,https://www.pro-football-reference.com/boxscores/201610230oti.htm
+2016,2016-10-23,ltMyRE3yvVUaw,Tennessee,Titans,TEN,28,124,1,22,37,,232,2,0,95.777,207,331,3,25,2,1,1,6,38,26,9,15,0.6,0,0,0.0,1650,https://www.pro-football-reference.com/boxscores/201610230oti.htm
+2016,2016-10-23,9JtBk8kFeaGEs,Washington,Football Team,WAS,29,130,1,30,39,,301,1,0,106.891,283,413,2,18,4,2,2,4,20,26,9,15,0.6,0,0,0.0,2099,https://www.pro-football-reference.com/boxscores/201610230det.htm
+2016,2016-10-23,FCuH1wdksA2DQ,Detroit,Lions,DET,19,94,1,18,29,,266,1,0,103.52,250,344,3,16,1,0,0,4,30,19,3,9,0.333,0,0,0.0,1501,https://www.pro-football-reference.com/boxscores/201610230det.htm
+2016,2016-10-23,CI5mhfNa0Zqd2,New Orleans,Saints,NO,22,104,0,37,48,,367,3,1,110.33,359,463,1,8,3,1,2,10,75,27,9,14,0.643,0,0,0.0,1958,https://www.pro-football-reference.com/boxscores/201610230kan.htm
+2016,2016-10-23,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,28,112,0,17,24,,214,2,0,126.042,214,326,0,0,0,0,0,4,30,20,3,9,0.333,0,0,0.0,1642,https://www.pro-football-reference.com/boxscores/201610230kan.htm
+2016,2016-10-23,zyhFXj1nywrm1,Baltimore,Ravens,BAL,11,11,0,25,44,,248,0,2,53.977,234,245,2,14,3,1,3,4,35,11,3,14,0.214,0,1,0.0,1403,https://www.pro-football-reference.com/boxscores/201610230nyj.htm
+2016,2016-10-23,mexvMWO2v1hWn,New York,Jets,NYJ,39,155,1,13,22,,215,2,0,122.348,189,344,5,26,2,2,2,4,25,16,6,16,0.375,0,1,0.0,2197,https://www.pro-football-reference.com/boxscores/201610230nyj.htm
+2016,2016-10-23,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,26,78,2,27,45,,371,1,1,84.583,348,426,4,23,1,1,2,3,14,26,9,16,0.562,1,1,1.0,2129,https://www.pro-football-reference.com/boxscores/201610230atl.htm
+2016,2016-10-23,mLspw4gJNTQGN,Atlanta,Falcons,ATL,26,130,1,22,34,,273,1,1,87.01,256,386,3,17,0,0,1,9,70,21,6,12,0.5,0,1,0.0,1830,https://www.pro-football-reference.com/boxscores/201610230atl.htm
+2016,2016-10-23,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,41,249,1,21,30,,269,3,1,117.222,264,513,2,5,2,0,1,7,78,27,6,14,0.429,0,1,0.0,2029,https://www.pro-football-reference.com/boxscores/201610230sfo.htm
+2016,2016-10-23,IwSI92ZDKoazn,San Francisco,49ers,SF,28,160,1,16,34,,143,1,1,56.373,113,273,4,30,4,2,3,4,31,20,6,15,0.4,1,1,1.0,1571,https://www.pro-football-reference.com/boxscores/201610230sfo.htm
+2016,2016-10-23,VkxV91RtzHn65,New England,Patriots,NE,29,140,2,19,26,,222,2,0,124.199,222,362,0,0,2,2,2,4,40,21,7,12,0.583,0,0,0.0,1651,https://www.pro-football-reference.com/boxscores/201610230pit.htm
+2016,2016-10-23,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,22,94,0,29,47,,281,1,1,76.64,281,375,0,0,1,0,1,10,85,17,5,16,0.312,1,2,0.5,1949,https://www.pro-football-reference.com/boxscores/201610230pit.htm
+2016,2016-10-23,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,19,52,0,24,37,,225,0,0,81.475,205,257,1,20,2,0,0,10,90,11,3,14,0.214,0,0,0.0,1719,https://www.pro-football-reference.com/boxscores/201610230crd.htm
+2016,2016-10-23,GJizlkzQFaqGA,Arizona,Cardinals,ARI,37,132,0,29,49,,342,0,0,80.485,311,443,4,31,1,0,0,6,45,23,10,21,0.476,0,1,0.0,2781,https://www.pro-football-reference.com/boxscores/201610230crd.htm
+2016,2016-10-24,UI0Ax4HUEXFh6,Houston,Texans,HOU,25,140,0,22,41,,131,0,0,60.112,131,271,1,0,4,2,2,2,15,14,7,18,0.389,0,2,0.0,1762,https://www.pro-football-reference.com/boxscores/201610240den.htm
+2016,2016-10-24,6DclFuycdPaOB,Denver,Broncos,DEN,35,190,2,14,25,,157,1,0,88.25,157,347,0,0,1,0,0,7,83,19,3,11,0.273,0,0,0.0,1838,https://www.pro-football-reference.com/boxscores/201610240den.htm
+2016,2016-10-27,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,11,48,0,33,54,,337,3,0,97.531,322,370,2,15,2,1,1,7,75,27,6,13,0.462,0,1,0.0,1535,https://www.pro-football-reference.com/boxscores/201610270oti.htm
+2016,2016-10-27,ltMyRE3yvVUaw,Tennessee,Titans,TEN,43,214,2,19,23,,280,2,0,146.377,280,494,0,0,1,0,0,7,54,25,9,15,0.6,0,0,0.0,2065,https://www.pro-football-reference.com/boxscores/201610270oti.htm
+2016,2016-10-30,9JtBk8kFeaGEs,Washington,Football Team,WAS,31,100,1,38,56,,458,2,1,97.173,446,546,1,12,0,0,1,15,106,30,8,17,0.471,0,2,0.0,2382,https://www.pro-football-reference.com/boxscores/201610300cin.htm
+2016,2016-10-30,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,36,152,3,27,42,,284,1,1,81.845,263,415,3,21,2,1,2,7,85,35,8,15,0.533,0,0,0.0,2118,https://www.pro-football-reference.com/boxscores/201610300cin.htm
+2016,2016-10-30,GJizlkzQFaqGA,Arizona,Cardinals,ARI,10,24,0,35,46,,363,3,1,111.051,316,340,8,47,2,1,2,10,88,22,4,12,0.333,1,1,1.0,1752,https://www.pro-football-reference.com/boxscores/201610300car.htm
+2016,2016-10-30,jJBGuksuDJF5L,Carolina,Panthers,CAR,36,141,2,14,27,,212,0,0,78.009,208,349,1,4,1,1,1,5,40,19,6,14,0.429,1,2,0.5,1848,https://www.pro-football-reference.com/boxscores/201610300car.htm
+2016,2016-10-30,VkxV91RtzHn65,New England,Patriots,NE,23,72,1,22,33,,315,4,0,136.995,285,357,5,30,1,0,0,10,116,23,9,13,0.692,0,0,0.0,1791,https://www.pro-football-reference.com/boxscores/201610300buf.htm
+2016,2016-10-30,3VqeLK0LS9rpw,Buffalo,Bills,BUF,26,167,3,20,40,,218,0,0,66.458,209,376,2,9,2,0,0,12,84,25,4,13,0.308,2,4,0.5,1809,https://www.pro-football-reference.com/boxscores/201610300buf.htm
+2016,2016-10-30,mexvMWO2v1hWn,New York,Jets,NYJ,35,171,3,16,34,,228,1,0,79.044,222,393,2,6,0,0,0,5,37,21,7,15,0.467,1,1,1.0,2021,https://www.pro-football-reference.com/boxscores/201610300cle.htm
+2016,2016-10-30,IR4gIYmh269EI,Cleveland,Browns,CLE,18,68,1,27,51,,345,2,2,71.119,339,407,1,6,1,0,2,2,10,22,8,16,0.5,0,0,0.0,1579,https://www.pro-football-reference.com/boxscores/201610300cle.htm
+2016,2016-10-30,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,27,88,0,25,41,,350,3,0,112.856,334,422,3,16,0,0,0,6,40,20,7,16,0.438,0,0,0.0,2016,https://www.pro-football-reference.com/boxscores/201610300clt.htm
+2016,2016-10-30,LJmHetie5VbbO,Indianapolis,Colts,IND,21,105,0,19,35,,210,2,1,79.464,172,277,6,38,3,1,2,5,45,18,4,13,0.308,1,2,0.5,1584,https://www.pro-football-reference.com/boxscores/201610300clt.htm
+2016,2016-10-30,LZoDld8s63xUs,Las Vegas,Raiders,LV,24,128,0,40,59,,513,4,0,117.408,498,626,2,15,1,1,1,23,200,27,7,18,0.389,1,1,1.0,2652,https://www.pro-football-reference.com/boxscores/201610300tam.htm
+2016,2016-10-30,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,27,102,1,16,32,,180,2,0,88.021,168,270,2,12,2,0,0,6,64,18,4,13,0.308,0,0,0.0,1743,https://www.pro-football-reference.com/boxscores/201610300tam.htm
+2016,2016-10-30,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,17,74,1,23,36,,296,0,1,78.009,285,359,1,11,1,0,1,11,76,15,5,11,0.455,0,1,0.0,1428,https://www.pro-football-reference.com/boxscores/201610300nor.htm
+2016,2016-10-30,CI5mhfNa0Zqd2,New Orleans,Saints,NO,35,123,1,27,35,,265,1,0,107.44,252,375,2,13,1,1,1,2,10,28,9,15,0.6,0,0,0.0,2172,https://www.pro-football-reference.com/boxscores/201610300nor.htm
+2016,2016-10-30,FCuH1wdksA2DQ,Detroit,Lions,DET,14,58,0,27,41,,240,1,0,89.482,231,289,1,9,0,0,0,8,75,19,3,11,0.273,0,1,0.0,1562,https://www.pro-football-reference.com/boxscores/201610300htx.htm
+2016,2016-10-30,UI0Ax4HUEXFh6,Houston,Texans,HOU,31,105,1,20,29,,186,1,1,83.405,164,269,3,22,1,0,1,6,49,20,6,15,0.4,1,1,1.0,2038,https://www.pro-football-reference.com/boxscores/201610300htx.htm
+2016,2016-10-30,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,26,123,0,20,47,,267,2,3,48.803,246,369,4,21,0,0,3,8,52,21,7,17,0.412,0,2,0.0,1988,https://www.pro-football-reference.com/boxscores/201610300den.htm
+2016,2016-10-30,6DclFuycdPaOB,Denver,Broncos,DEN,25,57,2,20,38,,276,0,1,65.241,267,324,1,9,4,2,3,6,45,15,5,15,0.333,0,1,0.0,1612,https://www.pro-football-reference.com/boxscores/201610300den.htm
+2016,2016-10-30,D5QY6bOxfn8ZL,Green Bay,Packers,GB,19,108,0,28,38,,246,4,0,125.548,223,331,3,23,1,0,0,6,68,24,6,10,0.6,0,1,0.0,1877,https://www.pro-football-reference.com/boxscores/201610300atl.htm
+2016,2016-10-30,mLspw4gJNTQGN,Atlanta,Falcons,ATL,19,90,1,28,35,,288,3,0,129.524,277,367,2,11,0,0,0,7,46,25,4,9,0.444,1,1,1.0,1723,https://www.pro-football-reference.com/boxscores/201610300atl.htm
+2016,2016-10-30,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,24,97,1,32,44,,202,1,0,89.394,194,291,3,8,4,1,1,5,40,21,6,15,0.4,0,0,0.0,1995,https://www.pro-football-reference.com/boxscores/201610300dal.htm
+2016,2016-10-30,KdjU81i7YSFE7,Dallas,Cowboys,DAL,34,187,1,19,40,,287,2,1,77.812,273,460,2,14,2,0,1,11,84,26,4,14,0.286,2,2,1.0,2037,https://www.pro-football-reference.com/boxscores/201610300dal.htm
+2016,2016-10-31,AzOs5UWsXusSW,Minnesota,Vikings,MIN,18,57,0,23,37,,228,1,0,88.57,201,258,5,27,2,0,0,1,10,15,2,13,0.154,2,2,1.0,1639,https://www.pro-football-reference.com/boxscores/201610310chi.htm
+2016,2016-10-31,1vVmWGzUZ1rea,Chicago,Bears,CHI,29,158,1,20,31,,252,1,0,100.47,245,403,1,7,0,0,0,2,20,19,7,14,0.5,0,0,0.0,1961,https://www.pro-football-reference.com/boxscores/201610310chi.htm
+2016,2016-11-03,mLspw4gJNTQGN,Atlanta,Falcons,ATL,34,136,1,25,34,,344,4,0,144.73,325,461,2,19,3,1,1,6,34,31,6,10,0.6,0,0,0.0,2008,https://www.pro-football-reference.com/boxscores/201611030tam.htm
+2016,2016-11-03,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,20,70,0,33,48,,336,4,0,116.319,326,396,2,10,2,2,2,11,85,23,8,14,0.571,1,2,0.5,1592,https://www.pro-football-reference.com/boxscores/201611030tam.htm
+2016,2016-11-06,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,32,205,0,22,41,,252,2,1,78.506,244,449,2,8,3,3,4,5,46,25,5,13,0.385,0,2,0.0,1779,https://www.pro-football-reference.com/boxscores/201611060kan.htm
+2016,2016-11-06,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,22,62,0,20,33,,187,1,0,86.301,169,231,2,18,0,0,0,8,75,10,1,14,0.071,1,1,1.0,1821,https://www.pro-football-reference.com/boxscores/201611060kan.htm
+2016,2016-11-06,mexvMWO2v1hWn,New York,Jets,NYJ,21,140,1,18,29,,213,1,2,67.17,191,331,3,22,3,0,2,10,77,18,3,11,0.273,0,0,0.0,1778,https://www.pro-football-reference.com/boxscores/201611060mia.htm
+2016,2016-11-06,mfbu6O5aMHbJg,Miami,Dolphins,MIA,32,137,1,17,29,,149,1,0,83.836,137,274,1,12,3,0,0,8,86,20,5,11,0.455,0,1,0.0,1822,https://www.pro-football-reference.com/boxscores/201611060mia.htm
+2016,2016-11-06,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,25,96,2,27,47,,364,0,2,64.495,347,443,2,17,1,0,2,4,43,21,3,15,0.2,1,4,0.25,1960,https://www.pro-football-reference.com/boxscores/201611060nyg.htm
+2016,2016-11-06,n8CuHV9wbYCqF,New York,Giants,NYG,24,54,0,22,36,,257,4,2,96.644,248,302,1,9,1,0,2,5,30,16,4,13,0.308,0,1,0.0,1640,https://www.pro-football-reference.com/boxscores/201611060nyg.htm
+2016,2016-11-06,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,18,36,1,23,45,,264,1,1,67.269,241,277,2,23,2,0,1,13,99,15,4,16,0.25,1,2,0.5,1670,https://www.pro-football-reference.com/boxscores/201611060rav.htm
+2016,2016-11-06,zyhFXj1nywrm1,Baltimore,Ravens,BAL,29,50,0,19,31,,250,1,1,84.073,224,274,3,26,2,0,1,10,94,13,4,17,0.235,0,0,0.0,1930,https://www.pro-football-reference.com/boxscores/201611060rav.htm
+2016,2016-11-06,KdjU81i7YSFE7,Dallas,Cowboys,DAL,42,168,2,22,28,,255,3,0,140.327,255,423,0,0,1,0,0,4,38,29,8,12,0.667,2,2,1.0,2379,https://www.pro-football-reference.com/boxscores/201611060cle.htm
+2016,2016-11-06,IR4gIYmh269EI,Cleveland,Browns,CLE,13,45,0,19,27,,203,1,0,104.398,177,222,4,26,0,0,0,5,33,13,1,9,0.111,1,1,1.0,1221,https://www.pro-football-reference.com/boxscores/201611060cle.htm
+2016,2016-11-06,FCuH1wdksA2DQ,Detroit,Lions,DET,25,97,0,23,36,,219,2,1,87.616,214,311,1,5,0,0,1,6,57,18,7,14,0.5,0,0,0.0,2011,https://www.pro-football-reference.com/boxscores/201611060min.htm
+2016,2016-11-06,AzOs5UWsXusSW,Minnesota,Vikings,MIN,25,78,1,31,40,,273,1,0,103.438,259,337,2,14,0,0,0,8,54,22,6,14,0.429,1,2,0.5,1988,https://www.pro-football-reference.com/boxscores/201611060min.htm
+2016,2016-11-06,jJBGuksuDJF5L,Carolina,Panthers,CAR,25,59,0,20,32,,225,1,0,93.88,185,244,5,40,0,0,0,5,35,16,6,15,0.4,0,0,0.0,2052,https://www.pro-football-reference.com/boxscores/201611060ram.htm
+2016,2016-11-06,u98I1lDKQBwZ0,Los Angeles,Rams,LA,17,59,0,27,46,,296,1,1,75.996,280,339,4,16,1,0,1,10,109,18,4,14,0.286,2,3,0.667,1548,https://www.pro-football-reference.com/boxscores/201611060ram.htm
+2016,2016-11-06,CI5mhfNa0Zqd2,New Orleans,Saints,NO,42,248,2,28,39,,323,3,0,122.062,323,571,1,0,0,0,0,4,40,29,11,17,0.647,0,0,0.0,2333,https://www.pro-football-reference.com/boxscores/201611060sfo.htm
+2016,2016-11-06,IwSI92ZDKoazn,San Francisco,49ers,SF,17,93,0,24,39,,398,2,1,102.297,393,486,1,5,3,3,4,9,78,19,2,9,0.222,0,2,0.0,1267,https://www.pro-football-reference.com/boxscores/201611060sfo.htm
+2016,2016-11-06,LJmHetie5VbbO,Indianapolis,Colts,IND,28,85,2,23,36,,281,1,2,73.958,270,355,2,11,1,0,2,4,35,22,7,14,0.5,0,0,0.0,1803,https://www.pro-football-reference.com/boxscores/201611060gnb.htm
+2016,2016-11-06,D5QY6bOxfn8ZL,Green Bay,Packers,GB,19,116,0,26,43,,297,3,1,94.816,289,405,3,8,0,0,1,4,25,25,4,12,0.333,0,0,0.0,1797,https://www.pro-football-reference.com/boxscores/201611060gnb.htm
+2016,2016-11-06,ltMyRE3yvVUaw,Tennessee,Titans,TEN,19,80,2,27,43,,313,3,2,88.614,313,393,0,0,1,1,3,8,57,24,5,11,0.455,1,1,1.0,1411,https://www.pro-football-reference.com/boxscores/201611060sdg.htm
+2016,2016-11-06,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,39,208,1,24,33,,275,2,0,117.614,268,476,1,7,0,0,0,14,107,31,5,11,0.455,0,0,0.0,2189,https://www.pro-football-reference.com/boxscores/201611060sdg.htm
+2016,2016-11-06,6DclFuycdPaOB,Denver,Broncos,DEN,12,33,0,18,37,,283,2,1,81.25,266,299,2,17,1,1,2,12,104,13,3,11,0.273,0,1,0.0,1112,https://www.pro-football-reference.com/boxscores/201611060rai.htm
+2016,2016-11-06,LZoDld8s63xUs,Las Vegas,Raiders,LV,43,218,3,20,31,,184,0,0,80.578,179,397,2,5,0,0,0,8,72,30,5,14,0.357,0,0,0.0,2488,https://www.pro-football-reference.com/boxscores/201611060rai.htm
+2016,2016-11-07,3VqeLK0LS9rpw,Buffalo,Bills,BUF,38,162,2,27,39,,289,1,1,88.515,263,425,5,26,0,0,1,11,115,30,12,17,0.706,0,1,0.0,2417,https://www.pro-football-reference.com/boxscores/201611070sea.htm
+2016,2016-11-07,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,12,33,2,20,26,,282,2,0,137.019,245,278,4,37,0,0,0,10,75,19,2,7,0.286,0,0,0.0,1183,https://www.pro-football-reference.com/boxscores/201611070sea.htm
+2016,2016-11-10,IR4gIYmh269EI,Cleveland,Browns,CLE,13,33,0,17,31,,150,1,2,51.815,111,144,4,39,2,1,3,3,35,11,2,10,0.2,0,0,0.0,1284,https://www.pro-football-reference.com/boxscores/201611100rav.htm
+2016,2016-11-10,zyhFXj1nywrm1,Baltimore,Ravens,BAL,34,119,0,30,41,,296,3,2,97.205,277,396,2,19,0,0,2,6,61,29,7,12,0.583,0,0,0.0,2316,https://www.pro-football-reference.com/boxscores/201611100rav.htm
+2016,2016-11-13,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,20,91,0,25,38,,178,0,1,65.461,165,256,3,13,2,0,1,9,45,18,2,12,0.167,1,1,1.0,1488,https://www.pro-football-reference.com/boxscores/201611130car.htm
+2016,2016-11-13,jJBGuksuDJF5L,Carolina,Panthers,CAR,29,99,1,23,38,,261,1,1,78.947,242,341,2,19,1,1,2,6,53,22,6,14,0.429,1,1,1.0,2112,https://www.pro-football-reference.com/boxscores/201611130car.htm
+2016,2016-11-13,1vVmWGzUZ1rea,Chicago,Bears,CHI,20,122,0,16,30,,182,1,2,55.139,161,283,4,21,3,2,4,9,74,15,2,11,0.182,0,0,0.0,1371,https://www.pro-football-reference.com/boxscores/201611130tam.htm
+2016,2016-11-13,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,31,80,1,23,33,,312,2,1,107.134,280,360,4,32,0,0,1,9,85,22,8,15,0.533,0,0,0.0,2229,https://www.pro-football-reference.com/boxscores/201611130tam.htm
+2016,2016-11-13,D5QY6bOxfn8ZL,Green Bay,Packers,GB,13,69,1,32,55,,379,2,2,76.25,333,402,5,46,1,1,3,12,107,21,4,15,0.267,2,4,0.5,1829,https://www.pro-football-reference.com/boxscores/201611130oti.htm
+2016,2016-11-13,ltMyRE3yvVUaw,Tennessee,Titans,TEN,31,154,1,20,27,,305,5,0,150.463,292,446,1,13,0,0,0,7,65,19,7,14,0.5,0,1,0.0,1771,https://www.pro-football-reference.com/boxscores/201611130oti.htm
+2016,2016-11-13,UI0Ax4HUEXFh6,Houston,Texans,HOU,33,181,0,14,27,,99,2,0,85.262,92,273,1,7,0,0,0,4,89,16,7,15,0.467,0,1,0.0,1670,https://www.pro-football-reference.com/boxscores/201611130jax.htm
+2016,2016-11-13,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,22,80,0,32,49,,265,2,1,84.141,247,327,2,18,3,1,2,4,48,23,10,17,0.588,0,1,0.0,1930,https://www.pro-football-reference.com/boxscores/201611130jax.htm
+2016,2016-11-13,AzOs5UWsXusSW,Minnesota,Vikings,MIN,21,47,1,31,40,,307,2,1,104.896,284,331,3,23,0,0,1,4,35,22,5,11,0.455,0,1,0.0,1804,https://www.pro-football-reference.com/boxscores/201611130was.htm
+2016,2016-11-13,9JtBk8kFeaGEs,Washington,Football Team,WAS,28,128,0,22,33,,262,2,0,110.922,260,388,1,2,1,1,1,4,35,23,6,12,0.5,0,0,0.0,1796,https://www.pro-football-reference.com/boxscores/201611130was.htm
+2016,2016-11-13,mLspw4gJNTQGN,Atlanta,Falcons,ATL,13,48,0,18,33,,267,1,1,78.725,255,303,2,12,0,0,1,8,67,11,2,11,0.182,0,1,0.0,1310,https://www.pro-football-reference.com/boxscores/201611130phi.htm
+2016,2016-11-13,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,38,208,2,25,36,,231,0,0,86.69,221,429,2,10,2,1,1,10,77,25,5,14,0.357,0,1,0.0,2290,https://www.pro-football-reference.com/boxscores/201611130phi.htm
+2016,2016-11-13,6DclFuycdPaOB,Denver,Broncos,DEN,37,103,0,25,40,,258,2,2,76.875,234,337,6,24,0,0,2,1,10,24,11,19,0.579,0,0,0.0,2362,https://www.pro-football-reference.com/boxscores/201611130nor.htm
+2016,2016-11-13,CI5mhfNa0Zqd2,New Orleans,Saints,NO,21,80,0,21,29,,303,3,2,111.71,293,373,1,10,2,2,4,3,25,19,4,9,0.444,0,0,0.0,1238,https://www.pro-football-reference.com/boxscores/201611130nor.htm
+2016,2016-11-13,u98I1lDKQBwZ0,Los Angeles,Rams,LA,34,125,0,17,30,,165,0,0,72.222,155,280,3,10,1,0,0,7,55,16,6,17,0.353,0,0,0.0,2069,https://www.pro-football-reference.com/boxscores/201611130nyj.htm
+2016,2016-11-13,mexvMWO2v1hWn,New York,Jets,NYJ,25,139,0,19,32,,163,1,1,70.182,157,296,1,6,1,0,1,4,31,17,4,12,0.333,0,0,0.0,1531,https://www.pro-football-reference.com/boxscores/201611130nyj.htm
+2016,2016-11-13,mfbu6O5aMHbJg,Miami,Dolphins,MIA,25,106,1,17,24,,240,2,0,130.556,231,337,1,9,3,1,1,11,81,17,4,10,0.4,0,0,0.0,1621,https://www.pro-football-reference.com/boxscores/201611130sdg.htm
+2016,2016-11-13,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,24,70,0,23,44,,326,3,4,61.364,309,379,3,17,0,0,4,4,29,29,6,11,0.545,0,0,0.0,1979,https://www.pro-football-reference.com/boxscores/201611130sdg.htm
+2016,2016-11-13,IwSI92ZDKoazn,San Francisco,49ers,SF,28,83,1,17,30,,210,1,0,89.583,198,281,3,12,1,1,1,9,100,15,7,17,0.412,1,1,1.0,1662,https://www.pro-football-reference.com/boxscores/201611130crd.htm
+2016,2016-11-13,GJizlkzQFaqGA,Arizona,Cardinals,ARI,23,80,1,30,49,,376,1,2,74.872,363,443,2,13,2,2,4,2,10,26,7,14,0.5,0,0,0.0,1938,https://www.pro-football-reference.com/boxscores/201611130crd.htm
+2016,2016-11-13,KdjU81i7YSFE7,Dallas,Cowboys,DAL,25,127,2,22,32,,319,2,0,121.745,295,422,2,24,1,1,1,10,98,20,7,13,0.538,0,0,0.0,1824,https://www.pro-football-reference.com/boxscores/201611130pit.htm
+2016,2016-11-13,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,19,48,1,37,46,,408,3,0,125.362,400,448,1,8,1,0,0,4,40,30,4,10,0.4,0,0,0.0,1776,https://www.pro-football-reference.com/boxscores/201611130pit.htm
+2016,2016-11-13,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,26,96,0,25,37,,348,3,0,124.606,324,420,3,24,1,0,0,8,60,23,6,12,0.5,0,0,0.0,1825,https://www.pro-football-reference.com/boxscores/201611130nwe.htm
+2016,2016-11-13,VkxV91RtzHn65,New England,Patriots,NE,28,81,3,23,32,,316,0,1,90.104,304,385,2,12,3,1,2,7,61,25,6,10,0.6,0,1,0.0,1775,https://www.pro-football-reference.com/boxscores/201611130nwe.htm
+2016,2016-11-14,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,23,78,1,16,29,,204,1,1,74.497,186,264,3,18,0,0,1,9,60,12,2,11,0.182,0,0,0.0,1717,https://www.pro-football-reference.com/boxscores/201611140nyg.htm
+2016,2016-11-14,n8CuHV9wbYCqF,New York,Giants,NYG,27,122,0,28,44,,240,3,2,81.629,229,351,1,11,1,0,2,2,15,23,6,14,0.429,1,2,0.5,1883,https://www.pro-football-reference.com/boxscores/201611140nyg.htm
+2016,2016-11-17,CI5mhfNa0Zqd2,New Orleans,Saints,NO,25,107,0,35,44,,285,2,1,99.337,264,371,3,21,2,1,2,6,48,28,4,13,0.308,2,2,1.0,1935,https://www.pro-football-reference.com/boxscores/201611170car.htm
+2016,2016-11-17,jJBGuksuDJF5L,Carolina,Panthers,CAR,27,50,1,14,33,,192,1,0,71.78,173,223,2,19,1,0,0,6,45,17,7,17,0.412,0,0,0.0,1665,https://www.pro-football-reference.com/boxscores/201611170car.htm
+2016,2016-11-20,3VqeLK0LS9rpw,Buffalo,Bills,BUF,34,183,1,19,27,,166,0,1,70.91,159,342,2,7,1,0,1,9,75,20,3,12,0.25,1,1,1.0,1931,https://www.pro-football-reference.com/boxscores/201611200cin.htm
+2016,2016-11-20,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,27,93,1,24,43,,207,1,2,57.025,207,300,1,0,2,0,2,4,25,23,8,15,0.533,0,0,0.0,1669,https://www.pro-football-reference.com/boxscores/201611200cin.htm
+2016,2016-11-20,1vVmWGzUZ1rea,Chicago,Bears,CHI,25,93,1,17,30,,252,1,1,81.528,222,315,4,30,2,0,1,5,40,17,4,12,0.333,0,0,0.0,1829,https://www.pro-football-reference.com/boxscores/201611200nyg.htm
+2016,2016-11-20,n8CuHV9wbYCqF,New York,Giants,NYG,29,102,1,21,36,,227,2,0,95.486,227,329,0,0,2,0,0,4,35,19,5,14,0.357,2,2,1.0,1771,https://www.pro-football-reference.com/boxscores/201611200nyg.htm
+2016,2016-11-20,ltMyRE3yvVUaw,Tennessee,Titans,TEN,27,97,0,25,38,,290,2,0,106.25,254,351,5,36,0,0,0,11,109,20,5,14,0.357,1,3,0.333,1861,https://www.pro-football-reference.com/boxscores/201611200clt.htm
+2016,2016-11-20,LJmHetie5VbbO,Indianapolis,Colts,IND,28,76,1,15,28,,262,2,1,94.643,251,327,2,11,0,0,1,8,70,18,5,12,0.417,1,1,1.0,1739,https://www.pro-football-reference.com/boxscores/201611200clt.htm
+2016,2016-11-20,GJizlkzQFaqGA,Arizona,Cardinals,ARI,28,135,1,20,38,,198,2,2,63.268,155,290,4,43,1,0,2,8,96,24,4,13,0.308,0,1,0.0,1862,https://www.pro-football-reference.com/boxscores/201611200min.htm
+2016,2016-11-20,AzOs5UWsXusSW,Minnesota,Vikings,MIN,24,72,1,20,28,,169,1,0,98.661,145,217,2,24,1,1,1,10,73,16,6,13,0.462,0,1,0.0,1738,https://www.pro-football-reference.com/boxscores/201611200min.htm
+2016,2016-11-20,zyhFXj1nywrm1,Baltimore,Ravens,BAL,16,101,1,23,35,,269,1,0,98.393,267,368,1,2,1,0,0,12,136,17,3,9,0.333,0,0,0.0,1461,https://www.pro-football-reference.com/boxscores/201611200dal.htm
+2016,2016-11-20,KdjU81i7YSFE7,Dallas,Cowboys,DAL,30,118,0,27,36,,301,3,0,127.199,299,417,1,2,1,0,0,5,45,27,7,12,0.583,0,0,0.0,2139,https://www.pro-football-reference.com/boxscores/201611200dal.htm
+2016,2016-11-20,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,27,83,0,22,35,,202,2,2,73.75,202,285,0,0,2,1,3,4,25,16,4,14,0.286,0,0,0.0,1975,https://www.pro-football-reference.com/boxscores/201611200det.htm
+2016,2016-11-20,FCuH1wdksA2DQ,Detroit,Lions,DET,21,14,1,24,33,,278,0,0,97.79,263,277,3,15,3,2,2,5,32,14,5,14,0.357,0,0,0.0,1625,https://www.pro-football-reference.com/boxscores/201611200det.htm
+2016,2016-11-20,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,34,116,0,24,39,,331,1,0,97.276,326,442,1,5,2,1,1,7,42,27,11,16,0.688,0,0,0.0,2118,https://www.pro-football-reference.com/boxscores/201611200kan.htm
+2016,2016-11-20,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,21,82,1,24,31,,261,1,1,98.992,261,343,0,0,2,1,2,5,30,19,4,8,0.5,0,0,0.0,1482,https://www.pro-football-reference.com/boxscores/201611200kan.htm
+2016,2016-11-20,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,28,146,1,23,36,,167,0,0,74.653,167,313,0,0,1,0,0,8,70,24,5,12,0.417,1,1,1.0,2038,https://www.pro-football-reference.com/boxscores/201611200cle.htm
+2016,2016-11-20,IR4gIYmh269EI,Cleveland,Browns,CLE,13,33,0,21,41,,246,1,1,67.734,176,209,8,70,1,1,2,9,52,17,4,15,0.267,5,5,1.0,1562,https://www.pro-football-reference.com/boxscores/201611200cle.htm
+2016,2016-11-20,mfbu6O5aMHbJg,Miami,Dolphins,MIA,19,98,0,24,34,,172,2,1,89.338,142,240,4,30,0,0,1,8,82,17,1,11,0.091,0,0,0.0,1721,https://www.pro-football-reference.com/boxscores/201611200ram.htm
+2016,2016-11-20,u98I1lDKQBwZ0,Los Angeles,Rams,LA,28,102,1,17,31,,134,0,0,65.793,125,227,1,9,1,1,1,8,70,12,2,13,0.154,1,1,1.0,1879,https://www.pro-football-reference.com/boxscores/201611200ram.htm
+2016,2016-11-20,VkxV91RtzHn65,New England,Patriots,NE,30,171,0,24,40,,280,4,0,114.583,273,444,1,7,1,0,0,5,40,28,8,16,0.5,1,1,1.0,1752,https://www.pro-football-reference.com/boxscores/201611200sfo.htm
+2016,2016-11-20,IwSI92ZDKoazn,San Francisco,49ers,SF,27,122,0,16,30,,206,2,0,97.361,177,299,5,29,5,0,0,10,68,20,5,14,0.357,0,0,0.0,1848,https://www.pro-football-reference.com/boxscores/201611200sfo.htm
+2016,2016-11-20,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,26,113,0,23,45,,218,2,2,61.157,195,308,2,23,1,0,2,8,48,20,6,16,0.375,1,3,0.333,1866,https://www.pro-football-reference.com/boxscores/201611200sea.htm
+2016,2016-11-20,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,30,152,1,19,32,,287,2,0,109.766,287,439,1,0,1,0,0,7,48,18,5,15,0.333,0,0,0.0,1734,https://www.pro-football-reference.com/boxscores/201611200sea.htm
+2016,2016-11-20,D5QY6bOxfn8ZL,Green Bay,Packers,GB,19,84,0,27,44,,360,3,1,100.568,340,424,2,20,3,1,2,6,59,19,7,15,0.467,1,2,0.5,1823,https://www.pro-football-reference.com/boxscores/201611200was.htm
+2016,2016-11-20,9JtBk8kFeaGEs,Washington,Football Team,WAS,30,151,3,21,30,,375,3,0,145.833,364,515,2,11,0,0,0,6,40,21,9,14,0.643,1,1,1.0,1777,https://www.pro-football-reference.com/boxscores/201611200was.htm
+2016,2016-11-21,UI0Ax4HUEXFh6,Houston,Texans,HOU,33,124,1,26,39,,243,1,1,81.464,230,354,2,13,1,1,2,7,101,22,8,16,0.5,1,2,0.5,2187,https://www.pro-football-reference.com/boxscores/201611210rai.htm
+2016,2016-11-21,LZoDld8s63xUs,Las Vegas,Raiders,LV,20,30,0,21,31,,295,3,1,117.003,295,325,0,0,1,0,1,4,21,16,4,11,0.364,1,2,0.5,1413,https://www.pro-football-reference.com/boxscores/201611210rai.htm
+2016,2016-11-24,AzOs5UWsXusSW,Minnesota,Vikings,MIN,16,82,1,31,37,,224,0,1,80.631,224,306,0,0,0,0,1,5,40,17,2,10,0.2,0,1,0.0,1891,https://www.pro-football-reference.com/boxscores/201611240det.htm
+2016,2016-11-24,FCuH1wdksA2DQ,Detroit,Lions,DET,19,94,0,23,40,,232,1,0,82.5,214,308,2,18,0,0,0,4,16,18,6,14,0.429,0,2,0.0,1709,https://www.pro-football-reference.com/boxscores/201611240det.htm
+2016,2016-11-24,9JtBk8kFeaGEs,Washington,Football Team,WAS,19,56,0,41,53,,449,3,0,120.715,449,505,0,0,1,0,0,3,30,25,8,15,0.533,2,2,1.0,2004,https://www.pro-football-reference.com/boxscores/201611240dal.htm
+2016,2016-11-24,KdjU81i7YSFE7,Dallas,Cowboys,DAL,30,163,3,17,24,,195,1,0,108.854,190,353,1,5,0,0,0,3,25,24,4,8,0.5,0,0,0.0,1596,https://www.pro-football-reference.com/boxscores/201611240dal.htm
+2016,2016-11-24,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,29,148,1,14,21,,221,3,0,141.071,221,369,0,0,0,0,0,7,67,16,7,11,0.636,0,0,0.0,1695,https://www.pro-football-reference.com/boxscores/201611240clt.htm
+2016,2016-11-24,LJmHetie5VbbO,Indianapolis,Colts,IND,23,91,0,23,37,,240,1,2,67.399,219,310,3,21,1,0,2,2,10,18,8,15,0.533,2,4,0.5,1905,https://www.pro-football-reference.com/boxscores/201611240clt.htm
+2016,2016-11-27,GJizlkzQFaqGA,Arizona,Cardinals,ARI,14,58,0,25,45,,289,2,1,80.694,274,332,2,15,1,0,1,8,60,23,4,11,0.364,1,2,0.5,1538,https://www.pro-football-reference.com/boxscores/201611270atl.htm
+2016,2016-11-27,mLspw4gJNTQGN,Atlanta,Falcons,ATL,30,116,3,26,34,,269,2,1,106.127,244,360,3,25,0,0,1,4,23,28,4,9,0.444,1,1,1.0,2062,https://www.pro-football-reference.com/boxscores/201611270atl.htm
+2016,2016-11-27,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,37,183,1,13,26,,126,2,0,89.583,118,301,2,8,2,0,0,6,60,20,8,15,0.533,0,1,0.0,2015,https://www.pro-football-reference.com/boxscores/201611270buf.htm
+2016,2016-11-27,3VqeLK0LS9rpw,Buffalo,Bills,BUF,29,153,3,12,18,,166,1,0,114.583,151,304,5,15,0,0,0,6,31,15,5,12,0.417,1,1,1.0,1585,https://www.pro-football-reference.com/boxscores/201611270buf.htm
+2016,2016-11-27,ltMyRE3yvVUaw,Tennessee,Titans,TEN,29,149,1,15,23,,226,2,0,126.359,226,375,0,0,1,0,0,6,118,18,5,11,0.455,0,0,0.0,1765,https://www.pro-football-reference.com/boxscores/201611270chi.htm
+2016,2016-11-27,1vVmWGzUZ1rea,Chicago,Bears,CHI,22,95,0,28,54,,316,3,2,72.762,316,411,0,0,2,0,2,7,48,25,9,17,0.529,1,3,0.333,1835,https://www.pro-football-reference.com/boxscores/201611270chi.htm
+2016,2016-11-27,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,20,64,0,26,48,,283,1,0,78.733,261,325,3,22,4,2,2,2,15,22,5,16,0.312,1,1,1.0,1723,https://www.pro-football-reference.com/boxscores/201611270rav.htm
+2016,2016-11-27,zyhFXj1nywrm1,Baltimore,Ravens,BAL,30,92,0,25,36,,234,1,1,84.722,219,311,2,15,1,0,1,8,69,16,5,16,0.312,1,2,0.5,1877,https://www.pro-football-reference.com/boxscores/201611270rav.htm
+2016,2016-11-27,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,18,67,0,22,30,,242,3,1,116.25,235,302,1,7,0,0,1,10,78,18,4,11,0.364,0,0,0.0,1799,https://www.pro-football-reference.com/boxscores/201611270htx.htm
+2016,2016-11-27,UI0Ax4HUEXFh6,Houston,Texans,HOU,27,114,1,22,37,,246,0,3,45.552,239,353,1,7,2,1,4,9,58,22,4,11,0.364,1,2,0.5,1801,https://www.pro-football-reference.com/boxscores/201611270htx.htm
+2016,2016-11-27,IwSI92ZDKoazn,San Francisco,49ers,SF,25,193,0,29,46,,296,3,1,94.112,282,475,2,14,1,1,2,7,65,25,7,14,0.5,2,2,1.0,1768,https://www.pro-football-reference.com/boxscores/201611270mia.htm
+2016,2016-11-27,mfbu6O5aMHbJg,Miami,Dolphins,MIA,26,95,1,20,30,,285,3,0,130.556,263,358,2,22,2,0,0,4,42,19,6,12,0.5,0,0,0.0,1832,https://www.pro-football-reference.com/boxscores/201611270mia.htm
+2016,2016-11-27,u98I1lDKQBwZ0,Los Angeles,Rams,LA,17,69,0,20,32,,214,3,1,100.26,178,247,3,36,1,1,2,6,62,13,2,10,0.2,0,1,0.0,1444,https://www.pro-football-reference.com/boxscores/201611270nor.htm
+2016,2016-11-27,CI5mhfNa0Zqd2,New Orleans,Saints,NO,32,209,2,29,37,,360,5,0,146.791,346,555,2,14,2,1,1,6,45,27,6,13,0.462,2,2,1.0,2156,https://www.pro-football-reference.com/boxscores/201611270nor.htm
+2016,2016-11-27,n8CuHV9wbYCqF,New York,Giants,NYG,27,104,0,15,27,,194,3,0,115.355,192,296,1,2,1,1,1,9,100,13,4,13,0.308,0,0,0.0,1569,https://www.pro-football-reference.com/boxscores/201611270cle.htm
+2016,2016-11-27,IR4gIYmh269EI,Cleveland,Browns,CLE,21,58,0,25,44,,322,1,0,87.5,285,343,7,37,3,3,3,5,35,21,3,14,0.214,1,2,0.5,2031,https://www.pro-football-reference.com/boxscores/201611270cle.htm
+2016,2016-11-27,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,22,127,0,17,33,,151,0,2,38.826,118,245,6,33,2,1,3,2,27,16,1,11,0.091,1,1,1.0,1581,https://www.pro-football-reference.com/boxscores/201611270tam.htm
+2016,2016-11-27,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,35,118,0,21,28,,220,2,1,106.25,220,338,0,0,2,1,2,7,68,19,4,11,0.364,0,0,0.0,2019,https://www.pro-football-reference.com/boxscores/201611270tam.htm
+2016,2016-11-27,jJBGuksuDJF5L,Carolina,Panthers,CAR,25,129,3,14,29,,246,2,1,86.279,229,358,2,17,2,1,2,7,67,19,3,10,0.3,0,1,0.0,1583,https://www.pro-football-reference.com/boxscores/201611270rai.htm
+2016,2016-11-27,LZoDld8s63xUs,Las Vegas,Raiders,LV,31,56,1,26,39,,315,2,1,97.703,310,366,1,5,2,1,2,7,46,22,8,15,0.533,0,0,0.0,2017,https://www.pro-football-reference.com/boxscores/201611270rai.htm
+2016,2016-11-27,VkxV91RtzHn65,New England,Patriots,NE,21,91,0,30,50,,286,2,0,89.25,286,377,0,0,1,0,0,2,15,26,4,14,0.286,1,1,1.0,1836,https://www.pro-football-reference.com/boxscores/201611270nyj.htm
+2016,2016-11-27,mexvMWO2v1hWn,New York,Jets,NYJ,23,64,0,22,32,,269,2,0,115.234,269,333,1,0,3,2,2,6,66,16,5,11,0.455,0,0,0.0,1764,https://www.pro-football-reference.com/boxscores/201611270nyj.htm
+2016,2016-11-27,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,26,83,1,26,44,,220,1,0,79.735,190,273,6,30,0,0,0,9,71,23,5,17,0.294,1,1,1.0,2259,https://www.pro-football-reference.com/boxscores/201611270den.htm
+2016,2016-11-27,6DclFuycdPaOB,Denver,Broncos,DEN,38,124,0,20,34,,368,3,0,125.613,340,464,5,28,3,1,1,15,97,21,9,20,0.45,1,1,1.0,2239,https://www.pro-football-reference.com/boxscores/201611270den.htm
+2016,2016-11-28,D5QY6bOxfn8ZL,Green Bay,Packers,GB,28,74,1,30,39,,313,2,0,116.72,313,387,0,0,1,0,0,7,51,25,10,14,0.714,1,1,1.0,2123,https://www.pro-football-reference.com/boxscores/201611280phi.htm
+2016,2016-11-28,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,18,81,1,24,36,,254,0,1,75.463,211,292,4,43,1,0,1,7,42,20,5,11,0.455,0,1,0.0,1477,https://www.pro-football-reference.com/boxscores/201611280phi.htm
+2016,2016-12-01,KdjU81i7YSFE7,Dallas,Cowboys,DAL,28,140,1,12,18,,139,1,0,108.333,124,264,3,15,4,2,2,10,78,13,1,9,0.111,0,0,0.0,1603,https://www.pro-football-reference.com/boxscores/201612010min.htm
+2016,2016-12-01,AzOs5UWsXusSW,Minnesota,Vikings,MIN,19,87,0,33,47,,253,1,0,90.115,231,318,3,22,3,1,1,8,57,21,6,16,0.375,0,0,0.0,1997,https://www.pro-football-reference.com/boxscores/201612010min.htm
+2016,2016-12-04,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,22,123,2,21,25,,270,1,0,125.0,266,389,1,4,1,1,1,13,128,17,3,10,0.3,2,2,1.0,1688,https://www.pro-football-reference.com/boxscores/201612040atl.htm
+2016,2016-12-04,mLspw4gJNTQGN,Atlanta,Falcons,ATL,30,128,2,22,34,,297,1,1,89.951,290,418,2,7,0,0,1,5,30,32,6,10,0.6,0,1,0.0,1912,https://www.pro-football-reference.com/boxscores/201612040atl.htm
+2016,2016-12-04,IwSI92ZDKoazn,San Francisco,49ers,SF,34,141,0,5,15,,39,0,0,42.361,6,147,6,33,1,0,0,11,106,10,4,14,0.286,0,0,0.0,1722,https://www.pro-football-reference.com/boxscores/201612040chi.htm
+2016,2016-12-04,1vVmWGzUZ1rea,Chicago,Bears,CHI,40,142,3,11,18,,192,0,0,97.454,184,326,1,8,2,1,1,5,40,19,6,14,0.429,0,0,0.0,1878,https://www.pro-football-reference.com/boxscores/201612040chi.htm
+2016,2016-12-04,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,19,53,1,36,60,,308,1,3,58.194,306,359,1,2,0,0,3,10,88,22,8,17,0.471,3,5,0.6,1918,https://www.pro-football-reference.com/boxscores/201612040cin.htm
+2016,2016-12-04,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,33,80,1,23,31,,332,2,0,130.04,332,412,0,0,2,2,2,3,23,21,7,14,0.5,0,0,0.0,1682,https://www.pro-football-reference.com/boxscores/201612040cin.htm
+2016,2016-12-04,6DclFuycdPaOB,Denver,Broncos,DEN,28,104,1,12,24,,104,0,0,61.806,102,206,2,2,0,0,0,4,32,10,1,13,0.077,0,0,0.0,1526,https://www.pro-football-reference.com/boxscores/201612040jax.htm
+2016,2016-12-04,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,38,154,1,19,42,,181,0,2,37.897,179,333,1,2,1,1,3,6,65,19,6,18,0.333,1,2,0.5,2074,https://www.pro-football-reference.com/boxscores/201612040jax.htm
+2016,2016-12-04,FCuH1wdksA2DQ,Detroit,Lions,DET,23,85,0,30,42,,341,2,0,111.31,337,422,2,4,0,0,0,6,39,24,5,12,0.417,0,0,0.0,2212,https://www.pro-football-reference.com/boxscores/201612040nor.htm
+2016,2016-12-04,CI5mhfNa0Zqd2,New Orleans,Saints,NO,12,50,1,31,44,,326,0,3,63.258,319,369,1,7,1,0,3,10,83,20,6,13,0.462,0,0,0.0,1388,https://www.pro-football-reference.com/boxscores/201612040nor.htm
+2016,2016-12-04,UI0Ax4HUEXFh6,Houston,Texans,HOU,27,123,0,22,35,,202,2,0,97.56,184,307,2,18,1,1,1,3,12,17,6,15,0.4,1,2,0.5,1891,https://www.pro-football-reference.com/boxscores/201612040gnb.htm
+2016,2016-12-04,D5QY6bOxfn8ZL,Green Bay,Packers,GB,26,109,1,20,30,,209,2,0,108.889,200,309,1,9,1,1,1,4,30,16,4,12,0.333,1,2,0.5,1709,https://www.pro-football-reference.com/boxscores/201612040gnb.htm
+2016,2016-12-04,mfbu6O5aMHbJg,Miami,Dolphins,MIA,16,62,0,29,40,,226,1,3,63.125,215,277,2,11,2,0,3,7,57,16,4,13,0.308,0,0,0.0,1846,https://www.pro-football-reference.com/boxscores/201612040rav.htm
+2016,2016-12-04,zyhFXj1nywrm1,Baltimore,Ravens,BAL,20,110,1,37,50,,386,4,1,114.25,386,496,0,0,1,1,2,7,68,28,5,11,0.455,2,2,1.0,1754,https://www.pro-football-reference.com/boxscores/201612040rav.htm
+2016,2016-12-04,u98I1lDKQBwZ0,Los Angeles,Rams,LA,13,36,0,14,32,,161,1,2,43.88,126,162,4,35,0,0,2,4,30,7,1,12,0.083,1,1,1.0,1323,https://www.pro-football-reference.com/boxscores/201612040nwe.htm
+2016,2016-12-04,VkxV91RtzHn65,New England,Patriots,NE,29,133,1,33,46,,269,1,0,93.478,269,402,0,0,1,0,0,8,46,20,4,16,0.25,2,2,1.0,2277,https://www.pro-football-reference.com/boxscores/201612040nwe.htm
+2016,2016-12-04,3VqeLK0LS9rpw,Buffalo,Bills,BUF,30,212,3,18,35,,191,0,1,55.774,170,382,4,21,1,1,2,8,73,24,9,15,0.6,0,0,0.0,1815,https://www.pro-football-reference.com/boxscores/201612040rai.htm
+2016,2016-12-04,LZoDld8s63xUs,Las Vegas,Raiders,LV,32,139,2,19,35,,260,2,0,97.321,260,399,0,0,0,0,0,7,65,24,5,13,0.385,0,0,0.0,1785,https://www.pro-football-reference.com/boxscores/201612040rai.htm
+2016,2016-12-04,9JtBk8kFeaGEs,Washington,Football Team,WAS,18,87,1,21,37,,271,1,1,77.646,246,333,2,25,2,1,2,7,35,19,5,11,0.455,0,0,0.0,1574,https://www.pro-football-reference.com/boxscores/201612040crd.htm
+2016,2016-12-04,GJizlkzQFaqGA,Arizona,Cardinals,ARI,24,88,1,30,46,,300,3,0,105.344,281,369,2,19,1,0,0,6,51,24,10,16,0.625,1,1,1.0,2026,https://www.pro-football-reference.com/boxscores/201612040crd.htm
+2016,2016-12-04,n8CuHV9wbYCqF,New York,Giants,NYG,14,56,0,24,39,,195,2,2,69.925,178,234,2,17,0,0,2,4,24,16,4,11,0.364,0,3,0.0,1552,https://www.pro-football-reference.com/boxscores/201612040pit.htm
+2016,2016-12-04,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,30,117,0,24,37,,289,2,1,95.439,272,389,2,17,1,1,2,12,115,20,7,15,0.467,1,1,1.0,2048,https://www.pro-football-reference.com/boxscores/201612040pit.htm
+2016,2016-12-04,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,30,81,1,20,30,,280,1,1,93.75,268,349,1,12,0,0,1,6,35,20,5,13,0.385,1,1,1.0,1901,https://www.pro-football-reference.com/boxscores/201612040sdg.htm
+2016,2016-12-04,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,25,119,1,15,26,,225,2,2,79.808,211,330,2,14,0,0,2,6,45,18,4,8,0.5,0,0,0.0,1699,https://www.pro-football-reference.com/boxscores/201612040sdg.htm
+2016,2016-12-04,jJBGuksuDJF5L,Carolina,Panthers,CAR,21,89,0,14,33,,182,1,1,57.891,182,271,0,0,1,1,2,6,63,14,5,12,0.417,0,1,0.0,1559,https://www.pro-football-reference.com/boxscores/201612040sea.htm
+2016,2016-12-04,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,29,240,3,28,39,,315,1,1,93.429,294,534,3,21,1,0,1,6,37,29,7,14,0.5,0,1,0.0,2041,https://www.pro-football-reference.com/boxscores/201612040sea.htm
+2016,2016-12-05,LJmHetie5VbbO,Indianapolis,Colts,IND,40,139,1,23,29,,289,4,0,147.773,282,421,1,7,2,1,1,3,28,27,7,13,0.538,0,1,0.0,2304,https://www.pro-football-reference.com/boxscores/201612050nyj.htm
+2016,2016-12-05,mexvMWO2v1hWn,New York,Jets,NYJ,14,36,0,16,37,,216,1,3,37.669,214,250,1,2,1,0,3,6,90,13,3,11,0.273,1,2,0.5,1296,https://www.pro-football-reference.com/boxscores/201612050nyj.htm
+2016,2016-12-08,LZoDld8s63xUs,Las Vegas,Raiders,LV,31,135,1,17,41,,117,0,0,49.136,109,244,1,8,1,0,0,10,82,18,5,18,0.278,1,3,0.333,1905,https://www.pro-football-reference.com/boxscores/201612080kan.htm
+2016,2016-12-08,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,27,65,1,17,26,,264,1,1,95.673,258,323,1,6,2,2,3,9,73,14,5,11,0.455,0,1,0.0,1695,https://www.pro-football-reference.com/boxscores/201612080kan.htm
+2016,2016-12-11,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,42,240,3,17,31,,220,0,3,37.769,220,460,0,0,0,0,3,6,45,24,6,14,0.429,1,1,1.0,2321,https://www.pro-football-reference.com/boxscores/201612110buf.htm
+2016,2016-12-11,3VqeLK0LS9rpw,Buffalo,Bills,BUF,18,67,1,15,25,,228,2,1,100.083,208,275,5,20,0,0,1,7,46,14,3,9,0.333,0,0,0.0,1279,https://www.pro-football-reference.com/boxscores/201612110buf.htm
+2016,2016-12-11,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,20,58,0,21,39,,236,2,3,57.212,220,278,5,16,2,2,5,7,32,17,5,13,0.385,0,1,0.0,1643,https://www.pro-football-reference.com/boxscores/201612110car.htm
+2016,2016-12-11,jJBGuksuDJF5L,Carolina,Panthers,CAR,38,126,1,10,27,,160,1,1,54.552,146,272,2,14,0,0,1,5,35,17,5,15,0.333,1,1,1.0,1957,https://www.pro-football-reference.com/boxscores/201612110car.htm
+2016,2016-12-11,1vVmWGzUZ1rea,Chicago,Bears,CHI,17,92,0,20,32,,212,1,0,92.188,204,296,1,8,0,0,0,11,139,16,4,10,0.4,0,1,0.0,1543,https://www.pro-football-reference.com/boxscores/201612110det.htm
+2016,2016-12-11,FCuH1wdksA2DQ,Detroit,Lions,DET,28,114,1,21,35,,223,1,2,64.345,209,323,3,14,0,0,2,7,55,25,6,12,0.5,0,0,0.0,2057,https://www.pro-football-reference.com/boxscores/201612110det.htm
+2016,2016-12-11,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,38,213,1,20,28,,180,2,0,112.202,147,360,4,33,1,0,0,6,43,21,8,15,0.533,0,0,0.0,2093,https://www.pro-football-reference.com/boxscores/201612110cle.htm
+2016,2016-12-11,IR4gIYmh269EI,Cleveland,Browns,CLE,22,169,1,12,28,,104,0,1,38.393,85,254,3,19,0,0,1,5,34,13,6,14,0.429,1,1,1.0,1507,https://www.pro-football-reference.com/boxscores/201612110cle.htm
+2016,2016-12-11,UI0Ax4HUEXFh6,Houston,Texans,HOU,41,185,1,14,24,,147,0,1,58.854,131,316,2,16,1,0,1,7,124,20,5,14,0.357,0,0,0.0,2165,https://www.pro-football-reference.com/boxscores/201612110clt.htm
+2016,2016-12-11,LJmHetie5VbbO,Indianapolis,Colts,IND,15,83,0,24,45,,276,2,2,68.38,265,348,1,11,1,1,3,9,59,21,5,12,0.417,0,1,0.0,1435,https://www.pro-football-reference.com/boxscores/201612110clt.htm
+2016,2016-12-11,GJizlkzQFaqGA,Arizona,Cardinals,ARI,27,175,1,18,33,,145,2,2,60.795,125,300,3,20,4,2,4,7,54,21,4,13,0.308,0,0,0.0,1796,https://www.pro-football-reference.com/boxscores/201612110mia.htm
+2016,2016-12-11,mfbu6O5aMHbJg,Miami,Dolphins,MIA,31,83,0,18,25,,242,3,1,125.333,231,314,1,11,5,2,3,14,118,15,4,13,0.308,0,0,0.0,1804,https://www.pro-football-reference.com/boxscores/201612110mia.htm
+2016,2016-12-11,6DclFuycdPaOB,Denver,Broncos,DEN,9,18,0,36,52,,350,1,0,94.231,330,348,3,20,2,2,2,9,87,19,3,11,0.273,1,2,0.5,1653,https://www.pro-football-reference.com/boxscores/201612110oti.htm
+2016,2016-12-11,ltMyRE3yvVUaw,Tennessee,Titans,TEN,42,180,1,6,21,,88,0,0,44.544,73,253,2,15,1,0,0,5,55,16,6,16,0.375,0,0,0.0,1947,https://www.pro-football-reference.com/boxscores/201612110oti.htm
+2016,2016-12-11,AzOs5UWsXusSW,Minnesota,Vikings,MIN,29,85,1,24,34,,292,1,0,106.495,292,377,0,0,2,1,1,7,93,22,3,11,0.273,0,1,0.0,1856,https://www.pro-football-reference.com/boxscores/201612110jax.htm
+2016,2016-12-11,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,24,85,0,23,37,,257,1,0,91.836,230,315,4,27,0,0,0,14,114,18,7,16,0.438,1,1,1.0,1744,https://www.pro-football-reference.com/boxscores/201612110jax.htm
+2016,2016-12-11,9JtBk8kFeaGEs,Washington,Football Team,WAS,23,107,2,14,21,,234,2,1,115.972,227,334,2,7,0,0,1,5,86,16,2,7,0.286,1,1,1.0,1402,https://www.pro-football-reference.com/boxscores/201612110phi.htm
+2016,2016-12-11,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,26,95,0,32,46,,314,1,1,86.685,288,383,4,26,3,1,2,5,54,24,9,18,0.5,2,3,0.667,2198,https://www.pro-football-reference.com/boxscores/201612110phi.htm
+2016,2016-12-11,mexvMWO2v1hWn,New York,Jets,NYJ,40,188,2,23,35,,257,0,1,75.536,216,404,6,41,0,0,1,9,56,24,8,18,0.444,1,1,1.0,2515,https://www.pro-football-reference.com/boxscores/201612110sfo.htm
+2016,2016-12-11,IwSI92ZDKoazn,San Francisco,49ers,SF,27,248,1,15,26,,133,1,0,84.295,116,364,2,17,0,0,0,3,25,17,2,12,0.167,0,1,0.0,1470,https://www.pro-football-reference.com/boxscores/201612110sfo.htm
+2016,2016-12-11,mLspw4gJNTQGN,Atlanta,Falcons,ATL,25,66,1,18,30,,237,3,0,118.333,220,286,2,17,0,0,0,5,40,18,4,13,0.308,0,0,0.0,1628,https://www.pro-football-reference.com/boxscores/201612110ram.htm
+2016,2016-12-11,u98I1lDKQBwZ0,Los Angeles,Rams,LA,23,104,2,24,41,,235,0,2,54.421,208,312,3,27,3,3,5,11,105,21,6,14,0.429,0,0,0.0,1972,https://www.pro-football-reference.com/boxscores/201612110ram.htm
+2016,2016-12-11,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,26,136,0,22,39,,240,1,5,43.697,218,354,3,22,1,1,6,7,63,22,6,12,0.5,0,1,0.0,1910,https://www.pro-football-reference.com/boxscores/201612110gnb.htm
+2016,2016-12-11,D5QY6bOxfn8ZL,Green Bay,Packers,GB,30,93,2,18,25,,246,3,0,142.667,237,330,1,9,0,0,0,5,50,18,4,11,0.364,0,1,0.0,1690,https://www.pro-football-reference.com/boxscores/201612110gnb.htm
+2016,2016-12-11,CI5mhfNa0Zqd2,New Orleans,Saints,NO,16,46,0,25,41,,257,0,3,48.526,248,294,1,9,0,0,3,13,104,14,4,13,0.308,1,2,0.5,1605,https://www.pro-football-reference.com/boxscores/201612110tam.htm
+2016,2016-12-11,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,35,104,1,16,26,,184,0,0,82.853,166,270,2,18,0,0,0,7,65,21,6,13,0.462,0,0,0.0,1995,https://www.pro-football-reference.com/boxscores/201612110tam.htm
+2016,2016-12-11,KdjU81i7YSFE7,Dallas,Cowboys,DAL,25,108,0,17,37,,165,1,2,45.439,152,260,3,13,2,1,3,5,54,13,1,15,0.067,1,2,0.5,1748,https://www.pro-football-reference.com/boxscores/201612110nyg.htm
+2016,2016-12-11,n8CuHV9wbYCqF,New York,Giants,NYG,33,93,0,17,28,,193,1,1,78.423,167,260,3,26,4,2,3,7,50,12,2,14,0.143,2,2,1.0,1852,https://www.pro-football-reference.com/boxscores/201612110nyg.htm
+2016,2016-12-12,zyhFXj1nywrm1,Baltimore,Ravens,BAL,14,42,0,37,52,,324,2,1,92.147,306,348,2,18,0,0,1,8,47,17,6,16,0.375,0,0,0.0,1846,https://www.pro-football-reference.com/boxscores/201612120nwe.htm
+2016,2016-12-12,VkxV91RtzHn65,New England,Patriots,NE,26,95,1,25,38,,406,3,1,116.776,401,496,1,5,2,2,3,5,48,20,8,16,0.5,1,1,1.0,1754,https://www.pro-football-reference.com/boxscores/201612120nwe.htm
+2016,2016-12-15,u98I1lDKQBwZ0,Los Angeles,Rams,LA,17,47,0,18,35,,167,0,0,64.821,136,183,4,31,1,0,0,8,76,13,3,12,0.25,0,4,0.0,1649,https://www.pro-football-reference.com/boxscores/201612150sea.htm
+2016,2016-12-15,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,30,72,0,19,26,,229,3,1,122.115,227,299,2,2,1,0,1,13,86,19,7,15,0.467,1,1,1.0,1951,https://www.pro-football-reference.com/boxscores/201612150sea.htm
+2016,2016-12-17,mfbu6O5aMHbJg,Miami,Dolphins,MIA,27,67,0,12,18,,236,4,1,126.157,236,303,1,0,1,0,1,9,70,13,5,12,0.417,0,0,0.0,1648,https://www.pro-football-reference.com/boxscores/201612170nyj.htm
+2016,2016-12-17,mexvMWO2v1hWn,New York,Jets,NYJ,23,116,0,25,46,,266,1,3,51.54,244,360,3,22,3,1,4,3,42,20,5,15,0.333,0,3,0.0,1952,https://www.pro-football-reference.com/boxscores/201612170nyj.htm
+2016,2016-12-18,IR4gIYmh269EI,Cleveland,Browns,CLE,21,107,1,17,28,,196,0,0,81.845,162,269,5,34,2,0,0,4,51,16,3,11,0.273,1,1,1.0,1541,https://www.pro-football-reference.com/boxscores/201612180buf.htm
+2016,2016-12-18,3VqeLK0LS9rpw,Buffalo,Bills,BUF,40,280,3,17,25,,174,1,0,101.083,171,451,1,3,0,0,0,5,42,29,4,9,0.444,0,1,0.0,2059,https://www.pro-football-reference.com/boxscores/201612180buf.htm
+2016,2016-12-18,D5QY6bOxfn8ZL,Green Bay,Packers,GB,23,226,3,19,31,,252,0,0,87.03,225,451,4,27,0,0,0,8,64,20,3,10,0.3,0,1,0.0,1967,https://www.pro-football-reference.com/boxscores/201612180chi.htm
+2016,2016-12-18,1vVmWGzUZ1rea,Chicago,Bears,CHI,19,95,1,30,43,,362,2,3,81.734,354,449,1,8,1,1,4,6,40,29,3,8,0.375,0,0,0.0,1633,https://www.pro-football-reference.com/boxscores/201612180chi.htm
+2016,2016-12-18,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,29,97,0,21,36,,286,1,0,93.056,285,382,1,1,1,0,0,7,104,26,5,13,0.385,0,0,0.0,1952,https://www.pro-football-reference.com/boxscores/201612180cin.htm
+2016,2016-12-18,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,28,76,2,16,27,,157,0,1,60.262,146,222,1,11,0,0,1,8,86,19,6,12,0.5,1,1,1.0,1648,https://www.pro-football-reference.com/boxscores/201612180cin.htm
+2016,2016-12-18,LJmHetie5VbbO,Indianapolis,Colts,IND,40,161,2,21,28,,250,2,0,125.595,250,411,0,0,0,0,0,5,55,27,7,13,0.538,0,1,0.0,2222,https://www.pro-football-reference.com/boxscores/201612180min.htm
+2016,2016-12-18,AzOs5UWsXusSW,Minnesota,Vikings,MIN,9,34,0,32,42,,291,0,1,84.524,248,282,5,43,2,2,3,6,27,20,3,9,0.333,0,1,0.0,1378,https://www.pro-football-reference.com/boxscores/201612180min.htm
+2016,2016-12-18,FCuH1wdksA2DQ,Detroit,Lions,DET,19,56,0,24,39,,273,0,1,71.848,268,324,1,5,2,1,2,2,15,16,5,14,0.357,0,0,0.0,1784,https://www.pro-football-reference.com/boxscores/201612180nyg.htm
+2016,2016-12-18,n8CuHV9wbYCqF,New York,Giants,NYG,32,114,0,20,28,,201,2,0,115.327,186,300,2,15,0,0,0,5,46,17,7,15,0.467,0,0,0.0,1816,https://www.pro-football-reference.com/boxscores/201612180nyg.htm
+2016,2016-12-18,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,20,67,1,12,28,,92,0,1,36.607,83,150,2,9,0,0,1,12,91,9,3,13,0.231,0,1,0.0,1398,https://www.pro-football-reference.com/boxscores/201612180htx.htm
+2016,2016-12-18,UI0Ax4HUEXFh6,Houston,Texans,HOU,31,79,1,29,47,,308,0,2,63.076,308,387,0,0,3,0,2,6,71,23,4,14,0.286,0,1,0.0,2202,https://www.pro-football-reference.com/boxscores/201612180htx.htm
+2016,2016-12-18,ltMyRE3yvVUaw,Tennessee,Titans,TEN,29,148,2,19,33,,241,0,1,67.866,241,389,1,0,2,2,3,2,25,21,6,14,0.429,1,1,1.0,1835,https://www.pro-football-reference.com/boxscores/201612180kan.htm
+2016,2016-12-18,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,28,157,2,15,28,,163,0,1,56.101,159,316,1,4,2,0,1,5,40,13,4,14,0.286,1,2,0.5,1765,https://www.pro-football-reference.com/boxscores/201612180kan.htm
+2016,2016-12-18,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,38,169,2,22,42,,170,0,1,52.679,159,328,1,11,3,0,1,3,30,27,8,18,0.444,1,3,0.333,2198,https://www.pro-football-reference.com/boxscores/201612180rav.htm
+2016,2016-12-18,zyhFXj1nywrm1,Baltimore,Ravens,BAL,24,151,1,16,30,,206,2,1,83.472,189,340,3,17,2,1,2,7,62,18,4,11,0.364,0,0,0.0,1402,https://www.pro-football-reference.com/boxscores/201612180rav.htm
+2016,2016-12-18,IwSI92ZDKoazn,San Francisco,49ers,SF,20,107,0,20,33,,183,2,0,95.896,165,272,2,18,1,1,1,4,20,15,6,13,0.462,0,0,0.0,1439,https://www.pro-football-reference.com/boxscores/201612180atl.htm
+2016,2016-12-18,mLspw4gJNTQGN,Atlanta,Falcons,ATL,41,248,3,18,24,,302,2,0,144.444,302,550,1,0,2,1,1,4,27,29,5,9,0.556,0,0,0.0,2161,https://www.pro-football-reference.com/boxscores/201612180atl.htm
+2016,2016-12-18,CI5mhfNa0Zqd2,New Orleans,Saints,NO,32,130,2,37,48,,389,4,0,127.865,358,488,3,31,1,1,1,5,46,33,9,14,0.643,1,1,1.0,2233,https://www.pro-football-reference.com/boxscores/201612180crd.htm
+2016,2016-12-18,GJizlkzQFaqGA,Arizona,Cardinals,ARI,15,116,3,28,40,,318,2,0,110.208,309,425,1,9,2,2,2,7,52,26,5,10,0.5,1,1,1.0,1367,https://www.pro-football-reference.com/boxscores/201612180crd.htm
+2016,2016-12-18,VkxV91RtzHn65,New England,Patriots,NE,39,136,1,16,32,,188,0,0,68.229,177,313,2,11,3,0,0,4,30,20,5,17,0.294,0,1,0.0,2016,https://www.pro-football-reference.com/boxscores/201612180den.htm
+2016,2016-12-18,6DclFuycdPaOB,Denver,Broncos,DEN,17,58,0,25,40,,282,0,1,73.125,251,309,4,31,2,2,3,5,49,15,2,12,0.167,0,1,0.0,1584,https://www.pro-football-reference.com/boxscores/201612180den.htm
+2016,2016-12-18,LZoDld8s63xUs,Las Vegas,Raiders,LV,29,145,0,19,30,,213,1,1,81.667,200,345,2,13,2,1,2,2,15,18,4,13,0.308,0,0,0.0,1937,https://www.pro-football-reference.com/boxscores/201612180sdg.htm
+2016,2016-12-18,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,22,73,0,17,30,,206,2,1,86.25,190,263,3,16,2,1,2,6,44,14,8,15,0.533,0,1,0.0,1663,https://www.pro-football-reference.com/boxscores/201612180sdg.htm
+2016,2016-12-18,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,20,52,0,17,35,,247,2,3,55.298,224,276,4,23,2,1,4,3,35,16,4,12,0.333,0,1,0.0,1436,https://www.pro-football-reference.com/boxscores/201612180dal.htm
+2016,2016-12-18,KdjU81i7YSFE7,Dallas,Cowboys,DAL,32,185,2,32,36,,279,0,0,98.958,264,449,3,15,2,1,1,8,91,24,5,13,0.385,0,0,0.0,2164,https://www.pro-football-reference.com/boxscores/201612180dal.htm
+2016,2016-12-19,jJBGuksuDJF5L,Carolina,Panthers,CAR,33,148,0,21,37,,300,2,0,101.182,290,438,2,10,1,0,0,6,62,22,4,15,0.267,0,0,0.0,2079,https://www.pro-football-reference.com/boxscores/201612190was.htm
+2016,2016-12-19,9JtBk8kFeaGEs,Washington,Football Team,WAS,13,29,1,32,47,,315,0,1,77.881,306,335,1,9,2,2,3,7,70,18,2,12,0.167,1,1,1.0,1521,https://www.pro-football-reference.com/boxscores/201612190was.htm
+2016,2016-12-22,n8CuHV9wbYCqF,New York,Giants,NYG,25,114,0,38,63,,356,1,3,61.343,356,470,0,0,2,0,3,5,50,24,10,22,0.455,1,2,0.5,2044,https://www.pro-football-reference.com/boxscores/201612220phi.htm
+2016,2016-12-22,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,30,118,1,14,25,,168,1,1,73.417,168,286,0,0,0,0,1,1,5,15,4,12,0.333,0,1,0.0,1556,https://www.pro-football-reference.com/boxscores/201612220phi.htm
+2016,2016-12-24,mLspw4gJNTQGN,Atlanta,Falcons,ATL,24,152,1,27,33,,277,2,0,121.843,256,408,4,21,1,0,0,6,45,21,6,14,0.429,0,0,0.0,1965,https://www.pro-football-reference.com/boxscores/201612240car.htm
+2016,2016-12-24,jJBGuksuDJF5L,Carolina,Panthers,CAR,23,119,0,18,43,,198,1,2,44.525,183,302,2,15,0,0,2,4,24,17,4,15,0.267,3,4,0.75,1635,https://www.pro-football-reference.com/boxscores/201612240car.htm
+2016,2016-12-24,mfbu6O5aMHbJg,Miami,Dolphins,MIA,38,261,2,16,30,,233,2,1,87.222,233,494,0,0,0,0,1,2,15,22,5,12,0.417,0,0,0.0,2020,https://www.pro-football-reference.com/boxscores/201612240buf.htm
+2016,2016-12-24,3VqeLK0LS9rpw,Buffalo,Bills,BUF,49,272,1,26,39,,329,3,0,118.429,317,589,2,12,1,0,0,5,35,30,8,18,0.444,1,2,0.5,2433,https://www.pro-football-reference.com/boxscores/201612240buf.htm
+2016,2016-12-24,9JtBk8kFeaGEs,Washington,Football Team,WAS,35,208,4,18,29,,270,1,0,104.095,270,478,0,0,0,0,0,7,73,21,8,13,0.615,0,1,0.0,1955,https://www.pro-football-reference.com/boxscores/201612240chi.htm
+2016,2016-12-24,1vVmWGzUZ1rea,Chicago,Bears,CHI,26,140,1,24,40,,323,2,5,62.812,318,458,1,5,0,0,5,4,52,31,7,10,0.7,1,1,1.0,1645,https://www.pro-football-reference.com/boxscores/201612240chi.htm
+2016,2016-12-24,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,19,34,0,23,46,,322,2,1,78.351,322,356,0,0,1,0,1,9,92,19,5,15,0.333,2,2,1.0,1651,https://www.pro-football-reference.com/boxscores/201612240cle.htm
+2016,2016-12-24,IR4gIYmh269EI,Cleveland,Browns,CLE,29,124,2,19,28,,175,0,0,84.673,127,251,9,48,0,0,0,4,44,23,6,15,0.4,1,1,1.0,1949,https://www.pro-football-reference.com/boxscores/201612240cle.htm
+2016,2016-12-24,AzOs5UWsXusSW,Minnesota,Vikings,MIN,20,93,0,34,50,,382,3,0,110.583,353,446,4,29,2,2,2,8,70,22,5,15,0.333,3,3,1.0,1861,https://www.pro-football-reference.com/boxscores/201612240gnb.htm
+2016,2016-12-24,D5QY6bOxfn8ZL,Green Bay,Packers,GB,15,40,1,28,39,,347,4,0,133.173,308,348,4,39,1,0,0,3,21,19,6,13,0.462,0,0,0.0,1739,https://www.pro-football-reference.com/boxscores/201612240gnb.htm
+2016,2016-12-24,ltMyRE3yvVUaw,Tennessee,Titans,TEN,20,58,0,21,44,,223,2,1,68.655,205,263,3,18,1,0,1,6,49,19,5,14,0.357,0,1,0.0,1649,https://www.pro-football-reference.com/boxscores/201612240jax.htm
+2016,2016-12-24,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,28,84,1,27,39,,345,2,0,113.729,331,415,2,14,2,1,1,4,45,25,4,12,0.333,0,0,0.0,1951,https://www.pro-football-reference.com/boxscores/201612240jax.htm
+2016,2016-12-24,mexvMWO2v1hWn,New York,Jets,NYJ,29,111,0,8,24,,136,0,3,13.889,128,239,2,8,1,1,4,6,77,14,1,11,0.091,2,3,0.667,1517,https://www.pro-football-reference.com/boxscores/201612240nwe.htm
+2016,2016-12-24,VkxV91RtzHn65,New England,Patriots,NE,40,114,2,18,29,,220,3,0,119.899,211,325,1,9,1,0,0,3,20,21,11,18,0.611,0,0,0.0,2083,https://www.pro-football-reference.com/boxscores/201612240nwe.htm
+2016,2016-12-24,LJmHetie5VbbO,Indianapolis,Colts,IND,24,102,1,19,29,,288,2,2,92.313,288,390,0,0,1,1,3,4,22,20,4,8,0.5,0,1,0.0,1435,https://www.pro-football-reference.com/boxscores/201612240rai.htm
+2016,2016-12-24,LZoDld8s63xUs,Las Vegas,Raiders,LV,37,210,2,23,34,,261,3,0,119.853,253,463,1,8,1,0,0,10,93,27,9,15,0.6,0,0,0.0,2165,https://www.pro-football-reference.com/boxscores/201612240rai.htm
+2016,2016-12-24,GJizlkzQFaqGA,Arizona,Cardinals,ARI,29,94,3,16,27,,284,1,0,107.639,276,370,1,8,1,1,1,7,85,21,1,9,0.111,0,0,0.0,1578,https://www.pro-football-reference.com/boxscores/201612240sea.htm
+2016,2016-12-24,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,27,78,0,29,45,,350,4,0,117.824,313,391,6,37,1,1,1,5,40,24,8,17,0.471,0,2,0.0,2022,https://www.pro-football-reference.com/boxscores/201612240sea.htm
+2016,2016-12-24,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,21,89,1,23,35,,277,2,2,85.06,260,349,2,17,0,0,2,7,63,23,7,12,0.583,0,0,0.0,1704,https://www.pro-football-reference.com/boxscores/201612240nor.htm
+2016,2016-12-24,CI5mhfNa0Zqd2,New Orleans,Saints,NO,31,123,2,23,34,,299,1,0,104.902,294,417,2,5,1,0,0,7,59,25,5,12,0.417,0,0,0.0,1896,https://www.pro-football-reference.com/boxscores/201612240nor.htm
+2016,2016-12-24,IwSI92ZDKoazn,San Francisco,49ers,SF,29,70,1,28,37,,266,2,1,101.858,253,323,4,13,2,1,2,11,100,21,6,16,0.375,1,1,1.0,1863,https://www.pro-football-reference.com/boxscores/201612240ram.htm
+2016,2016-12-24,u98I1lDKQBwZ0,Los Angeles,Rams,LA,29,99,2,11,24,,90,1,2,35.069,78,177,4,12,2,0,2,5,45,13,4,13,0.308,1,1,1.0,1737,https://www.pro-football-reference.com/boxscores/201612240ram.htm
+2016,2016-12-24,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,19,50,0,28,41,,268,1,1,84.197,244,294,3,24,1,0,1,6,60,15,7,16,0.438,1,1,1.0,1734,https://www.pro-football-reference.com/boxscores/201612240htx.htm
+2016,2016-12-24,UI0Ax4HUEXFh6,Houston,Texans,HOU,24,95,1,18,29,,176,0,0,79.095,155,250,4,21,1,0,0,3,25,17,4,14,0.286,0,0,0.0,1866,https://www.pro-football-reference.com/boxscores/201612240htx.htm
+2016,2016-12-25,zyhFXj1nywrm1,Baltimore,Ravens,BAL,26,122,1,30,44,,262,1,1,81.818,246,368,2,16,2,0,1,7,95,22,9,17,0.529,0,1,0.0,2077,https://www.pro-football-reference.com/boxscores/201612250pit.htm
+2016,2016-12-25,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,22,127,1,24,33,,279,3,2,102.967,279,406,0,0,0,0,2,4,45,23,3,7,0.429,0,0,0.0,1523,https://www.pro-football-reference.com/boxscores/201612250pit.htm
+2016,2016-12-25,6DclFuycdPaOB,Denver,Broncos,DEN,14,63,1,17,43,,183,0,1,43.072,183,246,0,0,3,2,3,9,70,14,4,15,0.267,1,2,0.5,1319,https://www.pro-football-reference.com/boxscores/201612250kan.htm
+2016,2016-12-25,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,37,238,2,26,37,,246,2,1,95.101,246,484,0,0,2,0,1,8,65,23,9,17,0.529,0,0,0.0,2281,https://www.pro-football-reference.com/boxscores/201612250kan.htm
+2016,2016-12-26,FCuH1wdksA2DQ,Detroit,Lions,DET,20,90,3,26,46,,260,0,1,63.678,229,319,4,31,2,1,2,5,62,23,5,12,0.417,2,2,1.0,1843,https://www.pro-football-reference.com/boxscores/201612260dal.htm
+2016,2016-12-26,KdjU81i7YSFE7,Dallas,Cowboys,DAL,30,164,2,16,21,,222,4,0,149.206,211,375,1,11,0,0,0,8,47,23,4,8,0.5,0,0,0.0,1757,https://www.pro-football-reference.com/boxscores/201612260dal.htm
+2016,2017-01-01,3VqeLK0LS9rpw,Buffalo,Bills,BUF,28,68,1,15,31,,182,0,1,53.427,162,230,3,20,2,2,3,0,0,14,6,16,0.375,0,1,0.0,1713,https://www.pro-football-reference.com/boxscores/201701010nyj.htm
+2016,2017-01-01,mexvMWO2v1hWn,New York,Jets,NYJ,30,127,0,20,30,,210,2,0,109.028,202,329,1,8,1,0,0,2,15,18,4,13,0.308,0,2,0.0,1887,https://www.pro-football-reference.com/boxscores/201701010nyj.htm
+2016,2017-01-01,jJBGuksuDJF5L,Carolina,Panthers,CAR,32,128,1,18,32,,237,1,3,51.172,207,335,3,30,0,0,3,4,45,18,4,15,0.267,2,2,1.0,1944,https://www.pro-football-reference.com/boxscores/201701010tam.htm
+2016,2017-01-01,QMAZH1v922YLu,Tampa Bay,Buccaneers,TB,25,112,0,20,35,,202,1,1,71.369,188,300,3,14,1,1,2,5,30,18,4,12,0.333,0,0,0.0,1656,https://www.pro-football-reference.com/boxscores/201701010tam.htm
+2016,2017-01-01,1vVmWGzUZ1rea,Chicago,Bears,CHI,37,183,0,13,20,,149,1,2,64.375,140,323,2,9,4,3,5,6,49,19,2,9,0.222,1,2,0.5,1788,https://www.pro-football-reference.com/boxscores/201701010min.htm
+2016,2017-01-01,AzOs5UWsXusSW,Minnesota,Vikings,MIN,28,124,1,25,34,,250,3,1,111.152,250,374,0,0,0,0,1,2,15,21,6,12,0.5,0,1,0.0,1812,https://www.pro-football-reference.com/boxscores/201701010min.htm
+2016,2017-01-01,zyhFXj1nywrm1,Baltimore,Ravens,BAL,16,72,1,33,51,,279,0,2,62.459,263,335,3,16,0,0,2,4,41,22,8,16,0.5,1,3,0.333,1758,https://www.pro-football-reference.com/boxscores/201701010cin.htm
+2016,2017-01-01,22ZdibiqvfA2D,Cincinnati,Bengals,CIN,38,153,2,18,28,,226,1,0,101.19,218,371,1,8,1,0,0,2,20,25,1,8,0.125,0,0,0.0,1842,https://www.pro-football-reference.com/boxscores/201701010cin.htm
+2016,2017-01-01,IR4gIYmh269EI,Cleveland,Browns,CLE,33,231,1,29,40,,232,2,1,92.917,206,437,4,26,4,3,4,5,37,27,8,15,0.533,0,0,0.0,2334,https://www.pro-football-reference.com/boxscores/201701010pit.htm
+2016,2017-01-01,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,28,69,1,24,37,,277,3,1,103.097,243,312,4,34,1,0,1,9,43,21,3,14,0.214,2,2,1.0,1989,https://www.pro-football-reference.com/boxscores/201701010pit.htm
+2016,2017-01-01,RtOjnciWkJPaL,Jacksonville,Jaguars,JAC,30,182,1,25,39,,301,1,0,96.207,288,470,2,13,2,2,2,8,54,23,4,14,0.286,0,0,0.0,1776,https://www.pro-football-reference.com/boxscores/201701010clt.htm
+2016,2017-01-01,LJmHetie5VbbO,Indianapolis,Colts,IND,22,94,1,24,41,,321,2,1,89.583,290,384,4,31,1,1,2,4,35,24,2,10,0.2,1,1,1.0,1824,https://www.pro-football-reference.com/boxscores/201701010clt.htm
+2016,2017-01-01,KdjU81i7YSFE7,Dallas,Cowboys,DAL,21,69,0,16,29,,151,1,2,52.514,126,195,3,25,1,0,2,5,35,15,5,12,0.417,0,0,0.0,1458,https://www.pro-football-reference.com/boxscores/201701010phi.htm
+2016,2017-01-01,hjjmgzxilGWdr,Philadelphia,Eagles,PHI,30,114,1,27,43,,245,2,0,93.653,232,346,2,13,0,0,0,4,61,24,6,14,0.429,0,1,0.0,2142,https://www.pro-football-reference.com/boxscores/201701010phi.htm
+2016,2017-01-01,UI0Ax4HUEXFh6,Houston,Texans,HOU,22,46,1,26,48,,278,1,0,78.299,243,289,4,35,1,1,1,6,35,20,3,15,0.2,4,6,0.667,1748,https://www.pro-football-reference.com/boxscores/201701010oti.htm
+2016,2017-01-01,ltMyRE3yvVUaw,Tennessee,Titans,TEN,29,103,1,16,26,,150,1,1,74.199,133,236,4,17,0,0,1,7,50,16,9,15,0.6,0,0,0.0,1852,https://www.pro-football-reference.com/boxscores/201701010oti.htm
+2016,2017-01-01,VkxV91RtzHn65,New England,Patriots,NE,29,120,1,25,34,,276,3,0,126.593,276,396,0,0,0,0,0,7,64,22,7,12,0.583,0,0,0.0,1882,https://www.pro-football-reference.com/boxscores/201701010mia.htm
+2016,2017-01-01,mfbu6O5aMHbJg,Miami,Dolphins,MIA,23,75,0,24,34,,205,2,1,93.382,205,280,0,0,3,1,2,9,73,16,7,12,0.583,0,0,0.0,1718,https://www.pro-football-reference.com/boxscores/201701010mia.htm
+2016,2017-01-01,CI5mhfNa0Zqd2,New Orleans,Saints,NO,23,132,2,29,50,,350,2,1,84.583,341,473,2,9,1,0,1,6,70,26,7,16,0.438,3,3,1.0,1815,https://www.pro-football-reference.com/boxscores/201701010atl.htm
+2016,2017-01-01,mLspw4gJNTQGN,Atlanta,Falcons,ATL,22,142,1,27,36,,331,4,0,139.931,323,465,1,8,0,0,0,9,63,25,6,11,0.545,0,0,0.0,1785,https://www.pro-football-reference.com/boxscores/201701010atl.htm
+2016,2017-01-01,GJizlkzQFaqGA,Arizona,Cardinals,ARI,24,84,1,22,42,,263,3,2,75.794,260,344,1,3,1,0,2,4,51,21,4,14,0.286,1,2,0.5,1678,https://www.pro-football-reference.com/boxscores/201701010ram.htm
+2016,2017-01-01,u98I1lDKQBwZ0,Los Angeles,Rams,LA,22,52,0,17,28,,143,0,2,44.196,71,123,7,72,5,1,3,9,61,9,2,14,0.143,1,2,0.5,1922,https://www.pro-football-reference.com/boxscores/201701010ram.htm
+2016,2017-01-01,LZoDld8s63xUs,Las Vegas,Raiders,LV,16,57,0,20,32,,171,1,1,73.828,164,221,2,7,3,2,3,13,125,11,2,11,0.182,0,1,0.0,1475,https://www.pro-football-reference.com/boxscores/201701010den.htm
+2016,2017-01-01,6DclFuycdPaOB,Denver,Broncos,DEN,40,143,1,17,27,,206,2,1,95.602,206,349,0,0,1,0,1,5,43,18,5,15,0.333,1,3,0.333,2125,https://www.pro-football-reference.com/boxscores/201701010den.htm
+2016,2017-01-01,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,31,103,1,21,28,,264,2,1,112.798,262,365,1,2,0,0,1,4,19,26,8,12,0.667,0,0,0.0,1848,https://www.pro-football-reference.com/boxscores/201701010sdg.htm
+2016,2017-01-01,SjaMbkmeizJD4,Los Angeles,Chargers,LAC,26,129,0,22,38,,269,2,2,75.439,269,398,0,0,0,0,2,10,50,26,3,10,0.3,2,2,1.0,1752,https://www.pro-football-reference.com/boxscores/201701010sdg.htm
+2016,2017-01-01,n8CuHV9wbYCqF,New York,Giants,NYG,40,161,1,17,27,,180,0,0,82.33,171,332,1,9,0,0,0,5,42,17,6,17,0.353,0,1,0.0,2152,https://www.pro-football-reference.com/boxscores/201701010was.htm
+2016,2017-01-01,9JtBk8kFeaGEs,Washington,Football Team,WAS,15,38,0,22,35,,287,1,2,74.345,246,284,4,41,2,1,3,5,42,16,4,12,0.333,0,0,0.0,1448,https://www.pro-football-reference.com/boxscores/201701010was.htm
+2016,2017-01-01,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,25,87,1,23,38,,300,1,0,94.189,289,376,2,11,3,0,0,4,34,18,3,12,0.25,0,1,0.0,1774,https://www.pro-football-reference.com/boxscores/201701010sfo.htm
+2016,2017-01-01,IwSI92ZDKoazn,San Francisco,49ers,SF,31,62,2,17,22,,215,1,0,122.348,191,253,5,24,3,2,2,4,25,14,2,11,0.182,2,3,0.667,1826,https://www.pro-football-reference.com/boxscores/201701010sfo.htm
+2016,2017-01-01,D5QY6bOxfn8ZL,Green Bay,Packers,GB,31,153,0,27,39,,300,4,0,126.015,295,448,1,5,0,0,0,10,75,28,7,13,0.538,0,0,0.0,2049,https://www.pro-football-reference.com/boxscores/201701010det.htm
+2016,2017-01-01,FCuH1wdksA2DQ,Detroit,Lions,DET,21,76,1,26,41,,347,2,1,96.291,332,408,2,15,0,0,1,5,30,24,5,12,0.417,0,0,0.0,1551,https://www.pro-football-reference.com/boxscores/201701010det.htm
+2016,2017-01-07,LZoDld8s63xUs,Las Vegas,Raiders,LV,21,64,1,18,45,,161,1,3,29.954,139,203,3,22,0,0,3,8,63,16,2,16,0.125,1,2,0.5,1591,https://www.pro-football-reference.com/boxscores/201701070htx.htm
+2016,2017-01-07,UI0Ax4HUEXFh6,Houston,Texans,HOU,44,123,2,14,25,,168,1,0,90.083,168,291,0,0,3,0,0,7,65,19,4,15,0.267,0,0,0.0,2009,https://www.pro-football-reference.com/boxscores/201701070htx.htm
+2016,2017-01-07,FCuH1wdksA2DQ,Detroit,Lions,DET,15,49,0,18,32,,205,0,0,75.651,182,231,3,23,1,0,0,7,68,13,2,11,0.182,0,2,0.0,1401,https://www.pro-football-reference.com/boxscores/201701070sea.htm
+2016,2017-01-07,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,38,177,1,23,30,,224,2,0,119.306,210,387,3,14,0,0,0,6,40,24,9,16,0.562,2,2,1.0,2199,https://www.pro-football-reference.com/boxscores/201701070sea.htm
+2016,2017-01-08,mfbu6O5aMHbJg,Miami,Dolphins,MIA,21,52,0,29,36,,289,1,1,97.801,253,305,5,36,3,2,3,6,64,18,6,14,0.429,2,4,0.5,1922,https://www.pro-football-reference.com/boxscores/201701080pit.htm
+2016,2017-01-08,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,35,179,2,13,18,,197,2,2,105.324,188,367,1,9,0,0,2,6,60,19,4,9,0.444,0,0,0.0,1678,https://www.pro-football-reference.com/boxscores/201701080pit.htm
+2016,2017-01-08,n8CuHV9wbYCqF,New York,Giants,NYG,17,70,0,23,44,,299,1,1,72.064,295,365,2,4,1,1,2,3,42,15,5,16,0.312,1,1,1.0,1529,https://www.pro-football-reference.com/boxscores/201701080gnb.htm
+2016,2017-01-08,D5QY6bOxfn8ZL,Green Bay,Packers,GB,25,75,1,25,40,,362,4,0,125.208,331,406,5,31,0,0,0,2,20,23,5,14,0.357,1,2,0.5,2071,https://www.pro-football-reference.com/boxscores/201701080gnb.htm
+2016,2017-01-14,4M8AK5p0WXs1N,Seattle,Seahawks,SEA,21,101,0,17,30,,225,2,2,75.0,208,309,3,17,0,0,2,7,40,17,5,11,0.455,0,0,0.0,1601,https://www.pro-football-reference.com/boxscores/201701140atl.htm
+2016,2017-01-14,mLspw4gJNTQGN,Atlanta,Falcons,ATL,29,99,1,26,37,,338,3,0,125.732,323,422,3,15,2,0,0,2,10,28,6,12,0.5,0,0,0.0,1999,https://www.pro-football-reference.com/boxscores/201701140atl.htm
+2016,2017-01-14,UI0Ax4HUEXFh6,Houston,Texans,HOU,23,105,0,23,40,,197,1,3,47.604,180,285,3,17,0,0,3,5,75,14,3,16,0.188,0,0,0.0,1950,https://www.pro-football-reference.com/boxscores/201701140nwe.htm
+2016,2017-01-14,VkxV91RtzHn65,New England,Patriots,NE,27,98,1,18,38,,287,2,2,68.64,279,377,2,8,2,1,3,5,50,20,5,14,0.357,0,0,0.0,1650,https://www.pro-football-reference.com/boxscores/201701140nwe.htm
+2016,2017-01-15,D5QY6bOxfn8ZL,Green Bay,Packers,GB,17,87,2,28,43,,355,2,1,96.56,326,413,3,29,0,0,1,3,22,27,6,11,0.545,0,0,0.0,1786,https://www.pro-football-reference.com/boxscores/201701150dal.htm
+2016,2017-01-15,KdjU81i7YSFE7,Dallas,Cowboys,DAL,24,138,0,24,38,,302,3,1,103.18,291,429,2,11,0,0,1,6,50,25,6,11,0.545,0,0,0.0,1814,https://www.pro-football-reference.com/boxscores/201701150dal.htm
+2016,2017-01-15,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,34,171,0,20,31,,224,0,1,72.513,218,389,1,6,0,0,1,4,53,20,7,15,0.467,0,0,0.0,2053,https://www.pro-football-reference.com/boxscores/201701150kan.htm
+2016,2017-01-15,oiGiwWPf0UqMC,Kansas City,Chiefs,KC,14,61,1,20,34,,172,1,1,69.73,166,227,1,6,1,1,2,6,60,16,2,9,0.222,2,2,1.0,1547,https://www.pro-football-reference.com/boxscores/201701150kan.htm
+2016,2017-01-22,D5QY6bOxfn8ZL,Green Bay,Packers,GB,17,99,0,27,45,,287,3,1,91.62,268,367,2,19,1,1,2,6,63,24,4,10,0.4,2,2,1.0,1581,https://www.pro-football-reference.com/boxscores/201701220atl.htm
+2016,2017-01-22,mLspw4gJNTQGN,Atlanta,Falcons,ATL,30,101,2,27,38,,392,4,0,139.364,392,493,0,0,2,0,0,4,31,30,10,13,0.769,0,0,0.0,2019,https://www.pro-football-reference.com/boxscores/201701220atl.htm
+2016,2017-01-22,SlVgURDFI7EXX,Pittsburgh,Steelers,PIT,20,54,1,31,47,,314,1,1,83.112,314,368,0,0,1,1,2,3,19,22,9,15,0.6,0,1,0.0,1714,https://www.pro-football-reference.com/boxscores/201701220nwe.htm
+2016,2017-01-22,VkxV91RtzHn65,New England,Patriots,NE,27,57,1,32,42,,384,3,0,127.48,374,431,2,10,0,0,0,2,10,26,11,17,0.647,0,0,0.0,1886,https://www.pro-football-reference.com/boxscores/201701220nwe.htm
+2016,2017-02-05,VkxV91RtzHn65,New England,Patriots,NE,25,104,2,43,63,,466,2,1,93.75,442,546,5,24,1,1,2,4,23,37,7,14,0.5,1,1,1.0,2431,https://www.pro-football-reference.com/boxscores/201702050atl.htm
+2016,2017-02-05,mLspw4gJNTQGN,Atlanta,Falcons,ATL,18,104,1,17,23,,284,2,0,144.112,240,344,5,44,1,1,1,9,65,17,1,8,0.125,0,0,0.0,1407,https://www.pro-football-reference.com/boxscores/201702050atl.htm
