@@ -1,6 +1,38 @@
 {
-    "start_year": 2020,
-    "end_year": 2023,
-    "glossary_link": "https://www.pro-football-reference.com/about/glossary.htm",
-    "data_folder": "./data"
+    "start_year": 2014,
+    "end_year": 2024,
+    "data_folder": "./data",
+    "nflscraPy_data": {
+        "Metadata": [
+            "temperature",
+            "humidity_pct",
+            "wind_speed"
+        ],
+        "Statistics": [
+            "rush_att",
+            "rush_yds",
+            "rush_tds",
+            "pass_cmp",
+            "pass_att",
+            "pass_cmp_pct",
+            "pass_yds",
+            "pass_tds",
+            "pass_int",
+            "passer_rating",
+            "net_pass_yds",
+            "total_yds",
+            "times_sacked",
+            "yds_sacked_for",
+            "fumbles",
+            "fumbles_lost",
+            "turnovers",
+            "penalties",
+            "penalty_yds",
+            "first_downs",
+            "third_down_conv_pct",
+            "fourth_down_conv_pct",
+            "possession_time"
+        ]
+    }
+
 }
