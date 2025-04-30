@@ -1,4 +1,6 @@
 The code is in power_prediction.ipynb, which is an interactive python notebook from Jupyter. 
+The necessary packages are: tensorflow, scikit-learn, numpy, pandas
+(run pip install tensorflow scikit-learn numpy pandas before executing code)
 
 IF YOU HAVE A TEXT EDITOR LIKE VSCODE:
 1. Make sure you have Jupyter installed (pip install jupyter)
